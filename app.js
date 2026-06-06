@@ -3,6 +3,9 @@ const MAX_JOBS = 4;
 const DESCRIPTION_PREVIEW_CHARS = 520;
 const ADMIN_USER = "adminA";
 const ADMIN_PASSWORD = "1432";
+const STORAGE_KEY = "expertGroundTruthRatings.v1";
+const SHEETS_URL_KEY = "expertGroundTruthSheetsUrl.v1";
+const GOOGLE_SHEETS_WEB_APP_URL = "";
 
 const demoJobs = [
   {
@@ -59,8 +62,35 @@ const el = {
   progressFill: document.querySelector("#progressFill"),
   metricLabel: document.querySelector("#metricLabel"),
   downloadCsv: document.querySelector("#downloadCsv"),
-  downloadJson: document.querySelector("#downloadJson")
+  downloadJson: document.querySelector("#downloadJson"),
+  sheetsWebAppUrl: document.querySelector("#sheetsWebAppUrl"),
+  saveSheetsUrl: document.querySelector("#saveSheetsUrl"),
+  submitSheets: document.querySelector("#submitSheets"),
+  submitStatus: document.querySelector("#submitStatus")
 };
+
+function activeSheetsUrl() {
+  return (GOOGLE_SHEETS_WEB_APP_URL || localStorage.getItem(SHEETS_URL_KEY) || "").trim();
+}
+
+function saveLocalState() {
+  const payload = {
+    expertId: el.expertId.value.trim(),
+    ratings: [...state.ratings.values()]
+  };
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(payload));
+}
+
+function loadLocalState() {
+  try {
+    const saved = JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}");
+    if (saved.expertId) el.expertId.value = saved.expertId;
+    state.ratings = new Map((saved.ratings || []).map((rating) => [ratingKey(rating.Posting_Code, rating.Candidate_Code, rating.Round_ID), rating]));
+  } catch (error) {
+    console.warn("Unable to load saved ratings", error);
+  }
+  el.sheetsWebAppUrl.value = activeSheetsUrl();
+}
 
 function openAdminModal() {
   el.adminLoginError.hidden = true;
@@ -355,6 +385,7 @@ function saveScore(candidateCode, scoreValue) {
   const existing = ratingFor(candidateCode);
   if (!score && !existing?.Reason) {
     state.ratings.delete(ratingKey(currentPostingId(), candidateCode));
+    saveLocalState();
     renderSelected();
     return;
   }
@@ -366,6 +397,7 @@ function saveReason(candidateCode, reason) {
   const existing = ratingFor(candidateCode);
   if (!existing?.Score && !reason.trim()) {
     state.ratings.delete(ratingKey(currentPostingId(), candidateCode));
+    saveLocalState();
     renderProgress();
     return;
   }
@@ -392,15 +424,20 @@ function upsertRating(candidateCode, patch) {
     ...patch
   };
   state.ratings.set(ratingKey(currentPostingId(), candidateCode), record);
+  saveLocalState();
 }
 
-function download(format) {
-  const rows = [...state.ratings.values()].sort((a, b) => {
+function ratingRows() {
+  return [...state.ratings.values()].sort((a, b) => {
     if (a.Round_ID !== b.Round_ID) return a.Round_ID - b.Round_ID;
     const jobCompare = String(a.Posting_Code).localeCompare(String(b.Posting_Code));
     if (jobCompare) return jobCompare;
     return String(a.Candidate_Code).localeCompare(String(b.Candidate_Code));
   });
+}
+
+function download(format) {
+  const rows = ratingRows();
   const payload =
     format === "json"
       ? JSON.stringify(rows, null, 2)
@@ -427,6 +464,40 @@ function download(format) {
   URL.revokeObjectURL(url);
 }
 
+async function submitToGoogleSheets() {
+  const url = activeSheetsUrl();
+  const rows = ratingRows();
+  if (!url) {
+    el.submitStatus.textContent = "ยังไม่ได้ตั้งค่า Google Sheets URL";
+    return;
+  }
+  if (!rows.length) {
+    el.submitStatus.textContent = "ยังไม่มีคะแนนให้ส่ง";
+    return;
+  }
+  el.submitSheets.disabled = true;
+  el.submitStatus.textContent = "กำลังส่ง...";
+  const payload = {
+    submittedAt: new Date().toISOString(),
+    expertId: el.expertId.value.trim(),
+    appVersion: "static-v1",
+    ratings: rows
+  };
+  try {
+    await fetch(url, {
+      method: "POST",
+      mode: "no-cors",
+      headers: { "Content-Type": "text/plain;charset=utf-8" },
+      body: JSON.stringify(payload)
+    });
+    el.submitStatus.textContent = `ส่งแล้ว ${rows.length} รายการ กรุณาตรวจ Google Sheet`;
+  } catch (error) {
+    el.submitStatus.textContent = "ส่งไม่สำเร็จ กรุณาตรวจ URL";
+  } finally {
+    el.submitSheets.disabled = false;
+  }
+}
+
 function toCsv(rows, headers) {
   const escapeCsv = (value) => `"${String(value ?? "").replaceAll('"', '""')}"`;
   return [headers.join(","), ...rows.map((row) => headers.map((header) => escapeCsv(row[header])).join(","))].join("\n");
@@ -451,9 +522,9 @@ async function loadTemplateData() {
     const [jobText, studentText] = await Promise.all([jobResponse.text(), studentResponse.text()]);
     state.jobs = parseCsv(jobText).map(normalizeJob).filter((job) => job.Posting_ID).slice(0, MAX_JOBS);
     state.profiles = parseCsv(studentText).map(normalizeProfile).filter((profile) => profile.Candidate_Code);
-    state.ratings.clear();
     state.selectedCandidate = "";
     state.descriptionExpanded = false;
+    loadLocalState();
     el.uploadStatus.textContent = `โหลด posting_BLIND_for_experts.csv (${state.jobs.length}/4 ประกาศ) และ roster_BLIND_for_experts.csv (${allCandidates().length} คน) แล้ว`;
     renderAll();
   } catch (error) {
@@ -492,6 +563,19 @@ document.addEventListener("keydown", (event) => {
 
 el.loadDemo.addEventListener("click", loadTemplateData);
 
+el.expertId.addEventListener("input", saveLocalState);
+
+el.saveSheetsUrl.addEventListener("click", () => {
+  const url = el.sheetsWebAppUrl.value.trim();
+  if (url) {
+    localStorage.setItem(SHEETS_URL_KEY, url);
+    el.uploadStatus.textContent = "บันทึก Google Sheets Web App URL แล้ว";
+  } else {
+    localStorage.removeItem(SHEETS_URL_KEY);
+    el.uploadStatus.textContent = "ลบ Google Sheets Web App URL แล้ว";
+  }
+});
+
 el.roundSelect.addEventListener("change", () => {
   state.selectedRound = Number(el.roundSelect.value);
   state.selectedCandidate = "";
@@ -527,5 +611,6 @@ el.candidateRanking.addEventListener("input", (event) => {
 
 el.downloadCsv.addEventListener("click", () => download("csv"));
 el.downloadJson.addEventListener("click", () => download("json"));
+el.submitSheets.addEventListener("click", submitToGoogleSheets);
 
 loadTemplateData();

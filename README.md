@@ -26,12 +26,34 @@
 
 ## Admin
 
-กดปุ่ม `Admin` เพื่อเปิดส่วนส่งออกผล
+กดปุ่ม `Admin` เพื่อเปิดส่วนตั้งค่าและส่งออกผล
 
 - user: `adminA`
 - password: `1432`
 
-Admin สามารถดาวน์โหลดผลเป็น `CSV` หรือ `JSON`
+Admin สามารถ:
+
+- ตั้งค่า Google Sheets Web App URL
+- ดาวน์โหลดผลเป็น `CSV` หรือ `JSON`
+
+## บันทึกผลลง Google Sheets
+
+1. สร้าง Google Sheet เปล่า
+2. ไปที่ `Extensions` > `Apps Script`
+3. วางโค้ดจากไฟล์ `google_apps_script.gs`
+4. กด `Deploy` > `New deployment`
+5. เลือกชนิดเป็น `Web app`
+6. ตั้งค่า:
+   - Execute as: `Me`
+   - Who has access: `Anyone`
+7. กด `Deploy` แล้วคัดลอก Web App URL ที่ลงท้ายด้วย `/exec`
+8. กลับมาที่เว็บ กด `Admin`
+9. วาง URL ในช่อง `Google Sheets Web App URL` แล้วกด `บันทึก URL`
+10. ผู้ประเมินกด `บันทึกลง Google Sheets` เพื่อส่งคะแนน
+
+คะแนนจะถูกบันทึกลง sheet ชื่อ `Expert Ratings`
+
+หมายเหตุ: เว็บมี local autosave ใน browser เพื่อกันข้อมูลหายจากการ refresh แต่การรวมผลหลายคนควรใช้ปุ่มบันทึกลง Google Sheets
 
 ## เปิดใช้งานในเครื่อง
 

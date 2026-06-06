@@ -206,6 +206,16 @@ select {
   gap: 8px;
 }
 
+.sheets-config {
+  display: grid;
+  grid-template-columns: minmax(260px, 1fr) 150px;
+  gap: 10px;
+  align-items: end;
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
+}
+
 .status-text {
   min-height: 22px;
   margin: 12px 0 0;
@@ -265,6 +275,18 @@ select {
   height: 100%;
   background: linear-gradient(90deg, var(--teal), var(--amber));
   transition: width 180ms ease;
+}
+
+.submit-row {
+  display: grid;
+  grid-template-columns: minmax(180px, 240px) 1fr;
+  gap: 10px;
+  align-items: center;
+}
+
+.submit-status {
+  color: var(--muted);
+  font-size: 13px;
 }
 
 .skills-block {
@@ -597,7 +619,9 @@ th {
   .topbar,
   .header-actions,
   .selector-row,
-  .admin-grid {
+  .admin-grid,
+  .sheets-config,
+  .submit-row {
     display: grid;
     grid-template-columns: 1fr;
   }

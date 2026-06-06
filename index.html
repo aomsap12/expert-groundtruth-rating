@@ -52,6 +52,13 @@
             <button id="downloadJson" class="secondary-button" type="button">ดาวน์โหลด JSON</button>
           </div>
         </div>
+        <div class="sheets-config">
+          <label for="sheetsWebAppUrl">
+            Google Sheets Web App URL
+            <input id="sheetsWebAppUrl" type="url" placeholder="https://script.google.com/macros/s/.../exec" />
+          </label>
+          <button id="saveSheetsUrl" class="secondary-button" type="button">บันทึก URL</button>
+        </div>
         <p id="uploadStatus" class="status-text">กำลังโหลดข้อมูลจริง</p>
       </section>
     </section>
@@ -77,6 +84,10 @@
               <span id="metricLabel">0 ประกาศ / 0 นักศึกษา</span>
             </div>
             <div class="progress-bar" aria-hidden="true"><span id="progressFill"></span></div>
+            <div class="submit-row">
+              <button id="submitSheets" class="primary-button" type="button">บันทึกลง Google Sheets</button>
+              <span id="submitStatus" class="submit-status">ยังไม่ได้ส่งผล</span>
+            </div>
           </div>
         </section>
 
