@@ -1,97 +1,106 @@
 ﻿Posting_Code,Job_Title,Job_Type,Skill,Description
-P1,"Applied Data Scientist, Enterprise",data_scientist,"['Spark', 'Machine Learning', 'R', 'Python']","[<ul><li>
-Work closely with our customers to develop a strategy to extract the maximum possible value from the available data</li><li>
-Leverage the Python Data Science ecosystem to create prototypes, pipelines and visualizations to help our customers make better decisions. We also use R when necessary.
-</li><li>Be involved throughout customer interaction from project scoping to final delivery
-</li><li>Critically assess the type and quality of customer data and work with them to appreciate their toughest problems
-</li><li>Work independently or with our research team to develop a modelling strategy to sit at the core of a data-led simulation-based approach to problem solving
-</li><li>Take ownership of ensuring and demonstrating the reliability of the models that we create</li><div><br/>
-</div><div>
-Additionally you will drive thought leadership within the company and help our clients to understand their data needs and design their data strategies. This involves keeping up-to-date with a diverse body of cutting-edge research, designing and prototyping pioneering new technical approaches and rapidly developing expertise in new subject areas to support new bids and projects.</div></ul>, <ul><li>
-Strong background and experience in delivery of technical, data-rich projects ideally for external clients.
-</li><li>Degree in a scientific or mathematical field, ideally with a computational element</li><li>
-Pragmatic coding ability - with fluency in at least one relevant programming language and the openness to learn and adapt to a variety of languages. We mainly use Python, Pandas and many related tools and libraries.</li><li>
-Enthusiastic about continuously improving and rapidly developing new competencies.</li></ul>, <ul><li>
-Working with large data sets and big-data technologies such as Spark</li><li>
-Bayesian methods</li><li>
-Effectively communicating and visualising analysis of rich data sets</li><li>
-Probabilistic programming</li><div><br/>
-</div><div>
-Our office is currently located in Arlington, VA with client sites across N. Virginia</div></ul>]"
-P2,Data Analyst,data_analyst,"['R', 'Python', 'Excel', 'SQL']","[<ul>
-<li>Work with cross-functional teams to understand their analytics needs providing relevant data and presenting analysis results.</li>
-<li>Standardize and maintain daily &amp; weekly reporting of key metrics across different company areas- sales, marketing, customers and product.</li>
-<li>Design experiments and determine appropriate statistical approaches to answer specific product or business questions.</li>
-<li>Use appropriate tools (e.g. R, Python, MS Excel) to analyze and visualize data.</li>
-<li>Create charts and generate regular reports to track key metrics.</li>
+P1,Senior Data Scientist,data_scientist,"['Machine Learning', 'R', 'Python', 'SQL']","[<ul>
+<li>PhD with 1-2+ years of industry experience, or MSc (minimum) and 3-5+ years of industry experience</li>
 </ul>, <ul>
-<li>MS (or BS with 2-4 years of experience) in engineering, statistics or related quantitative field.</li>
-<li>Experience with building visualizations, trend analysis, statistical testing, and data-storytelling.</li>
-<li>Experience in analyzing data using statistical analysis tools such as R and scripting languages, such as Python.</li>
-<li>Experience in querying large and complex SQL databases.</li>
-<li>Strongly prefer someone with industry experience in a product, consumer marketing or customer-facing analyst role.</li>
-<li>Strong communication skills - help internal stakeholders &amp; clients understand metrics effectively.</li>
+<li>an MS or PhD in any mathematical or statistical subject, e.g.: mathematics, statistics, computer science, astrophysics, neuroscience, operations research, economics, any of the physical sciences</li>
+<li>strong skills in statistics, probability, and/or machine learning</li>
+<li>a track record of performing data science. The tooling/language isn't important. (e.g., numpy, pandas, scikit-learn, R, Julia, etc.)</li>
+<li>an excitement and willingness to learn new tools and techniques</li>
+<li>experience with relational databases and SQL</li>
+<li>relentless resourcefulness and the ability to thrive in a startup -- you're willing to do what needs to be done for the success of your team</li>
+<li>the ability to self-regulate and get stuff done with minimal direct supervision</li>
+<li>an intense curiosity and need to figure things out</li>
+<li>a demonstrated ability to communicate statistical findings visually (i.e., data visualization -- a big plus)</li>
+<li>strong communication skills and the ability to work with others in a closely collaborative team environment. We don't need divas -- we value team players.</li>
+<li>the ability to take the complex and make it as simple as possible, but not simpler (see Einstein and Occam)</li>
 </ul>, <ul>
-<li>Medical/Dental/Vision/Life/Disability Benefits</li>
-<li>SIMPLE IRA with company match</li>
-<li>Potential to earn equity (not guaranteed)</li>
+<li>We're small. You will feel a real sense of ownership over projects, because you might be the only one working on them!</li>
+<li>We're growing fast. You will get in on the ground floor of something that's going to be special.</li>
+<li>We're funded by the best VCs in the world.</li>
+<li>Our founding team is experienced and led the development of one of the top 25 apps in the US appstore (Square Cash). Learn from the best.</li>
+<li>Great technology stack. It's fun to work with the best tools and the latest software.</li>
+<li>The business makes sense. It's straightforward, provides clear value to both store owners and to makers. You get to help change an entire industry for the better.</li>
+<li>It's beautiful. Work on something that's well-designed, following the footsteps of Apple and Square.</li>
+<li>We're laid back but work hard. There aren't many rules, other than get the work done. We're at the early stages so you can help shape company we're building.</li>
+<li>Competitive compensation, full benefits for you and your family, equal opportunity employer, many perks. It's not why we work here, but we take these things off the table so you can focus on finding meaning and purpose in your work. See our careers page for more information. ( https://www.indigofair.com/jobs )</li>
+</ul>, <ul>
+<li>VentureBeat: Indigo Fair Raises $12M to Reinvent Wholesale ( https://venturebeat.com/2018/02/22/indigo-fair-raises-12-million-to-reinvent-wholesale-with-ai-powered-marketplace-for-indie-retailers/ )</li>
+<li>WSJ: Indigo Fair Collects $12M to Supply Series A to Supply Local Stores ( https://www.wsj.com/articles/indigo-fair-collects-12-million-series-a-to-supply-local-stores-1519343814?mod=searchresults&amp;page=1&amp;pos=1 )</li>
+<li>The Decentralization of Retail ( https://medium.com/@max_150/the-decentralization-of-retail-612c16915fc3 )</li>
 </ul>]"
-P3,Sr. Data Engineer,data_engineer,"['Big Data', 'Spark', 'Python', 'SQL', 'AWS']","[<ul><li>Working with high volumes of data to efficiently process and expose for analysis
-</li><li>Collaborating with other engineering teams on strategies for data</li><li>
-Work with cutting edge data processing technologies</li><li>
-Understand our stakeholder (Finance, Marketing, Product) requirements and write complex and efficient code to transform raw data into an easy to approach data marts.</li><li>
-Doing deep dives on business verticals where you become one of the foremost experts on that vertical in the company</li><li>
-Analyze data to measure impacts of data schemas and use it to iterate on improvements</li><li>
-Translate from technical to business, and vice versa. You need to be able to speak with the least technically-minded client (internal or external) and make technology make sense to them. Then turn around and do it the other way</li></ul>, <ul><li>Excellent knowledge on SQL, data modelling and patterns.</li><li>
-5-7 years experience with Python or another general purpose programming language</li><li>
-Background in writing ETL jobs within a Business Intelligence context</li><li>
-A bachelor's degree, preferably in a computer-related discipline.</li><li>
-Enthusiasm for the job. Are you excited about data? Do you love your users? Good, the same goes for us</li></ul>, <ul><li>
-Experience big data processing with Spark and other big data tools a plus</li><li>
-Excellent communication skills, including the ability to crystallize and broadly socialize insights</li><li>
-Problem analysis and problem-solving skills</li><li>
-Rigorous attention to detail and accuracy</li><li>
-Exposure to Amazon AWS or another cloud provider</li><li>
-Adaptability and collaborative skills</li></ul>, <ul><li>Unlimited paid vacation days. Choose how your time is spent.</li><li>
-Never go hungry! We provide weekly GrubHub/Seamless credit.</li><li>
-Regular in-office social events, including happy hours, wine tastings, karaoke, bingo with prizes and more.</li><li>
-Company-Wide Initiatives encouraging innovation, continuous learning and cross-department connections.</li></ul>]"
-P4,Teaching graphic design,visual art,"['Teaching', 'Classroom Management', 'Robotics', 'Coding', 'Lego Building', 'Virtual Reality (VR) Design', 'Augmented Reality (AR) Design', 'Lesson Planning', 'Curriculum Design', 'Child Safeguarding', 'Educational Technology', 'Communication', 'Public Speaking']","We are a team of designers, artists, actors and coders that are on a mission to inspire children with innovative ways of using technology to explore creativity.
+P2,"Analyst, Imagery Analytics",data_analyst,"['R', 'Python', 'SQL', 'Tableau']","[<ul><li>Quickly become an expert on internal datasets and serve as the go-to resource in 3D Imagery for any data-related questions
+</li><li>Collaborate with 3D Imagery, Exclusive Brands, Pricing, Category, and Merchandising teams to curate datasets and produce analyses that support departmental efforts
+</li><li>Support the development of algorithms that optimize the end-to-end 3D supply chain, adjusting them as needed to reflect the quickly-evolving supply chain
+</li><li>Partner with Product and Business Intelligence teams to identify changes to internal tools and dashboards that enable teams to make data-driven decisions
+</li></ul>, <ul><li>B.A / B.S in quantitative discipline (e.g., Math, Econ, Bio) from top tier school
+</li><li>1+ years of Analyst experience preferred; will also consider recent graduates with strong academic performance
+</li><li>Experience / familiarity with Excel and SQL are a must; other tools for analyzing data (e.g., Python, Tableau, R) are a plus but not required
+</li></ul>, <ul><li>Comfort in analyzing large datasets; able to proactively identify ways to clean messy datasets and wrangle data from multiple sources
+</li><li>Able to work on multiple projects simultaneously and pivot quickly as needs change
+</li><li>Willingness to work on a highly collaborative team that openly shares challenges and brainstorms as a group on how to solve them
+</li></ul>]"
+P3,Principal Data Engineer,data_engineer,"['Hadoop', 'Scala', 'Java', 'Spark', 'Python', 'AWS']","[<p><b>Principal Data Engineer</b><br/>
+<b>Boston, Massachusetts</b><br/>
+<b>$150,000 - $170,000</b></p>, <p><br/>
+Are you looking for an interesting opportunity to leverage technology and contribute to improving the affordability and accessibility of healthcare globally? The perfect person for this role is an experienced data engineer who will be a key contributor and problem solver. You will lead engineering initiatives and communicate technical requirements to a team of junior developers.</p>, <p><br/>
+<b>
+THE COMPANY</b></p>, <p>
+Our client is a one of the largest health insurance companies in the United States. They are keen to leverage technology for the purpose of transforming the healthcare insurance space. As the Principal Data Engineer leading the team, you will have autonomy over the business and significant influence on engineering projects moving forward.</p>, <p><br/>
+<b>
+THE ROLE</b></p>, <p>
+This is the perfect role for you if you are a big picture thinker who is keen to solve problems and develop Big Data solutions. You are an excellent communicator and confident presenting technical details to colleagues ranging from junior engineers to senior-level management. This is a very hands-on role with the Engineering team, which is working on an innovative project that contributes to the company's aim to improve the affordability and accessibility of healthcare.<br/>
+In particular you can expect to be involved with the following:</p>, <ul><li>
+Developing efficient and robust programming in Java</li><li>
+Play a leading role in designing and building out Big Data solutions</li><li>
+Application and development of cloud architecture and data pipelines</li><li>
+Leading the entire build out of backend data structures to support mobile applications</li></ul>, <p><br/>
+<b>
+YOUR SKILLS AND EXPERIENCE</b></p>, <ul><li>Bachelor's or Master's degree in Computer Science, Engineering, or related technical disciplines</li><li>Very advanced expertise in programming with Java, Python, or Scala</li><li>Highly experienced in Big Data solutions, particularly Hadoop and Spark</li><li>Exposure to cloud computing technologies such as AWS</li></ul>, <p><br/>
+<b>
+THE BENEFITS</b></p>, <p>
+The salary for this role is up to $170,000 depending on your experience. You will be privy to great benefits including an annual bonus, equity, and a fantastic healthcare package.</p>]"
+P4,Art & Graphic Design Team Leader,visual art,"['Graphic Design', 'Adobe Photoshop', 'Adobe Illustrator', 'Adobe InDesign', 'Adobe Creative Suite', 'Team Leadership', 'Project Management', 'Visual Merchandising', 'Environmental Graphic Design', 'Print Production', 'Vendor Coordination', 'Branding & Identity', 'Layout Design', 'Video Editing', 'Motion Graphics', 'Creative Strategy']","1. Creative & Design Development
 
-We run lunchtime and after school clubs for students aged 5 - 12.
+Lead the creation of visual concepts, layouts, and graphic designs for mall campaigns, promotions, events, and tenant collaborations.
 
-We have three different types of clubs. Building Blocks (Lego), Programmable Robotics (Coding & Robotics) and Virtual and Augmented Reality Design. 
+Design digital and print materials including posters, banners, social media assets, LED screen visuals, event backdrops, signage, and wayfinding materials.
 
-We are looking for additional people that would like to get involved in running after school clubs. 
+Ensure all artwork aligns with brand identity, marketing strategy, and mall positioning.
 
-Key Info
+Develop thematic concepts and mood boards for seasonal décor (festive decorations, mall ambience setups, photo spots, etc.).
 
-Full training is provided
+2. Art & Decoration Management
 
-All teaching materials and lesson plans are provided
+Oversee the planning and execution of mall-wide décor, installations, and visual merchandising elements.
 
-We have a community of teachers to share teaching tips and ideas with
+Coordinate with vendors, decorators, contractors, and event teams to ensure timely and accurate installation of decorations.
 
-Sessions are generally 1 hour and run on a weekly basis during term time from either 12:30 - 1:30 or 3:30 - 4:30pm. At some schools we run 2 sessions in succession
+Review décor proposals, materials, production samples, and mock-ups to maintain quality and brand adherence.
 
-There are additional paid opportunities to design your own lessons and challenges
+Conduct on-site checks to ensure setup quality, safety, and visual consistency.
 
-Sessions happen at different schools across London - To minimise travel, each club leader teaches at schools closest to them
+3. Team Leadership & Project Supervision
 
-Sessions pay between £35 - £45 ph session - The starting rate is £35 for Building Blocks and £40 for our other clubs. We also cover travel expenses and if cycling we also pay £5 per session.
+Manage and mentor a creative team of two designers, ensuring clear work allocation, adherence to timelines, and quality output.
 
- 
+Provide creative guidance, feedback, and daily supervision to enhance team performance.
 
-Job Requirements
+Conduct design reviews and maintain a high standard of visual output.
 
-You need to:
+Coordinate project workflows and collaborate closely with marketing, events, leasing, and operations teams.
 
-Be confident working with children
+4. Production & Vendor Coordination
 
-Be able to commit to teaching at least 1 weekly hour session
+Prepare production-ready artwork and liaise with printers and fabricators to ensure accurate color, material, and finishing quality.
 
-Have an Enhanced DBS certificate (if you don’t have one we can apply for one on your behalf). 
+Evaluate quotations, compare vendor proposals, and recommend cost-effective options.
 
-Be willing to partake in a 2 hour training and complete our safeguarding documentation 
+Oversee the mall’s inventory of design assets, décor items, and props.
 
-No teaching qualification is required "
+5. Brand & Quality Assurance
+
+Maintain consistency of visual language across all touchpoints.
+
+Ensure compliance with brand guidelines for both mall branding and tenant co-branding.
+
+Continuously improve creative standards by tracking design trends in retail, shopping malls, and lifestyle industries."

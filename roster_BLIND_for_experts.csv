@@ -1,416 +1,413 @@
 Candidate_Code,Course,Credit,Grade
-C01,Principle of Physics,3,3.5
+C01,Principle of Physics,3,2.5
 C01,Computer Network Administration,3,4.0
-C01,Science for Health,3,4.0
-C01,Project Management in Information Technology,3,4.0
-C01,Human Computer Interaction,3,4.0
-C01,Data Warehouse and Data Mining,3,3.5
-C01,Electronic Commerce,3,2.5
-C01,Data Structure and Algorithm,3,4.0
-C01,Integrative Programming and Web Technology,3,4.0
-C01,Web Technology,3,4.0
+C01,Science for Health,3,3.0
+C01,Project Management in Information Technology,3,3.5
+C01,Human Computer Interaction,3,2.5
+C01,Data Warehouse and Data Mining,3,2.5
+C01,Electronic Commerce,3,3.5
+C01,Data Structure and Algorithm,3,1.0
+C01,Integrative Programming and Web Technology,3,3.5
+C01,Web Technology,3,3.0
 C01,Software Engineering,3,4.0
 C01,Cloud Computing,3,4.0
-C01,Information Technology Research Methodology,3,4.0
-C01,Chinese for Communication,3,4.0
-C01,Information System Security,3,3.5
-C01,Information Technology Seminar,1,4.0
+C01,Information Technology Research Methodology,3,2.0
+C01,Chinese for Communication,3,1.0
+C01,Information System Security,3,3.0
+C01,Information Technology Seminar,1,3.0
 C01,Information Technology Project,3,1.0
 C01,Special Topic in Information Technology,3,3.5
 C01,Job Internship in Information Technology,6,1.0
 C01,Mobile Devices Programming,3,4.0
-C01,System Analysis and Design,3,4.0
+C01,System Analysis and Design,3,2.5
 C01,Multimedia Technology,3,4.0
-C01,Decision Support System,3,4.0
-C01,Ethics and Information Law,3,3.5
-C01,Discrete Mathematics,3,2.5
-C01,Fundamentals of Information Technology,3,3.5
-C01,Art of Living,3,3.5
-C01,English for Everyday Communication,3,4.0
-C01,Arts of Using Thai Language,3,3.0
-C01,Calculus 1,3,3.0
+C01,Decision Support System,3,3.0
+C01,Ethics and Information Law,3,4.0
+C01,Discrete Mathematics,3,1.0
+C01,Fundamentals of Information Technology,3,4.0
+C01,Art of Living,3,4.0
+C01,English for Everyday Communication,3,3.0
+C01,Arts of Using Thai Language,3,1.5
+C01,Calculus 1,3,2.0
 C01,Management Information System,3,4.0
-C01,Fundamentals of Programming,3,4.0
+C01,Fundamentals of Programming,3,3.5
 C01,Activities for Health,3,4.0
 C01,Sufficiency Economy and Wisdom of Living,3,3.5
-C01,Process of Thinking and Problem Solving,3,3.0
+C01,Process of Thinking and Problem Solving,3,4.0
 C01,Innovation and Technology,3,3.5
 C01,Data Communication and Computer Network System,3,4.0
-C01,Object Oriented Programming,3,4.0
-C01,Computer Platform Technology,3,3.5
+C01,Object Oriented Programming,3,3.0
+C01,Computer Platform Technology,3,3.0
 C01,Academic English,3,3.0
-C01,Statistics for Science,3,3.5
+C01,Statistics for Science,3,1.0
 C01,English for Life Skills	,3,3.5
-C01,Database System,3,2.5
-C02,Art of Living,3,4.0
+C01,Database System,3,2.0
+C02,Computer Science Research Methodology,3,4.0
 C02,Microcomputer System and Interfacing,3,3.5
 C02,Innovation and Technology,3,4.0
-C02,System Analysis and Design,3,2.5
-C02,Human Computer Interaction,3,3.5
-C02,Introduction of Artificial Intelligence,3,2.0
+C02,System Analysis and Design,3,1.5
+C02,Computer System Security,3,1.0
+C02,Human Computer Interaction,3,3.0
+C02,Introduction of Artificial Intelligence,3,1.0
 C02,Multimedia Technology,3,4.0
-C02,Software Engineering,3,3.0
-C02,Mobile Devices Programming,3,2.5
+C02,Software Engineering,3,2.5
 C02,Ethics and Computer Law,3,3.0
 C02,Cooperative Education in Computer Science,6,1.0
-C02,Electronic Commerce on Internet,3,3.5
-C02,Internet of Things,3,4.0
+C02,Image Processing,3,2.5
+C02,Mobile Devices Programming,3,3.0
+C02,Internet of Things,3,3.0
 C02,Computer Science Seminar,1,4.0
-C02,Computer Science Research Methodology,3,3.0
 C02,Computer Science Pre-Project,3,1.0
-C02,Computer System Security,3,3.5
-C02,Productivity Application,3,4.0
-C02,Computer Science Project,3,3.5
-C02,Cloud Computing,3,3.0
-C02,"Computer Science in Community, Company and Coperation",1,4.0
-C02,Data Communication and Computer Network System,3,1.5
+C02,Art of Living,3,1.0
+C02,Productivity Application,3,3.5
+C02,Computer Science Project,3,3.0
+C02,Cloud Computing,3,3.5
+C02,"Computer Science in Community, Company and Coperation",1,2.5
+C02,Data Communication and Computer Network System,3,2.0
 C02,English for Life Skills	,3,4.0
-C02,Web Programming,3,2.0
-C02,Analysis and Design of Algorithms,3,1.0
-C02,Fundamental Computer Science,3,1.0
+C02,Web Programming,3,2.5
+C02,Analysis and Design of Algorithms,3,1.5
+C02,Fundamental Computer Science,3,1.5
 C02,Computer Programming,3,1.5
 C02,English for Everyday Communication,3,3.5
-C02,Arts of Using Thai Language,3,3.0
-C02,Science for Health,3,3.5
-C02,Calculus 2,3,2.5
-C02,Statistics for Science,3,3.0
+C02,Arts of Using Thai Language,3,1.5
+C02,Science for Health,3,4.0
+C02,Calculus 2,3,3.0
+C02,Statistics for Science,3,2.0
 C02,Scientific Information for Computer Science,3,3.5
 C02,Object Oriented Programming,3,2.5
-C02,Calculus 1,3,2.0
-C02,Numerical Methods,3,2.5
-C02,Sufficiency Economy and Wisdom of Living,3,4.0
-C02,Discrete Mathematics,3,1.0
-C02,Data Structures and Algorithms,3,1.5
-C02,Database Systems,3,3.0
+C02,Calculus 1,3,1.0
+C02,Numerical Methods,3,2.0
+C02,Human Relations,3,2.5
+C02,Discrete Mathematics,3,3.5
+C02,Data Structures and Algorithms,3,2.5
+C02,Database Systems,3,4.0
 C02,Computer Organization and Architecture,3,3.5
-C02,Operating Systems,3,1.5
+C02,Operating Systems,3,2.5
 C02,Process of Thinking and Problem Solving,3,4.0
-C02,Academic English,3,3.0
+C02,Academic English,3,2.5
 C02,Activities for Health,3,4.0
-C03,Electronic Commerce,3,3.5
-C03,Information Management,3,2.0
-C03,Fundamental Chinese,3,4.0
-C03,Management Information System,3,3.5
-C03,Computer Network Management,3,3.5
+C03,Electronic Commerce,3,4.0
+C03,Information Management,3,4.0
+C03,Fundamental Chinese,3,3.5
+C03,Management Information System,3,4.0
+C03,Computer Network Management,3,4.0
 C03,Ethics and Information Law,3,4.0
 C03,Web Programming,3,4.0
 C03,Object Oriented Analysis and Design,3,3.0
-C03,System Analysis and Design for Information,3,3.5
-C03,Project Management in Information Technology,3,4.0
-C03,Mobile Devices Programming,3,3.5
-C03,Chinese for Communication,3,3.0
+C03,System Analysis and Design for Information,3,4.0
+C03,Project Management in Information Technology,3,3.5
+C03,Multimedia Technology,3,4.0
+C03,Chinese for Communication,3,4.0
 C03,Information Technology Research Methodology,3,4.0
-C03,Selected Programming Language,3,2.5
+C03,Mobile Devices Programming,3,3.5
 C03,Job Internship in Information Technology,6,1.0
 C03,Information Technology Seminar,1,4.0
 C03,Information System Security,3,3.5
 C03,Information Technology Project,3,1.0
-C03,Special Topic in Information Technology,3,3.0
-C03,Human Computer Interaction,3,3.5
+C03,Special Topic in Information Technology,3,4.0
+C03,Human Computer Interaction,3,4.0
 C03,Thinking and Making Decision Scientifically,3,4.0
-C03,Multimedia Technology,3,4.0
-C03,Data Communication and Computer Network System,3,3.0
+C03,Selected Programming Language,3,4.0
+C03,Data Communication and Computer Network System,3,4.0
 C03,General Psychology,3,4.0
 C03,Sufficiency Economy to Sustainable Development,3,4.0
-C03,Calculus 1,3,2.5
+C03,Calculus 1,3,3.0
 C03,Introduction to Physics,3,2.5
-C03,Technical English,3,3.0
-C03,Introduction to Physics Laboratory,1,3.5
-C03,Introduction to Computer,3,3.5
-C03,English for Communication,3,2.5
-C03,Thai for Communication,3,3.5
-C03,Life and Social Skills,3,3.5
+C03,Introduction to Physics Laboratory,1,4.0
+C03,Introduction to Computer,3,4.0
+C03,Technical English,3,4.0
+C03,English for Communication,3,3.0
+C03,Thai for Communication,3,4.0
+C03,Life and Social Skills,3,4.0
 C03,English in Everyday Use,3,2.5
-C03,Systems Information Technology in Organization,3,3.0
-C03,Discrete Mathematics,3,3.5
-C03,Structure Programming,3,4.0
+C03,Systems Information Technology in Organization,3,3.5
+C03,Discrete Mathematics,3,3.0
+C03,Structure Programming,3,3.5
 C03,Physical Education,2,4.0
-C03,English for Career,3,2.5
-C03,Statistics for Science,3,3.5
-C03,Computer Platform Technology,3,2.5
-C03,Object Oriented Programming,3,4.0
-C03,Database System for Information Technology,3,3.5
-C03,Technological Mathematics,3,4.0
-C04,Human Relations,3,2.5
-C04,Environment and Development,3,2.5
-C04,Environmental Sculpture,3,2.0
-C04,Innovation and Technology,3,1.0
-C04,Experimental Art,2,4.0
-C04,Academic English,3,2.0
-C04,Art Analysis,2,4.0
-C04,Sculpture 3,4,4.0
-C04,Watercolor Painting,3,3.0
-C04,Seminar in Visual Art	,2,3.0
-C04,Sculpture 4,5,4.0
-C04,Arts of Using Thai Language,3,3.0
-C04,Job Internship in Art,3,1.0
+C03,English for Career,3,2.0
+C03,Statistics for Science,3,4.0
+C03,Computer Platform Technology,3,3.0
+C03,Object Oriented Programming,3,3.5
+C03,Database System for Information Technology,3,3.0
+C03,Technological Mathematics,3,3.5
+C04,Creative Drawing,3,4.0
+C04,Watercolor Painting,3,2.0
+C04,Art Analysis,2,3.5
+C04,Media Art 2,4,2.0
+C04,Innovation and Technology,3,4.0
+C04,Electronic Print Media,3,3.0
+C04,Experimental Art for Media Art,3,3.5
+C04,Arts of Using Thai Language,3,1.0
+C04,Environment and Development,3,4.0
+C04,Human Relations,3,3.5
 C04,Art Exhibition Design,3,4.0
+C04,Experimental Art,2,4.0
+C04,Media Art 3,4,3.5
+C04,Writing for Art Thesis,2,2.5
+C04,Media Art 4,5,3.5
+C04,Job Internship in Art,3,1.0
 C04,Art Thesis Preparation,6,4.0
 C04,Art Thesis,12,4.0
-C04,Portrait Sculpture,3,4.0
-C04,Writing for Art Thesis,2,4.0
-C04,Sculpture 2,4,4.0
-C04,Creative Drawing,3,2.5
+C04,Lanna Studies,2,2.5
+C04,Seminar in Visual Art	,2,4.0
+C04,Academic English,3,3.5
 C04,Composition 2,2,3.5
-C04,Paper Art,3,3.0
-C04,Process of Thinking and Problem Solving,3,3.5
-C04,Lanna Studies,2,1.5
-C04,Drawing,2,2.5
-C04,Aesthetics,2,4.0
-C04,Theory of Color,2,3.0
+C04,Media Art 1,4,4.0
+C04,Process of Thinking and Problem Solving,3,3.0
+C04,Drawing,2,3.5
+C04,Aesthetics,2,2.5
+C04,Theory of Color,2,4.0
 C04,History and Style of Eastern Art,3,3.5
-C04,Computer Assisted Visual Art,2,2.0
-C04,English for Everyday Communication,3,2.0
-C04,Traditional Thai Art,2,3.0
-C04,Introduction to Composition,2,4.0
-C04,History and Style of Western Art,3,1.5
 C04,Visual Art 1,3,4.0
-C04,Visual Art 2,3,3.5
-C04,Art of Living,3,3.0
-C04,English for Life Skills	,3,1.5
-C04,Contemporary Art,3,3.0
-C04,Anatomy,2,2.5
-C04,Drawing 2,2,1.5
-C04,Composition 1,2,3.0
-C04,Sculpture 1,4,4.0
+C04,Art of Living,3,2.5
+C04,English for Everyday Communication,3,4.0
+C04,Traditional Thai Art,2,3.0
+C04,Introduction to Composition,2,3.5
+C04,Computer Assisted Visual Art,2,4.0
 C04,Drawing 1,2,4.0
-C04,Activities for Health,3,4.0
-C05,Computer Engineering Pre-Project,1,3.0
-C05,Internet Programming,3,2.5
-C05,Software Laboratory,1,3.5
-C05,Software Engineering,3,3.5
-C05,Operating Systems,3,1.5
-C05,Database Systems,3,2.0
+C04,Visual Art 2,3,4.0
+C04,Activities for Health,3,3.0
+C04,English for Life Skills	,3,4.0
+C04,Contemporary Art,3,3.5
+C04,Anatomy,2,2.5
+C04,Drawing 2,2,4.0
+C04,Composition 1,2,3.5
+C04,History and Style of Western Art,3,4.0
+C05,Computer System Architectures and Organizations,3,4.0
 C05,"Society, Economy, Politics and Law",3,4.0
-C05,Computer Engineering Laboratory,2,2.5
-C05,Fundamental Japanese Conversation,3,1.5
-C05,Mathematics and Statistics in Daily Life,3,3.0
-C05,Project Management in Computer Engineering,1,3.5
-C05,Physics 2 for Engineers,3,1.5
-C05,Co-operative Education in Computer Engineering,6,1.0
-C05,"Ethical, Legal and Social Issues in Computer",1,3.5
-C05,Mathematics for Computer Engineering,3,1.0
-C05,Computer Networks,3,1.5
-C05,Artificial Intelligence for Robots,3,2.0
-C05,Electrical Circuits for Computer Engineering,3,1.0
-C05,System Analysis and Design for Engineering,3,1.0
-C05,Computer Engineering Project,3,3.5
-C05,Signals and Systems,3,3.5
-C05,Parallel and Distributed Database Systems,3,2.0
-C05,Engineering Mechanics,3,3.5
+C05,Artificial Intelligence for Robots,3,4.0
 C05,Numerical Methods for Computer Engineering,3,3.5
-C05,Exercise for Health,3,3.5
-C05,Physics 2 for Engineers Laboratory,1,3.0
-C05,Microprocessor and Interface,3,1.0
-C05,Computer Programming,3,1.0
-C05,Introduction to Environmental Engineering,1,2.0
-C05,English in Everyday Use,3,3.0
-C05,Data Structures and Algorithms,3,1.0
-C05,Chemistry for Engineers,3,3.0
-C05,Chemistry Laboratory for Engineers,1,2.5
-C05,Physics 1 for Engineers Laboratory,1,2.5
-C05,Basic Computer Engineering Training,3,4.0
-C05,Physical Education,2,3.0
-C05,English for Communication,3,2.0
-C05,Physics 1 for Engineers,3,1.0
-C05,Electronic Circuits for Computer Engineering,3,2.0
-C05,Advanced Computer Programming,3,3.5
-C05,Introduction to Digital Systems,3,1.0
-C05,Calculus 1 for Engineers,3,3.0
-C05,General Psychology,3,2.0
-C05,Technical English,3,1.0
-C05,Thinking and Making Decision Scientifically,3,1.0
-C05,English for Career,3,2.5
-C05,Hardware Laboratory,1,3.0
-C05,Discrete Mathematics for Engineering,3,1.5
-C05,Calculus 2 for Engineers,3,2.0
+C05,Database Systems,3,2.5
+C05,Exercise for Health,3,4.0
 C05,International Relations,2,4.0
-C05,Computer System Architectures and Organizations,3,2.0
-C05,Digital Systems Design Laboratory,1,2.0
-C05,Digital Systems Design,3,2.5
-C05,Sufficiency Economy to Sustainable Development,3,3.0
-C05,Engineering Drawing,3,3.0
-C06,Ethics and Computer Law,3,4.0
-C06,Analysis and Design of Algorithms,3,2.0
-C06,Microcomputer System and Interfacing,3,2.5
-C06,Innovation and Technology,3,4.0
-C06,System Analysis and Design,3,3.5
-C06,Introduction of Artificial Intelligence,3,2.5
-C06,Multimedia Technology,3,4.0
-C06,Software Engineering,3,2.5
-C06,Art of Living,3,3.5
-C06,"Computer Science in Community, Company and Coperation",1,4.0
-C06,Computer Science Pre-Project,3,1.0
+C05,Software Engineering,3,4.0
+C05,Computer Networks,3,1.5
+C05,Signals and Systems,3,3.0
+C05,Operating Systems,3,3.5
+C05,Computer Engineering Laboratory,2,4.0
+C05,Digital Systems Design Laboratory,1,2.5
+C05,Internet Programming,3,4.0
+C05,Computer Engineering Pre-Project,1,4.0
+C05,Physics 2 for Engineers Laboratory,1,4.0
+C05,Electrical Circuits for Computer Engineering,3,2.5
+C05,Object Oriented Programming,3,4.0
+C05,System Analysis and Design for Engineering,3,2.0
+C05,Computer Engineering Project,3,3.0
+C05,Digital Systems Design,3,4.0
+C05,Microprocessor and Interface,3,2.0
+C05,Co-operative Education in Computer Engineering,6,1.0
+C05,Mathematics for Computer Engineering,3,1.0
+C05,Parallel and Distributed Database Systems,3,3.0
+C05,"Ethical, Legal and Social Issues in Computer",1,4.0
+C05,Physics 1 for Engineers,3,3.0
+C05,Thinking and Making Decision Scientifically,3,4.0
+C05,English in Everyday Use,3,4.0
+C05,Engineering Mechanics,3,4.0
+C05,Chemistry for Engineers,3,2.0
+C05,Chemistry Laboratory for Engineers,1,3.0
+C05,Physics 1 for Engineers Laboratory,1,3.0
+C05,Computer Programming,3,3.0
+C05,Basic Computer Engineering Training,3,4.0
+C05,Physical Education,2,4.0
+C05,English for Communication,3,3.5
+C05,Calculus 2 for Engineers,3,1.0
+C05,Advanced Computer Programming,3,4.0
+C05,Introduction to Digital Systems,3,3.0
+C05,Calculus 1 for Engineers,3,4.0
+C05,General Psychology,3,2.5
+C05,Technical English,3,4.0
+C05,Discrete Mathematics for Engineering,3,3.5
+C05,Electronic Circuits for Computer Engineering,3,2.0
+C05,Introduction to Environmental Engineering,1,2.5
+C05,Engineering Drawing,3,2.0
+C05,Local Literature,3,4.0
+C05,English for Career,3,4.0
+C05,Data Structures and Algorithms,3,1.0
+C05,Physics 2 for Engineers,3,4.0
+C05,Sufficiency Economy to Sustainable Development,3,4.0
+C05,Elementary Statistics,3,4.0
+C06,Computer Science Research Methodology,3,2.0
 C06,Cloud Computing,3,3.0
-C06,Internet of Things,3,4.0
+C06,Microcomputer System and Interfacing,3,2.5
+C06,Innovation and Technology,3,3.5
+C06,System Analysis and Design,3,1.0
+C06,Computer System Security,3,1.0
+C06,Human Computer Interaction,3,3.0
+C06,Multimedia Technology,3,4.0
+C06,Software Engineering,3,1.0
+C06,Ethics and Computer Law,3,2.5
+C06,Computer Science Pre-Project,3,1.0
+C06,Electronic Commerce on Internet,3,3.0
+C06,Image Processing,3,3.0
+C06,Mobile Devices Programming,3,3.0
 C06,Computer Science Seminar,1,4.0
-C06,Computer Science Research Methodology,3,4.0
-C06,Modern Programming Language,3,3.5
-C06,Necessary Information Technology in Daily Life,3,4.0
-C06,Job Internship in Computer science,3,1.0
-C06,Computer Science Project,3,3.0
-C06,Web Programming,3,3.0
-C06,Computer System Security,3,3.5
-C06,Numerical Methods,3,3.0
-C06,Human Computer Interaction,3,4.0
-C06,Process of Thinking and Problem Solving,3,3.5
-C06,Computer Programming,3,2.0
-C06,English for Everyday Communication,3,3.5
-C06,Arts of Using Thai Language,3,2.5
-C06,Science for Health,3,3.0
-C06,Calculus 1,3,1.5
-C06,Statistics for Science,3,1.0
-C06,Scientific Information for Computer Science,3,2.0
-C06,Object Oriented Programming,3,1.5
-C06,Activities for Health,3,4.0
-C06,English for Life Skills	,3,3.5
-C06,Fundamental Computer Science,3,2.0
-C06,Calculus 2,3,2.0
-C06,Electronic Commerce on Internet,3,2.5
+C06,Art of Living,3,2.0
+C06,Productivity Application,3,2.0
+C06,Computer Science Project,3,4.0
+C06,Cooperative Education in Computer Science,6,1.0
 C06,Data Communication and Computer Network System,3,1.5
-C06,Discrete Mathematics,3,2.5
-C06,Academic English,3,3.0
-C06,Data Structures and Algorithms,3,1.5
-C06,Database Systems,3,2.0
+C06,"Computer Science in Community, Company and Coperation",1,4.0
+C06,Analysis and Design of Algorithms,3,1.0
+C06,Introduction of Artificial Intelligence,3,1.0
+C06,Numerical Methods,3,1.0
+C06,Calculus 1,3,1.0
+C06,Fundamental Computer Science,3,1.0
+C06,Computer Programming,3,4.0
+C06,English for Everyday Communication,3,2.0
+C06,Arts of Using Thai Language,3,1.5
+C06,Science for Health,3,4.0
+C06,Calculus 2,3,1.0
+C06,Statistics for Science,3,1.0
+C06,Scientific Information for Computer Science,3,3.0
+C06,Object Oriented Programming,3,1.5
+C06,Web Programming,3,2.0
+C06,English for Life Skills	,3,2.0
+C06,Process of Thinking and Problem Solving,3,4.0
+C06,Operating Systems,3,1.0
 C06,Computer Organization and Architecture,3,2.5
-C06,Operating Systems,3,1.5
-C06,Sufficiency Economy and Wisdom of Living,3,3.0
-C07,Multimedia Technology,3,4.0
-C07,Introduction of Artificial Intelligence,3,1.0
-C07,Human Computer Interaction,3,4.0
+C06,Database Systems,3,2.0
+C06,Academic English,3,1.5
+C06,Activities for Health,3,3.5
+C06,Discrete Mathematics,3,2.5
+C06,Human Relations,3,1.5
+C06,Data Structures and Algorithms,3,1.0
+C07,Mobile Devices Programming,3,3.5
 C07,Cloud Computing,3,3.0
-C07,System Analysis and Design,3,1.5
-C07,Innovation and Technology,3,3.5
-C07,Microcomputer System and Interfacing,3,3.5
-C07,Software Engineering,3,2.0
-C07,Computer System Security,3,2.0
-C07,Computer Science Research Methodology,3,3.0
-C07,Mobile Devices Programming,3,2.5
-C07,"Computer Science in Community, Company and Coperation",1,4.0
-C07,Electronic Commerce on Internet,3,3.5
-C07,Image Processing,3,3.5
+C07,Microcomputer System and Interfacing,3,4.0
+C07,Innovation and Technology,3,4.0
+C07,System Analysis and Design,3,3.5
+C07,Human Computer Interaction,3,4.0
+C07,Introduction of Artificial Intelligence,3,3.5
+C07,Multimedia Technology,3,4.0
+C07,Software Engineering,3,3.5
+C07,Art of Living,3,4.0
 C07,Computer Science Seminar,1,4.0
+C07,"Computer Science in Community, Company and Coperation",1,4.0
+C07,Electronic Commerce on Internet,3,4.0
+C07,Internet of Things,3,4.0
+C07,Data Communication and Computer Network System,3,4.0
+C07,Computer Science Research Methodology,3,3.0
 C07,Computer Science Pre-Project,3,1.0
-C07,Art of Living,3,3.0
-C07,Productivity Application,3,2.5
+C07,Computer System Security,3,4.0
+C07,Productivity Application,3,4.0
 C07,Computer Science Project,3,4.0
-C07,Data Communication and Computer Network System,3,1.0
-C07,Ethics and Computer Law,3,2.0
-C07,Analysis and Design of Algorithms,3,1.0
+C07,Ethics and Computer Law,3,4.0
+C07,Analysis and Design of Algorithms,3,1.5
 C07,Cooperative Education in Computer Science,6,1.0
-C07,Numerical Methods,3,1.5
-C07,Web Programming,3,2.0
-C07,Fundamental Computer Science,3,1.5
-C07,Computer Programming,3,1.5
-C07,English for Everyday Communication,3,2.5
-C07,Arts of Using Thai Language,3,1.5
+C07,Numerical Methods,3,2.5
+C07,Web Programming,3,3.5
+C07,Calculus 1,3,2.5
+C07,Fundamental Computer Science,3,2.5
+C07,Computer Programming,3,2.5
+C07,English for Everyday Communication,3,3.0
+C07,Arts of Using Thai Language,3,3.0
+C07,Calculus 2,3,2.5
+C07,Statistics for Science,3,4.0
+C07,Scientific Information for Computer Science,3,4.0
+C07,Object Oriented Programming,3,3.5
 C07,Science for Health,3,4.0
-C07,Statistics for Science,3,1.0
-C07,Scientific Information for Computer Science,3,2.5
-C07,Object Oriented Programming,3,1.0
+C07,English for Life Skills	,3,4.0
 C07,Activities for Health,3,4.0
-C07,Calculus 1,3,1.0
-C07,Human Relations,3,3.0
-C07,English for Life Skills	,3,2.0
 C07,Process of Thinking and Problem Solving,3,4.0
-C07,Operating Systems,3,1.5
-C07,Computer Organization and Architecture,3,2.5
-C07,Academic English,3,1.5
-C07,Data Structures and Algorithms,3,1.5
+C07,Operating Systems,3,4.0
+C07,Computer Organization and Architecture,3,3.5
+C07,Academic English,3,2.5
+C07,Data Structures and Algorithms,3,2.0
 C07,Discrete Mathematics,3,2.5
-C07,Calculus 2,3,1.0
-C07,Database Systems,3,1.5
-C08,Laikam Lanna,3,4.0
-C08,Thai Art 2,4,4.0
-C08,Thai Mural Painting,3,3.5
-C08,Activities for Health,3,4.0
-C08,Innovation and Technology,3,3.0
-C08,Arts of Using Thai Language,3,2.0
-C08,Experimental Art,2,4.0
-C08,Thai Art 3,4,4.0
-C08,Environment and Development,3,4.0
-C08,Art Thesis,12,3.0
-C08,Art Analysis,2,3.5
-C08,Watercolor Painting,3,3.0
-C08,Creative Drawing,3,3.5
-C08,Thai Art 4,5,3.5
-C08,Job Internship in Art,3,1.0
-C08,Seminar in Visual Art	,2,4.0
-C08,Art Exhibition Design,3,4.0
-C08,Art Thesis Preparation,6,3.5
-C08,Writing for Art Thesis,2,2.0
+C07,Sufficiency Economy and Wisdom of Living,3,4.0
+C07,Database Systems,3,3.0
 C08,Human Relations,3,3.5
-C08,Lanna Studies,2,3.5
-C08,Composition 2,2,3.5
-C08,Process of Thinking and Problem Solving,3,3.5
-C08,Academic English,3,2.5
-C08,Drawing,2,3.5
-C08,Aesthetics,2,2.5
-C08,Theory of Color,2,4.0
-C08,History and Style of Eastern Art,3,2.5
-C08,Visual Art 1,3,3.5
-C08,Art of Living,3,2.5
-C08,English for Everyday Communication,3,2.5
-C08,Traditional Thai Art,2,4.0
-C08,Computer Assisted Visual Art,2,3.5
+C08,Media Art 2,4,1.0
+C08,Electronic Print Media,3,3.5
+C08,Innovation and Technology,3,4.0
+C08,Arts of Using Thai Language,3,4.0
+C08,Experimental Art,2,4.0
+C08,Media Art 3,4,4.0
+C08,Environment and Development,3,3.5
+C08,Art Analysis,2,3.5
+C08,Art Thesis,12,4.0
+C08,Creative Drawing,3,2.5
+C08,Media Art 4,5,4.0
+C08,Experimental Art for Media Art,3,3.5
+C08,English for Life Skills	,3,3.0
+C08,Job Internship in Art,3,1.0
+C08,Seminar in Visual Art	,2,3.5
+C08,Art Exhibition Design,3,4.0
+C08,Art Thesis Preparation,6,4.0
+C08,Writing for Art Thesis,2,4.0
+C08,Watercolor Painting,3,3.0
+C08,Lanna Studies,2,2.0
+C08,Composition 2,2,1.5
+C08,Process of Thinking and Problem Solving,3,2.5
+C08,Academic English,3,1.0
+C08,Drawing,2,4.0
+C08,Aesthetics,2,4.0
+C08,Theory of Color,2,2.5
+C08,History and Style of Eastern Art,3,2.0
+C08,Computer Assisted Visual Art,2,1.5
+C08,Art of Living,3,3.5
+C08,English for Everyday Communication,3,1.0
+C08,Traditional Thai Art,2,2.5
+C08,Visual Art 1,3,2.5
 C08,History and Style of Western Art,3,3.5
-C08,Drawing 1,2,3.0
-C08,Visual Art 2,3,3.5
-C08,English for Life Skills	,3,1.5
-C08,Contemporary Art,3,3.0
-C08,Anatomy,2,4.0
-C08,Drawing 2,2,2.5
-C08,Composition 1,2,3.5
-C08,Introduction to Composition,2,4.0
-C08,Thai Art 1,4,3.5
-C09,Online Business Management,3,3.5
-C09,Decision Support Systems,3,3.0
-C09,Object Oriented Programming,3,3.0
-C09,Information for Report Writing,3,3.0
-C09,Database Application Software,3,1.0
-C09,Computer Graphics Design,3,3.5
-C09,Business Data Communication and Network,3,3.0
-C09,Macroeconomics,3,3.0
-C09,Man and Ethics,3,3.0
-C09,Human Computer Interaction,3,4.0
-C09,Ecotourism,3,4.0
-C09,Exercise for Health,3,4.0
-C09,Computer Security,3,4.0
-C09,Social Network for Business,3,3.5
-C09,English for Business Communication,3,2.5
-C09,Social Dance for Health,3,4.0
+C08,Drawing 1,2,3.5
+C08,Visual Art 2,3,2.0
+C08,Activities for Health,3,2.0
+C08,Contemporary Art,3,1.0
+C08,Anatomy,2,1.0
+C08,Drawing 2,2,2.0
+C08,Composition 1,2,3.0
+C08,Introduction to Composition,2,3.5
+C08,Media Art 1,4,1.5
+C09,Object Oriented Programming,3,2.5
+C09,Web Programming,3,1.0
 C09,E-Marketing,3,3.5
-C09,Web Programming,3,3.5
-C09,Package Program 1,3,4.0
-C09,Independent Study,3,3.5
-C09,Co-operative Education in Business Administration,6,1.0
-C09,Computer Information Systems Project,3,3.0
-C09,Pre Co-operative Education and Job Internship in Business Administration,1,1.0
-C09,English through Media and Technology,3,3.5
-C09,Quantitative Analysis in Business,3,2.0
-C09,Microeconomics,3,1.5
-C09,Systems Analysis and Design,3,2.0
-C09,Implementation of Information System in Business,3,3.5
-C09,Special Topics,3,4.0
-C09,Physical Education,2,4.0
-C09,English in Everyday Use,3,3.0
-C09,Thai for Communication,3,3.0
-C09,Elementary Statistics,3,1.5
-C09,Introduction to Accounting,3,2.0
-C09,Organization and Management,3,2.5
-C09,Computer Programming 1,3,1.5
-C09,Principles of Marketing,3,3.0
-C09,English for Communication,3,2.0
-C09,Life and Social Skills,3,2.5
-C09,Business Finance,3,1.5
-C09,Production and Operations Management,3,2.0
-C09,Data Structure and Algorithm,3,2.5
-C09,Database Management Systems,3,2.5
-C09,English for Career,3,2.0
-C09,Sufficiency Economy to Sustainable Development,3,3.5
-C09,Thinking and Making Decision Scientifically,3,3.5
 C09,Business Law and Ethics,3,2.5
+C09,Computer Security,3,2.5
+C09,Social Network for Business,3,3.5
+C09,Package Program 1,3,3.0
+C09,Introduction to Accounting,3,1.0
+C09,Pre Co-operative Education and Job Internship in Business Administration,1,1.0
+C09,Sports Science for Health,3,3.5
+C09,English for Life Skills	,3,3.0
+C09,Management Information Technology,3,2.0
+C09,Business Finance,3,3.5
+C09,Visual Programming,3,2.0
+C09,Systems Analysis and Design,3,3.5
+C09,Web Programming,3,2.5
+C09,Computer Information Systems Project,3,3.0
 C09,Information System in Organization,3,3.5
+C09,Information Technology Management,3,2.5
+C09,Elementary Statistics,3,1.0
+C09,Information for Report Writing,3,1.0
+C09,Job Internship in Business Administration,3,1.0
+C09,Quantitative Analysis in Business,3,1.0
+C09,Thai for Communication,3,2.0
+C09,Decision Support Systems,3,1.0
+C09,Database Management Systems,3,2.0
+C09,Business Data Communication and Network,3,2.0
+C09,Implementation of Information System in Business,3,2.0
+C09,Special Topics,3,2.5
+C09,Physical Education,2,3.5
+C09,English in Everyday Use,3,2.0
+C09,Organization and Management,3,2.5
+C09,Information System in Organization,3,1.5
+C09,English for Communication,3,3.0
+C09,Life and Social Skills,3,1.5
+C09,English for Career,3,3.5
+C09,Principles of Marketing,3,2.0
+C09,Thinking and Making Decision Scientifically,3,3.0
+C09,Microeconomics,3,1.0
+C09,Production and Operations Management,3,1.0
+C09,English through Media and Technology,3,3.0
+C09,Macroeconomics,3,2.0
+C09,Computer Programming 1,3,1.0
+C09,Human Computer Interaction,3,3.5
+C09,English for Business Communication,3,2.0
+C09,Personality Development Techniques,3,1.5
+C09,Data Structure and Algorithm,3,1.5
+C09,Sufficiency Economy to Sustainable Development,3,3.0
 C10,Human Relations,3,4.0
 C10,Environment and Development,3,3.5
 C10,Media Art 3,4,3.5
@@ -428,11 +425,11 @@ C10,Seminar in Visual Art	,2,2.0
 C10,Composition 1,2,3.5
 C10,Art Thesis Preparation,6,3.5
 C10,Composition 2,2,4.0
-C10,Art Thesis,12,4.0
+C10,Writing for Art Thesis,2,4.0
 C10,Media Art 2,4,2.5
 C10,Creative Drawing,3,3.0
 C10,Lanna Studies,2,3.0
-C10,Writing for Art Thesis,2,4.0
+C10,Art Thesis,12,4.0
 C10,Process of Thinking and Problem Solving,3,2.5
 C10,Drawing,2,3.0
 C10,Aesthetics,2,4.0
@@ -454,364 +451,377 @@ C10,Anatomy,2,2.5
 C10,Drawing 2,2,3.5
 C10,Media Art 1,4,2.5
 C10,Introduction to Composition,2,3.5
-C11,Electronic Commerce,3,2.0
-C11,Data Warehouse and Data Mining,3,3.5
-C11,Human Computer Interaction,3,2.5
-C11,Web Technology,3,3.0
-C11,Science for Health,3,4.0
-C11,Computer Network Administration,3,4.0
-C11,Data Structure and Algorithm,3,2.5
-C11,Project Management in Information Technology,3,3.5
-C11,Integrative Programming and Web Technology,3,3.5
+C11,Electronic Commerce,3,3.5
+C11,Information Management,3,2.5
+C11,Fundamental Chinese,3,3.0
+C11,Web Programming,3,4.0
+C11,Computer Network Management,3,4.0
+C11,Ethics and Information Law,3,3.0
+C11,Object Oriented Analysis and Design,3,3.5
+C11,System Analysis and Design for Information,3,4.0
+C11,Project Management in Information Technology,3,3.0
+C11,Mobile Devices Programming,3,3.5
+C11,Chinese for Communication,3,3.5
 C11,Information Technology Research Methodology,3,3.5
-C11,Software Engineering,3,3.5
-C11,Mobile Devices Programming,3,3.0
-C11,Cloud Computing,3,4.0
-C11,Information System Security,3,3.0
-C11,Information Technology Seminar,1,4.0
-C11,Special Topic in Information Technology,3,3.0
+C11,Selected Programming Language,3,3.5
+C11,Multimedia Technology,3,4.0
 C11,Job Internship in Information Technology,6,1.0
-C11,Software Packages,3,3.0
-C11,System Analysis and Design,3,2.5
-C11,Multimedia Technology,3,3.5
+C11,Information Technology Seminar,1,4.0
+C11,Information System Security,3,2.0
 C11,Information Technology Project,3,1.0
-C11,Ethics and Information Law,3,3.5
-C11,Academic English,3,1.5
-C11,Decision Support System,3,4.0
-C11,Principle of Physics,3,2.5
-C11,Discrete Mathematics,3,1.5
-C11,Fundamentals of Information Technology,3,3.0
-C11,Art of Living,3,4.0
-C11,English for Everyday Communication,3,2.0
-C11,Sufficiency Economy and Wisdom of Living,3,4.0
-C11,Calculus 1,3,2.0
-C11,Management Information System,3,4.0
-C11,Arts of Using Thai Language,3,2.5
-C11,Activities for Health,3,4.0
-C11,Fundamentals of Programming,3,4.0
-C11,Data Communication and Computer Network System,3,4.0
-C11,Object Oriented Programming,3,4.0
+C11,Management Information System,3,3.5
+C11,Human Computer Interaction,3,3.5
+C11,Special Topic in Information Technology,3,3.5
+C11,Thinking and Making Decision Scientifically,3,4.0
+C11,Data Communication and Computer Network System,3,3.0
+C11,Technical English,3,3.5
+C11,English in Everyday Use,3,2.0
+C11,General Psychology,3,3.5
+C11,Sufficiency Economy to Sustainable Development,3,3.5
+C11,Calculus 1,3,2.5
+C11,Introduction to Physics,3,2.5
+C11,Introduction to Computer,3,3.0
+C11,English for Communication,3,3.0
+C11,Thai for Communication,3,4.0
+C11,Life and Social Skills,3,3.5
+C11,Introduction to Physics Laboratory,1,3.5
+C11,Systems Information Technology in Organization,3,3.5
+C11,Technological Mathematics,3,2.5
+C11,Object Oriented Programming,3,3.0
 C11,Computer Platform Technology,3,2.5
-C11,Innovation and Technology,3,3.5
-C11,Statistics for Science,3,2.0
-C11,English for Life Skills	,3,2.5
-C11,Process of Thinking and Problem Solving,3,4.0
-C11,Database System,3,1.5
-C12,Visual Programming,3,3.5
-C12,Macroeconomics,3,4.0
-C12,Database Application Software,3,4.0
-C12,Business Data Communication and Network,3,3.5
-C12,Computer Graphics Design,3,4.0
-C12,Human Computer Interaction,3,3.5
-C12,English for Business Communication,3,3.5
-C12,Business Law and Ethics,3,3.5
+C11,Statistics for Science,3,3.0
+C11,Database System for Information Technology,3,2.5
+C11,Physical Education,2,4.0
+C11,Structure Programming,3,2.5
+C11,Discrete Mathematics,3,3.0
+C11,English for Career,3,3.0
 C12,Object Oriented Programming,3,4.0
-C12,Sufficiency Economy to Sustainable Development,3,3.5
-C12,Online Business Management,3,4.0
+C12,Macroeconomics,3,3.5
+C12,Database Application Software,3,1.0
+C12,Business Data Communication and Network,3,3.5
+C12,Computer Graphics Design,3,3.5
+C12,Human Computer Interaction,3,3.5
+C12,English for Business Communication,3,2.5
+C12,Visual Programming,3,2.0
+C12,Systems Analysis and Design,3,3.5
+C12,Decision Support Systems,3,3.5
+C12,English through Media and Technology,3,3.0
+C12,Exercise for Health,3,4.0
+C12,Man and Ethics,3,4.0
 C12,Information for Report Writing,3,4.0
+C12,Business Finance,3,2.5
 C12,Pre Co-operative Education and Job Internship in Business Administration,1,1.0
-C12,Computer Information Systems Project,3,3.5
-C12,Seminar in Computer Information System,3,4.0
-C12,Computer Security,3,4.0
-C12,Social Network for Business,3,3.5
-C12,Information Retrieval,3,3.0
+C12,Computer Security,3,3.0
+C12,Social Network for Business,3,4.0
 C12,Co-operative Education in Business Administration,6,1.0
-C12,Decision Support Systems,3,2.5
-C12,English through Media and Technology,3,4.0
-C12,English for Communication,3,3.5
+C12,Computer Information Systems Project,3,3.5
+C12,Online Business Management,3,4.0
 C12,Web Programming,3,3.5
-C12,Introduction to Accounting,3,2.5
-C12,Principles of Marketing,3,3.5
-C12,Implementation of Information System in Business,3,4.0
-C12,English in Everyday Use,3,3.5
-C12,Thai for Communication,3,3.0
-C12,Organization and Management,3,3.5
-C12,Computer Programming 1,3,2.5
-C12,Information System in Organization,3,3.0
-C12,Physical Education,2,4.0
-C12,Elementary Statistics,3,3.5
-C12,Life and Social Skills,3,4.0
-C12,Systems Analysis and Design,3,3.0
-C12,Microeconomics,3,2.5
-C12,Thinking and Making Decision Scientifically,3,3.5
-C12,English for Career,3,3.0
-C12,Quantitative Analysis in Business,3,3.5
-C12,Data Structure and Algorithm,3,3.0
-C12,Production and Operations Management,3,3.5
-C12,Business Finance,3,1.0
+C12,Microeconomics,3,3.0
+C12,Quantitative Analysis in Business,3,4.0
+C12,Principles of Marketing,3,3.0
+C12,Implementation of Information System in Business,3,2.5
+C12,Special Topics,3,2.5
+C12,Physical Education,2,2.0
+C12,English in Everyday Use,3,1.5
+C12,Elementary Statistics,3,1.5
+C12,Introduction to Accounting,3,4.0
+C12,Organization and Management,3,2.5
+C12,Computer Programming 1,3,2.0
+C12,Thai for Communication,3,1.5
+C12,English for Communication,3,1.5
+C12,Information System in Organization,3,2.5
+C12,Business Law and Ethics,3,2.5
+C12,Thinking and Making Decision Scientifically,3,4.0
+C12,Sufficiency Economy to Sustainable Development,3,4.0
 C12,Database Management Systems,3,3.0
-C13,Science for Health,3,4.0
-C13,Mathematics and Statistics in Daily Life,3,4.0
-C13,Computer Architecture and Organization,3,3.5
-C13,Microcontroller System Design and Interface,3,3.0
-C13,System Analysis and Design,3,3.5
-C13,Software Design and Development,3,4.0
-C13,Artificial Intelligence and Machine Learning,3,4.0
-C13,Electric Circuits,3,1.0
-C13,Art of Living,3,4.0
-C13,Operating Systems,3,3.0
-C13,Co-operative Education in Computer Engineering,6,1.0
-C13,Computer Engineering Pre-Project,1,4.0
+C12,Data Structure and Algorithm,3,2.5
+C12,Production and Operations Management,3,3.5
+C12,Life and Social Skills,3,3.5
+C12,English for Career,3,2.0
 C13,Signals and Systems,3,4.0
-C13,Web Programming,3,4.0
-C13,Innovation and Technology,3,4.0
+C13,Software Design and Development,3,4.0
+C13,Computer Engineering Pre-Project,1,3.0
+C13,Scientific Thinking and Decision Making,3,3.5
 C13,Sufficiency Economy and Wisdom of Living,3,4.0
-C13,Computer Networks,3,4.0
+C13,Data Communication and Networks,3,2.0
+C13,System Analysis and Design,3,3.0
 C13,Computer Engineering Project,3,4.0
-C13,Fuzzy Set Theory,3,4.0
-C13,Activities for Health,3,4.0
-C13,Data Communication and Networks,3,1.5
-C13,Digital Circuits,3,3.0
-C13,Electrical Engineering Mathematics,3,1.0
-C13,Introduction to Database and Big Data Engineering,3,4.0
-C13,Computer Programming,3,2.0
-C13,Fundamental of Engineering Training,1,3.5
-C13,Electrical Instruments and Measurements,3,4.0
-C13,Calculus 1 for Engineers,3,4.0
+C13,Fuzzy Set Theory,3,3.0
+C13,Web Programming,3,2.0
+C13,Microcontroller System Design and Interface,3,2.5
+C13,Computer Networks,3,1.5
+C13,Artificial Intelligence and Machine Learning,3,4.0
+C13,Necessary Information Technology in Daily Life,3,4.0
+C13,Co-operative Education in Computer Engineering,6,1.0
+C13,Engineering Mechanics,3,3.0
+C13,Computer Architecture and Organization,3,2.0
+C13,Electric Circuits,3,2.0
+C13,Digital Circuits,3,4.0
+C13,Introduction to Database and Big Data Engineering,3,2.5
+C13,Operating Systems,3,1.5
+C13,Computer and Data Security,3,3.5
+C13,Process of Thinking and Problem Solving,3,4.0
+C13,Innovation and Technology,3,4.0
+C13,Art of Living,3,3.5
+C13,Engineering Materials,3,2.5
+C13,Fundamental of Engineering Training,1,2.5
+C13,Electrical Instruments and Measurements,3,2.5
 C13,English for Everyday Communication,3,3.5
 C13,Basic Computer Engineering Skills,1,4.0
-C13,Mathematical Foundations for Computer Engineering,3,3.0
-C13,Calculus 2 for Engineers,3,3.0
-C13,Physics 1 for Engineers,3,3.0
-C13,Physics 1 for Engineers Laboratory,1,3.5
-C13,Engineering Materials,3,4.0
-C13,English for Life Skills	,3,2.5
-C13,Data Structures and Algorithms,3,4.0
-C13,Computer and Data Security,3,4.0
-C13,Engineering Electronics,3,4.0
-C13,Academic English,3,2.5
-C13,Arts of Using Thai Language,3,4.0
-C13,"Society, Economy, Politics and Law",3,4.0
-C13,Engineering Drawing,3,4.0
-C13,Engineering Mechanics,3,3.5
-C13,Process of Thinking and Problem Solving,3,3.5
-C14,Fuzzy Set Theory,3,3.0
-C14,Computer Engineering Project,3,4.0
-C14,System Analysis and Design,3,3.0
-C14,Computer Engineering Pre-Project,1,3.0
-C14,Sufficiency Economy and Wisdom of Living,3,4.0
-C14,Scientific Thinking and Decision Making,3,3.5
-C14,Process of Thinking and Problem Solving,3,4.0
-C14,Signals and Systems,3,4.0
-C14,Data Communication and Networks,3,2.0
-C14,Web Programming,3,2.0
+C13,Mathematical Foundations for Computer Engineering,3,2.5
+C13,Calculus 1 for Engineers,3,3.5
+C13,Physics 1 for Engineers,3,2.5
+C13,Physics 1 for Engineers Laboratory,1,3.0
+C13,Computer Programming,3,1.5
+C13,Engineering Drawing,3,3.0
+C13,Engineering Electronics,3,2.0
+C13,Academic English,3,3.5
+C13,Arts of Using Thai Language,3,3.5
+C13,Data Structures and Algorithms,3,2.0
+C13,Electrical Engineering Mathematics,3,1.5
+C13,Calculus 2 for Engineers,3,4.0
+C13,Activities for Health,3,3.0
+C13,English for Life Skills	,3,3.5
+C13,Exercise for Health,3,4.0
+C14,Computer Engineering Pre-Project,1,3.5
+C14,Internet Programming,3,2.0
+C14,Computer Networks,3,1.0
+C14,Signals and Systems,3,2.5
+C14,Microprocessor and Interface,3,1.0
+C14,Digital Systems Design,3,1.0
+C14,Computer System Architectures and Organizations,3,1.5
+C14,Thai and International Food,3,2.5
+C14,Hardware Laboratory,1,3.5
+C14,Database Systems,3,3.0
+C14,Mathematics for Computer Engineering,3,1.0
+C14,Mathematics and Statistics in Daily Life,3,2.0
+C14,Electrical Circuits for Computer Engineering,3,1.0
+C14,Operating Systems,3,1.0
+C14,Digital Systems Design Laboratory,1,1.0
+C14,Parallel and Distributed Database Systems,3,3.5
+C14,Artificial Intelligence for Robots,3,3.0
+C14,Web Design and Development,3,3.0
+C14,Physics 2 for Engineers,3,1.5
+C14,Discrete Mathematics for Engineering,3,1.0
+C14,Numerical Methods for Computer Engineering,3,2.5
+C14,Parallel Programming for Cluster Systems,3,3.5
+C14,Computer Engineering Project,3,3.0
 C14,Co-operative Education in Computer Engineering,6,1.0
-C14,Computer Networks,3,1.5
-C14,Artificial Intelligence and Machine Learning,3,4.0
-C14,Necessary Information Technology in Daily Life,3,4.0
-C14,Engineering Mechanics,3,3.0
-C14,Computer Architecture and Organization,3,2.0
-C14,Electric Circuits,3,2.0
-C14,Digital Circuits,3,4.0
-C14,Microcontroller System Design and Interface,3,2.5
-C14,Software Design and Development,3,4.0
-C14,Operating Systems,3,1.5
-C14,Introduction to Database and Big Data Engineering,3,2.5
-C14,Fundamental of Engineering Training,1,2.5
-C14,Art of Living,3,3.5
-C14,Computer and Data Security,3,3.5
-C14,Engineering Materials,3,2.5
-C14,Electrical Instruments and Measurements,3,2.5
-C14,English for Everyday Communication,3,3.5
-C14,Computer Programming,3,1.5
-C14,Mathematical Foundations for Computer Engineering,3,2.5
-C14,Calculus 1 for Engineers,3,3.5
-C14,Physics 1 for Engineers,3,2.5
-C14,Physics 1 for Engineers Laboratory,1,3.0
+C14,Network Cabling Installation and Maintenance,3,3.5
+C14,Advanced Topics in Software Engineering,3,2.5
+C14,Cloud Computing,3,3.0
+C14,Data Structures and Algorithms,3,3.5
+C14,System Analysis and Design for Engineering,3,1.0
 C14,English for Life Skills	,3,3.5
-C14,Basic Computer Engineering Skills,1,4.0
-C14,Engineering Electronics,3,2.0
-C14,Engineering Drawing,3,3.0
-C14,Exercise for Health,3,4.0
-C14,Activities for Health,3,3.0
-C14,Calculus 2 for Engineers,3,4.0
-C14,Innovation and Technology,3,4.0
-C14,Data Structures and Algorithms,3,2.0
-C14,Arts of Using Thai Language,3,3.5
-C14,Academic English,3,3.5
-C14,Electrical Engineering Mathematics,3,1.5
-C15,Social Network for Business,3,4.0
-C15,Systems Analysis and Design,3,1.0
-C15,Decision Support Systems,3,1.5
-C15,Online Business Management,3,4.0
-C15,Information for Report Writing,3,3.0
-C15,Macroeconomics,3,3.0
-C15,Pre Co-operative Education and Job Internship in Business Administration,1,1.0
-C15,Database Application Software,3,1.5
-C15,Object Oriented Programming,3,2.0
-C15,Computer Security,3,2.5
-C15,English through Media and Technology,3,2.0
-C15,Computer Information Systems Project,3,2.5
-C15,Visual Programming,3,1.5
-C15,Information System in Organization,3,3.0
-C15,English for Business Communication,3,2.5
-C15,English in Everyday Use,3,3.5
-C15,Creative Thinking,3,4.0
-C15,Exercise for Health,3,3.5
-C15,Business Finance,3,2.0
-C15,Elementary Statistics,3,1.0
-C15,Co-operative Education in Business Administration,6,1.0
-C15,Business Law and Ethics,3,3.0
-C15,Data Structure and Algorithm,3,3.0
-C15,Sports for Competition,3,4.0
-C15,Human Computer Interaction,3,4.0
-C15,Computer Graphics Design,3,2.5
-C15,Principles of Marketing,3,2.0
-C15,Special Topics,3,1.5
-C15,Physical Education,2,2.5
-C15,English in Everyday Use,3,1.0
-C15,Thai for Communication,3,2.0
-C15,Introduction to Accounting,3,2.0
-C15,Organization and Management,3,2.5
-C15,Information System in Organization,3,1.5
-C15,English for Communication,3,1.5
-C15,Life and Social Skills,3,3.0
-C15,Implementation of Information System in Business,3,2.5
-C15,English for Career,3,1.0
-C15,Sufficiency Economy to Sustainable Development,3,3.5
-C15,Thinking and Making Decision Scientifically,3,3.0
-C15,Microeconomics,3,1.0
-C15,Quantitative Analysis in Business,3,3.0
-C15,Production and Operations Management,3,2.5
-C15,Database Management Systems,3,1.5
-C15,Data Structure and Algorithm,3,1.5
-C15,Web Programming,3,2.0
+C14,Physics 2 for Engineers Laboratory,1,2.5
+C14,Introduction to Digital Systems,3,1.5
+C14,Computer Engineering Laboratory,2,3.5
+C14,English in Everyday Use,3,4.0
+C14,Chemistry Laboratory for Engineers,1,2.0
+C14,Physics 1 for Engineers Laboratory,1,1.0
+C14,Computer Programming,3,1.5
+C14,Physical Education,2,2.0
+C14,Technical English,3,2.0
+C14,English for Communication,3,1.5
+C14,Sufficiency Economy to Sustainable Development,3,2.5
+C14,Chemistry for Engineers,3,2.0
+C14,Chinese for Communication,3,2.5
+C14,General Psychology,3,2.5
+C14,Calculus 1 for Engineers,3,1.0
+C14,Physics 1 for Engineers,3,1.5
+C14,Basic Computer Engineering Training,3,4.0
+C14,English for Career,3,4.0
+C14,Computer Programming,3,4.0
+C14,Engineering Mechanics,3,1.0
+C14,Engineering Drawing,3,2.0
+C14,Software Engineering,3,4.0
+C14,Electronic Circuits for Computer Engineering,3,1.5
+C14,Introduction to Environmental Engineering,1,3.0
+C14,"Ethical, Legal and Social Issues in Computer",1,2.0
+C14,Calculus 2 for Engineers,3,2.0
+C14,Software Laboratory,1,3.5
+C14,Advanced Computer Programming,3,1.0
+C14,International Relations,2,4.0
+C14,Fundamental Japanese Conversation,3,4.0
+C14,Thinking and Making Decision Scientifically,3,2.0
+C15,Business Finance,3,1.5
+C15,Web Programming,3,3.0
 C15,Business Data Communication and Network,3,2.5
+C15,Computer Graphics Design,3,3.5
+C15,Human Computer Interaction,3,4.0
+C15,English for Business Communication,3,2.0
+C15,Human Relations,3,3.5
+C15,Business Law and Ethics,3,3.0
+C15,Visual Programming,3,1.0
+C15,Online Business Management,3,4.0
+C15,Decision Support Systems,3,3.0
+C15,Sports for Competition,3,4.0
+C15,Information for Report Writing,3,3.5
+C15,Pre Co-operative Education and Job Internship in Business Administration,1,1.0
+C15,Computer Security,3,2.0
+C15,Social Network for Business,3,4.0
+C15,Co-operative Education in Business Administration,6,1.0
+C15,Computer Information Systems Project,3,3.5
+C15,Sufficiency Economy to Sustainable Development,3,3.0
+C15,Object Oriented Programming,3,3.5
+C15,English through Media and Technology,3,2.0
+C15,Database Application Software,3,2.5
+C15,Quantitative Analysis in Business,3,2.5
+C15,Principles of Marketing,3,2.0
+C15,Implementation of Information System in Business,3,3.5
+C15,Special Topics,3,4.0
+C15,Physical Education,2,4.0
+C15,English in Everyday Use,3,1.5
+C15,Thai for Communication,3,1.5
+C15,Elementary Statistics,3,2.0
+C15,Introduction to Accounting,3,4.0
+C15,Organization and Management,3,2.0
 C15,Computer Programming 1,3,1.0
-C16,Object Oriented Programming,3,3.5
-C16,Systems Analysis and Design,3,2.0
-C16,Visual Programming,3,1.5
+C15,Systems Analysis and Design,3,1.5
+C15,English for Communication,3,1.5
+C15,Life and Social Skills,3,3.5
+C15,Microeconomics,3,4.0
+C15,Production and Operations Management,3,3.0
+C15,Data Structure and Algorithm,3,2.5
+C15,Database Management Systems,3,3.0
+C15,English for Career,3,1.5
+C15,Thinking and Making Decision Scientifically,3,4.0
+C15,Macroeconomics,3,2.5
+C15,Information System in Organization,3,2.0
+C16,English for Business Communication,3,2.5
 C16,Human Computer Interaction,3,4.0
-C16,Human Relations,3,4.0
-C16,English for Business Communication,3,4.0
-C16,Decision Support Systems,3,2.0
-C16,Business Finance,3,1.5
-C16,Online Business Management,3,4.0
-C16,Social Network for Business,3,2.5
-C16,Quantitative Analysis in Business,3,1.0
+C16,Computer Graphics Design,3,4.0
+C16,Sufficiency Economy to Sustainable Development,3,4.0
+C16,Database Application Software,3,3.5
+C16,Macroeconomics,3,3.0
+C16,Business Law and Ethics,3,4.0
+C16,Business Data Communication and Network,3,3.5
+C16,Visual Programming,3,3.0
 C16,Pre Co-operative Education and Job Internship in Business Administration,1,1.0
-C16,Database Application Software,3,1.5
-C16,Computer Security,3,2.0
-C16,Fundamental Japanese Conversation,3,3.0
-C16,Co-operative Education in Business Administration,6,1.0
-C16,Business Law and Ethics,3,1.0
-C16,Computer Information Systems Project,3,3.5
-C16,Business Data Communication and Network,3,3.0
+C16,Decision Support Systems,3,4.0
+C16,Online Business Management,3,4.0
 C16,Information for Report Writing,3,3.0
+C16,Seminar in Computer Information System,3,4.0
+C16,Computer Security,3,4.0
+C16,Social Network for Business,3,3.0
+C16,Information Retrieval,3,3.0
+C16,Co-operative Education in Business Administration,6,1.0
+C16,English through Media and Technology,3,3.0
+C16,Object Oriented Programming,3,4.0
+C16,Computer Information Systems Project,3,3.5
+C16,Systems Analysis and Design,3,4.0
+C16,Quantitative Analysis in Business,3,4.0
 C16,Web Programming,3,4.0
-C16,Introduction to Accounting,3,1.0
-C16,Database Management Systems,3,1.5
-C16,Principles of Marketing,3,3.0
+C16,Introduction to Accounting,3,4.0
+C16,Principles of Marketing,3,4.0
 C16,Implementation of Information System in Business,3,4.0
-C16,Special Topics,3,3.0
+C16,English in Everyday Use,3,3.0
+C16,Elementary Statistics,3,4.0
+C16,Organization and Management,3,3.5
+C16,Computer Programming 1,3,2.5
+C16,Information System in Organization,3,3.5
+C16,Thai for Communication,3,4.0
+C16,English for Communication,3,2.5
+C16,Life and Social Skills,3,4.0
+C16,Business Finance,3,3.5
+C16,Production and Operations Management,3,4.0
+C16,Data Structure and Algorithm,3,3.5
+C16,Database Management Systems,3,2.5
+C16,English for Career,3,2.5
+C16,Thinking and Making Decision Scientifically,3,4.0
 C16,Physical Education,2,4.0
-C16,English in Everyday Use,3,4.0
-C16,Elementary Statistics,3,3.5
-C16,Organization and Management,3,2.5
-C16,Information System in Organization,3,2.0
-C16,English for Communication,3,4.0
-C16,Thai for Communication,3,2.0
 C16,Microeconomics,3,3.0
-C16,Life and Social Skills,3,3.5
-C16,Production and Operations Management,3,1.5
-C16,Macroeconomics,3,2.5
-C16,Thinking and Making Decision Scientifically,3,3.5
-C16,Data Structure and Algorithm,3,1.5
-C16,English through Media and Technology,3,4.0
-C16,English for Career,3,4.0
-C16,Computer Programming 1,3,1.5
-C16,Sufficiency Economy to Sustainable Development,3,3.5
-C17,Selected Programming Language,3,2.0
-C17,Ethics and Information Law,3,3.5
-C17,Data Communication and Computer Network System,3,3.5
-C17,Multimedia Technology,3,4.0
-C17,Analysis and Design of Algorithms,3,1.5
-C17,Computer Security,3,1.5
-C17,Package Program 1,3,4.0
-C17,Object-Oriented Software Development,3,4.0
-C17,Human Computer Interaction,3,2.5
-C17,Database System for Information Technology,3,1.0
-C17,Computer Science Project,3,1.0
-C17,System Analysis and Design for Information,3,3.0
-C17,Fundamental Chinese,3,4.0
-C17,Web Programming,3,2.5
-C17,Computer Science Seminar,1,4.0
-C17,Artificial Intelligence,3,3.0
-C17,Computer Science Research Methodology,3,4.0
+C17,Management Information System,3,4.0
+C17,"Computer Science in Community, Company and Coperation",1,4.0
+C17,System Analysis and Design,3,3.5
+C17,Internet of Things,3,3.5
+C17,Innovation and Technology,3,4.0
+C17,Electronic Commerce on Internet,3,3.0
+C17,Arts of Using Thai Language,3,3.5
+C17,Human Computer Interaction,3,4.0
 C17,Computer Network Management,3,4.0
-C17,Software Engineering for Information Technology,3,3.5
-C17,Job Internship in Computer science,6,1.0
-C17,Data Structures and Algorithms,3,2.5
+C17,Introduction of Artificial Intelligence,3,4.0
+C17,Computer Science Project,3,1.0
+C17,Software Engineering,3,3.5
 C17,Mobile Devices Programming,3,3.5
-C17,Operating Systems of Computer,3,1.0
-C17,English in Everyday Use,3,3.5
-C17,Statistics for Science,3,4.0
-C17,Microcomputer System and Interfacing,3,3.0
-C17,Thai for Communication,3,2.5
-C17,Sufficiency Economy to Sustainable Development,3,2.5
-C17,Environment and Development,3,2.5
-C17,Calculus 1,3,1.5
-C17,Principle of Physics,3,2.0
-C17,Life and Social Skills,3,1.5
-C17,General Psychology,3,2.5
-C17,Mathematics and Statistics in Daily Life,3,4.0
-C17,Calculus 2,3,1.0
-C17,English for Communication,3,4.0
-C17,Structure Programming,3,2.0
-C17,Programming Languages,3,2.0
-C17,Introduction to Computer,3,2.5
-C17,Object Oriented Programming,3,4.0
-C17,Discrete Mathematics,3,3.5
-C17,Introduction to Digital,3,3.5
-C17,Computer System and Assembly Languages,3,4.0
-C17,English for Career,3,4.0
-C17,Recreation,2,3.0
-C17,Computer Architecture,3,1.0
-C18,Computer Science Research Methodology,3,3.0
-C18,Microcomputer System and Interfacing,3,3.0
-C18,Innovation and Technology,3,3.0
-C18,System Analysis and Design,3,1.0
-C18,Computer System Security,3,1.5
-C18,Human Computer Interaction,3,4.0
-C18,Introduction of Artificial Intelligence,3,1.5
+C17,Art of Living,3,3.5
+C17,Ethics and Computer Law,3,2.5
+C17,Computer System Security,3,4.0
+C17,Computer Science Seminar,1,4.0
+C17,Computer Science Research Methodology,3,4.0
+C17,Job Internship in Computer science,3,1.0
+C17,Microcomputer System and Interfacing,3,4.0
+C17,Multimedia Technology,3,4.0
+C17,Data Communication and Computer Network System,3,2.5
+C17,Computer Science Pre-Project,3,4.0
+C17,Web Programming,3,4.0
+C17,Calculus 1,3,3.0
+C17,Fundamental Computer Science,3,2.5
+C17,Computer Programming,3,4.0
+C17,English for Everyday Communication,3,3.5
+C17,Science for Health,3,3.0
+C17,Calculus 2,3,2.5
+C17,Statistics for Science,3,3.5
+C17,Scientific Information for Computer Science,3,1.5
+C17,Object Oriented Programming,3,3.5
+C17,Activities for Health,3,3.0
+C17,Analysis and Design of Algorithms,3,3.5
+C17,Human Relations,3,4.0
+C17,Discrete Mathematics,3,2.5
+C17,Data Structures and Algorithms,3,3.0
+C17,Database Systems,3,3.0
+C17,Computer Organization and Architecture,3,4.0
+C17,Operating Systems,3,3.5
+C17,Process of Thinking and Problem Solving,3,4.0
+C17,English for Life Skills	,3,4.0
+C17,Numerical Methods,3,3.0
+C17,Academic English,3,2.5
 C18,Multimedia Technology,3,4.0
-C18,Software Engineering,3,1.0
-C18,Ethics and Computer Law,3,4.0
-C18,Cloud Computing,3,3.5
+C18,Introduction of Artificial Intelligence,3,1.0
+C18,Human Computer Interaction,3,4.0
+C18,Cloud Computing,3,3.0
+C18,System Analysis and Design,3,1.5
+C18,Innovation and Technology,3,3.5
+C18,Microcomputer System and Interfacing,3,3.5
+C18,Software Engineering,3,2.0
+C18,Computer System Security,3,2.0
+C18,Computer Science Research Methodology,3,3.0
+C18,Mobile Devices Programming,3,2.5
+C18,"Computer Science in Community, Company and Coperation",1,4.0
 C18,Electronic Commerce on Internet,3,3.5
-C18,Mobile Devices Programming,3,3.5
-C18,Internet of Things,3,3.0
+C18,Image Processing,3,3.5
 C18,Computer Science Seminar,1,4.0
 C18,Computer Science Pre-Project,3,1.0
-C18,Art of Living,3,2.5
-C18,Productivity Application,3,3.0
+C18,Art of Living,3,3.0
+C18,Productivity Application,3,2.5
 C18,Computer Science Project,3,4.0
-C18,Cooperative Education in Computer Science,6,1.0
-C18,"Computer Science in Community, Company and Coperation",1,3.0
-C18,Data Communication and Computer Network System,3,1.5
-C18,Calculus 1,3,1.0
-C18,Web Programming,3,3.0
-C18,Fundamental Computer Science,3,2.0
-C18,Computer Programming,3,1.5
-C18,English for Everyday Communication,3,4.0
-C18,Arts of Using Thai Language,3,1.5
-C18,Science for Health,3,3.5
-C18,Calculus 2,3,3.5
-C18,Statistics for Science,3,1.0
-C18,Scientific Information for Computer Science,3,3.5
-C18,Object Oriented Programming,3,2.5
-C18,Activities for Health,3,4.0
+C18,Data Communication and Computer Network System,3,1.0
+C18,Ethics and Computer Law,3,2.0
 C18,Analysis and Design of Algorithms,3,1.0
-C18,Human Relations,3,2.5
-C18,Discrete Mathematics,3,2.5
-C18,Data Structures and Algorithms,3,2.5
-C18,Database Systems,3,3.0
-C18,Computer Organization and Architecture,3,4.0
-C18,Operating Systems,3,3.5
-C18,Process of Thinking and Problem Solving,3,4.0
-C18,Academic English,3,1.0
+C18,Cooperative Education in Computer Science,6,1.0
 C18,Numerical Methods,3,1.5
-C18,English for Life Skills	,3,3.0
+C18,Fundamental Computer Science,3,1.5
+C18,Computer Programming,3,1.5
+C18,English for Everyday Communication,3,2.5
+C18,Arts of Using Thai Language,3,1.5
+C18,Science for Health,3,4.0
+C18,Calculus 1,3,1.0
+C18,Statistics for Science,3,1.0
+C18,Scientific Information for Computer Science,3,2.5
+C18,Object Oriented Programming,3,1.0
+C18,Activities for Health,3,4.0
+C18,Web Programming,3,2.0
+C18,Human Relations,3,3.0
+C18,Calculus 2,3,1.0
+C18,Discrete Mathematics,3,2.5
+C18,Data Structures and Algorithms,3,1.5
+C18,Database Systems,3,1.5
+C18,Computer Organization and Architecture,3,2.5
+C18,Operating Systems,3,1.5
+C18,Process of Thinking and Problem Solving,3,4.0
+C18,Academic English,3,1.5
+C18,English for Life Skills	,3,2.0
 C19,Multimedia Technology,3,4.0
 C19,Introduction of Artificial Intelligence,3,1.5
 C19,Human Computer Interaction,3,4.0
@@ -830,1218 +840,1218 @@ C19,Computer Science Seminar,1,4.0
 C19,Computer Science Pre-Project,3,1.0
 C19,Art of Living,3,2.0
 C19,Productivity Application,3,3.5
-C19,Cooperative Education in Computer Science,6,1.0
+C19,Computer Science Project,3,4.0
 C19,Data Communication and Computer Network System,3,3.5
 C19,Ethics and Computer Law,3,2.0
-C19,Analysis and Design of Algorithms,3,2.0
-C19,Computer Science Project,3,4.0
+C19,Cooperative Education in Computer Science,6,1.0
+C19,Web Programming,3,4.0
 C19,Numerical Methods,3,2.5
+C19,Analysis and Design of Algorithms,3,2.0
+C19,Calculus 1,3,2.0
 C19,Fundamental Computer Science,3,3.5
 C19,Computer Programming,3,4.0
 C19,English for Everyday Communication,3,4.0
 C19,Arts of Using Thai Language,3,1.0
-C19,Science for Health,3,3.0
 C19,Calculus 2,3,2.0
 C19,Statistics for Science,3,2.0
 C19,Scientific Information for Computer Science,3,3.5
 C19,Object Oriented Programming,3,2.0
-C19,Calculus 1,3,2.0
+C19,Science for Health,3,3.0
 C19,English for Life Skills	,3,4.0
 C19,Activities for Health,3,4.0
-C19,Academic English,3,3.0
 C19,Process of Thinking and Problem Solving,3,4.0
 C19,Operating Systems,3,4.0
-C19,Web Programming,3,4.0
-C19,Database Systems,3,3.0
+C19,Computer Organization and Architecture,3,3.0
+C19,Academic English,3,3.0
 C19,Data Structures and Algorithms,3,3.5
 C19,Discrete Mathematics,3,3.0
 C19,Human Relations,3,3.0
-C19,Computer Organization and Architecture,3,3.0
-C20,Composition 2,2,3.5
-C20,Thai Art 2,4,4.0
-C20,Thai Mural Painting,3,3.5
-C20,Innovation and Technology,3,3.5
-C20,Arts of Using Thai Language,3,4.0
-C20,Sufficiency Economy and Wisdom of Living,3,3.0
-C20,Experimental Art,2,4.0
-C20,Thai Art 3,4,3.5
-C20,Laikam Lanna,3,3.5
-C20,Watercolor Painting,3,3.0
-C20,Art Analysis,2,3.5
-C20,Creative Drawing,3,3.0
-C20,Printmaking 1,5,3.5
-C20,Seminar in Visual Art	,2,3.5
-C20,Art Exhibition Design,3,4.0
-C20,Art Thesis Preparation,6,3.5
-C20,Writing for Art Thesis,2,3.5
-C20,Lanna Studies,2,3.5
-C20,Art Thesis,12,4.0
-C20,Environment and Development,3,1.0
+C19,Database Systems,3,3.0
+C20,Art Analysis,2,2.5
+C20,Arts of Using Thai Language,3,3.0
+C20,"Society, Economy, Politics and Law",3,2.5
+C20,Computer Assisted Visual Art,2,3.0
+C20,Experimental Art,2,3.0
+C20,Sculpture 3,4,4.0
+C20,Environmental Sculpture,3,2.5
+C20,Human Relations,3,3.5
+C20,Watercolor Painting,3,3.5
+C20,Academic English,3,3.0
+C20,Sculpture 4,5,2.5
+C20,Innovation and Technology,3,3.0
 C20,Job Internship in Art,3,1.0
-C20,Process of Thinking and Problem Solving,3,1.0
-C20,Thai Art 1,4,3.0
-C20,Academic English,3,2.0
-C20,Drawing,2,2.5
-C20,Aesthetics,2,3.5
+C20,Seminar in Visual Art	,2,3.0
+C20,Art Exhibition Design,3,3.0
+C20,Art Thesis Preparation,6,3.5
+C20,Writing for Art Thesis,2,4.0
+C20,Art Thesis,12,3.0
+C20,Necessary Information Technology in Daily Life,3,4.0
+C20,Creative Drawing,3,1.5
+C20,Paper Art,3,3.5
+C20,Anatomy,2,4.0
+C20,Composition 2,2,1.0
+C20,Drawing,2,3.0
+C20,Aesthetics,2,3.0
 C20,Theory of Color,2,3.0
-C20,History and Style of Eastern Art,3,3.0
-C20,Computer Assisted Visual Art,2,4.0
-C20,Art of Living,3,2.0
-C20,English for Everyday Communication,3,4.0
-C20,Traditional Thai Art,2,3.0
-C20,Visual Art 1,3,3.5
-C20,History and Style of Western Art,3,4.0
-C20,Introduction to Composition,2,4.0
+C20,History and Style of Eastern Art,3,2.0
+C20,Visual Art 1,3,4.0
+C20,Art of Living,3,3.0
+C20,English for Everyday Communication,3,2.5
+C20,Introduction to Composition,2,3.5
+C20,History and Style of Western Art,3,2.0
+C20,Drawing 1,2,2.5
+C20,Sculpture 2,4,3.5
+C20,Activities for Health,3,1.0
+C20,English for Life Skills	,3,2.5
+C20,Contemporary Art,3,4.0
 C20,Drawing 2,2,2.0
-C20,Anatomy,2,3.5
-C20,Contemporary Art,3,3.5
 C20,Composition 1,2,3.0
-C20,Activities for Health,3,4.0
-C20,Visual Art 2,3,4.0
-C20,Drawing 1,2,3.0
-C20,English for Life Skills	,3,2.0
-C21,Integrative Programming and Web Technology,3,3.0
-C21,Computer Network Administration,3,3.5
-C21,Science for Health,3,4.0
-C21,Project Management in Information Technology,3,3.5
-C21,Human Computer Interaction,3,3.0
-C21,Data Warehouse and Data Mining,3,3.0
+C20,Sculpture 1,4,2.5
+C20,Process of Thinking and Problem Solving,3,1.5
+C20,Traditional Thai Art,2,3.0
+C20,Lanna Studies,2,1.5
+C20,Visual Art 2,3,3.5
+C21,Object Oriented Analysis and Design,3,3.0
 C21,Electronic Commerce,3,3.0
-C21,Data Structure and Algorithm,3,3.0
-C21,Multimedia Technology,3,4.0
-C21,Web Technology,3,3.5
-C21,Mobile Devices Programming,3,4.0
-C21,Cloud Computing,3,4.0
+C21,Information Management,3,1.5
+C21,Ethics and Information Law,3,3.0
+C21,System Analysis and Design for Information,3,3.5
+C21,Computer Network Management,3,3.5
+C21,Project Management in Information Technology,3,3.5
+C21,Fundamental Chinese,3,2.0
+C21,Human Computer Interaction,3,3.0
+C21,Multimedia Technology,3,3.5
 C21,Information Technology Research Methodology,3,3.5
-C21,Chinese for Communication,3,2.0
-C21,Information System Security,3,3.0
-C21,Information Technology Project,3,1.0
-C21,Information Technology Seminar,1,3.5
-C21,Special Topic in Information Technology,3,3.0
+C21,Selected Programming Language,3,3.0
+C21,Mobile Devices Programming,3,3.0
 C21,Job Internship in Information Technology,6,1.0
-C21,Software Engineering,3,4.0
-C21,System Analysis and Design,3,3.5
-C21,Art of Living,3,4.0
-C21,Decision Support System,3,4.0
-C21,Principle of Physics,3,3.0
-C21,Discrete Mathematics,3,2.0
-C21,Fundamentals of Information Technology,3,3.0
-C21,English for Everyday Communication,3,2.5
-C21,Arts of Using Thai Language,3,1.5
-C21,Sufficiency Economy and Wisdom of Living,3,3.5
-C21,Calculus 1,3,2.5
+C21,Information Technology Seminar,1,4.0
+C21,Information System Security,3,2.0
+C21,Information Technology Project,3,1.0
+C21,Special Topic in Information Technology,3,3.0
 C21,Management Information System,3,4.0
-C21,Fundamentals of Programming,3,3.5
-C21,Ethics and Information Law,3,4.0
-C21,Process of Thinking and Problem Solving,3,4.0
-C21,English for Life Skills	,3,1.0
-C21,Statistics for Science,3,3.0
-C21,Database System,3,2.0
-C21,Computer Platform Technology,3,2.0
-C21,Object Oriented Programming,3,4.0
+C21,Chinese for Communication,3,3.5
+C21,Thinking and Making Decision Scientifically,3,4.0
+C21,Web Programming,3,4.0
 C21,Data Communication and Computer Network System,3,4.0
-C21,Innovation and Technology,3,4.0
-C21,Academic English,3,1.0
-C21,Activities for Health,3,4.0
-C22,"Ethical, Legal and Social Issues in Computer",1,4.0
-C22,International Relations,2,4.0
-C22,Exercise for Health,3,4.0
+C21,Technical English,3,3.5
+C21,English in Everyday Use,3,1.5
+C21,General Psychology,3,3.5
+C21,Sufficiency Economy to Sustainable Development,3,3.0
+C21,Calculus 1,3,2.0
+C21,Introduction to Physics,3,2.0
+C21,Introduction to Computer,3,3.0
+C21,English for Communication,3,3.0
+C21,Thai for Communication,3,3.0
+C21,Life and Social Skills,3,3.5
+C21,Introduction to Physics Laboratory,1,3.0
+C21,Systems Information Technology in Organization,3,3.5
+C21,Discrete Mathematics,3,2.5
+C21,Structure Programming,3,2.5
+C21,Physical Education,2,4.0
+C21,English for Career,3,1.5
+C21,Statistics for Science,3,2.5
+C21,Computer Platform Technology,3,2.5
+C21,Object Oriented Programming,3,2.5
+C21,Technological Mathematics,3,2.5
+C21,Database System for Information Technology,3,2.0
+C22,Artificial Intelligence for Robots,3,4.0
+C22,Computer Networks,3,2.5
 C22,Object Oriented Programming,3,4.0
-C22,Sufficiency Economy to Sustainable Development,3,3.5
-C22,Electrical Circuits for Computer Engineering,3,1.0
-C22,Engineering Mechanics,3,2.5
+C22,Introduction to Environmental Engineering,1,4.0
 C22,Thinking and Making Decision Scientifically,3,3.0
+C22,Database Systems,3,4.0
+C22,Exercise for Health,3,4.0
+C22,Microprocessor and Interface,3,2.0
+C22,Electrical Circuits for Computer Engineering,3,1.0
+C22,Computer Engineering Pre-Project,1,4.0
+C22,Thai for Communication,3,4.0
+C22,International Relations,2,4.0
+C22,Software Engineering,3,4.0
 C22,Discrete Mathematics for Engineering,3,4.0
-C22,Creative Writing,3,3.0
-C22,Software Engineering,3,3.0
-C22,System Analysis and Design for Engineering,3,2.5
-C22,Computer Networks,3,2.0
-C22,Computer Engineering Laboratory,2,3.0
+C22,System Analysis and Design for Engineering,3,4.0
+C22,Computer Engineering Laboratory,2,4.0
 C22,Numerical Methods for Computer Engineering,3,4.0
-C22,Signals and Systems,3,3.0
-C22,Parallel and Distributed Database Systems,3,3.0
-C22,Internet Programming,3,2.5
-C22,Computer Engineering Pre-Project,1,3.5
-C22,"Society, Economy, Politics and Law",3,4.0
-C22,Microprocessor and Interface,3,1.0
-C22,Operating Systems,3,1.5
+C22,Image Processing and Computer Vision,3,4.0
+C22,Computer Engineering Project,3,4.0
+C22,Mathematics for Computer Engineering,3,4.0
 C22,Co-operative Education in Computer Engineering,6,1.0
-C22,Computer Engineering Project,3,3.5
-C22,Digital Communication,3,3.0
-C22,Introduction to Environmental Engineering,1,2.0
-C22,Database Systems,3,3.5
-C22,Elementary Statistics,3,3.0
-C22,English in Everyday Use,3,1.0
-C22,Engineering Drawing,3,3.0
-C22,Chemistry for Engineers,3,1.5
+C22,Operating Systems,3,4.0
+C22,Signals and Systems,3,4.0
+C22,Internet Programming,3,4.0
+C22,Engineering Mechanics,3,4.0
+C22,"Ethical, Legal and Social Issues in Computer",1,4.0
+C22,Engineering Drawing,3,2.5
+C22,Physics 1 for Engineers,3,3.0
+C22,Life Skills and Volunteer Mind,3,4.0
+C22,English in Everyday Use,3,2.5
+C22,Elementary Statistics,3,4.0
+C22,Chemistry for Engineers,3,3.0
 C22,Chemistry Laboratory for Engineers,1,3.0
-C22,Physics 1 for Engineers,3,2.0
-C22,Physics 1 for Engineers Laboratory,1,3.5
-C22,Computer Programming,3,1.5
+C22,Physics 1 for Engineers Laboratory,1,4.0
+C22,Computer Programming,3,4.0
 C22,Basic Computer Engineering Training,3,4.0
 C22,Physical Education,2,4.0
-C22,English for Communication,3,2.0
-C22,Calculus 2 for Engineers,3,3.5
-C22,Electronic Circuits for Computer Engineering,3,2.0
+C22,English for Communication,3,4.0
+C22,Calculus 2 for Engineers,3,4.0
+C22,Physics 2 for Engineers,3,4.0
+C22,Physics 2 for Engineers Laboratory,1,4.0
 C22,Calculus 1 for Engineers,3,4.0
-C22,Introduction to Digital Systems,3,2.5
-C22,Advanced Computer Programming,3,1.5
-C22,English for Career,3,2.0
-C22,Computer System Architectures and Organizations,3,2.0
-C22,Digital Systems Design Laboratory,1,1.0
-C22,Digital Systems Design,3,2.5
-C22,Life Skills and Volunteer Mind,3,4.0
-C22,Mathematics for Computer Engineering,3,1.0
-C22,Physics 2 for Engineers Laboratory,1,3.5
-C22,Physics 2 for Engineers,3,3.5
-C22,Technical English,3,2.0
-C22,Data Structures and Algorithms,3,1.5
-C23,Project Management in Information Technology,3,3.5
+C22,Advanced Computer Programming,3,4.0
+C22,Electronic Circuits for Computer Engineering,3,3.5
+C22,Computer System Architectures and Organizations,3,4.0
+C22,Digital Systems Design Laboratory,1,2.0
+C22,Digital Systems Design,3,3.0
+C22,Data Structures and Algorithms,3,4.0
+C22,English for Career,3,3.5
+C22,Sufficiency Economy to Sustainable Development,3,4.0
+C22,General Psychology,3,4.0
+C22,Technical English,3,3.0
+C22,Introduction to Digital Systems,3,3.0
+C22,Mathematics for Computer Engineering,3,1.5
+C23,Project Management in Information Technology,3,4.0
 C23,Web Programming,3,4.0
+C23,Ethics and Information Law,3,4.0
 C23,Computer Network Management,3,3.5
 C23,System Analysis and Design for Information,3,3.5
-C23,Fundamental Chinese,3,2.0
-C23,Information Management,3,1.5
-C23,Electronic Commerce,3,3.0
+C23,Fundamental Chinese,3,4.0
+C23,Information Management,3,2.0
+C23,Electronic Commerce,3,3.5
 C23,Object Oriented Analysis and Design,3,3.0
-C23,Human Computer Interaction,3,3.0
+C23,Human Computer Interaction,3,3.5
 C23,Job Internship in Information Technology,6,1.0
-C23,Information Technology Research Methodology,3,3.5
-C23,Selected Programming Language,3,3.0
-C23,Mobile Devices Programming,3,3.0
-C23,Multimedia Technology,3,3.5
+C23,Information Technology Research Methodology,3,4.0
+C23,Selected Programming Language,3,2.5
+C23,Mobile Devices Programming,3,3.5
+C23,Multimedia Technology,3,4.0
 C23,Information Technology Seminar,1,4.0
-C23,Information System Security,3,2.0
+C23,Information System Security,3,3.5
 C23,Information Technology Project,3,1.0
 C23,Special Topic in Information Technology,3,3.0
-C23,Management Information System,3,4.0
-C23,Chinese for Communication,3,3.5
+C23,Management Information System,3,3.5
+C23,Chinese for Communication,3,3.0
 C23,Thinking and Making Decision Scientifically,3,4.0
-C23,Ethics and Information Law,3,3.0
-C23,Data Communication and Computer Network System,3,4.0
-C23,General Psychology,3,3.5
-C23,Sufficiency Economy to Sustainable Development,3,3.0
-C23,Calculus 1,3,2.0
-C23,Introduction to Physics,3,2.0
-C23,Introduction to Physics Laboratory,1,3.0
-C23,Introduction to Computer,3,3.0
-C23,English for Communication,3,3.0
-C23,Thai for Communication,3,3.0
-C23,Life and Social Skills,3,3.5
-C23,Technological Mathematics,3,2.5
-C23,English in Everyday Use,3,1.5
-C23,Discrete Mathematics,3,2.5
-C23,Structure Programming,3,2.5
-C23,Physical Education,2,4.0
-C23,English for Career,3,1.5
-C23,Statistics for Science,3,2.5
 C23,Computer Platform Technology,3,2.5
-C23,Technical English,3,3.5
-C23,Object Oriented Programming,3,2.5
-C23,Database System for Information Technology,3,2.0
-C23,Systems Information Technology in Organization,3,3.5
-C24,Woodcut,3,4.0
-C24,Printmaking 3,4,4.0
-C24,Experimental Art,2,4.0
-C24,Printmaking 2,4,4.0
-C24,Innovation and Technology,3,4.0
-C24,Applied Printmaking,3,4.0
+C23,Data Communication and Computer Network System,3,3.0
+C23,General Psychology,3,4.0
+C23,Sufficiency Economy to Sustainable Development,3,4.0
+C23,Calculus 1,3,2.5
+C23,Introduction to Physics,3,2.5
+C23,Introduction to Physics Laboratory,1,3.5
+C23,Introduction to Computer,3,3.5
+C23,English for Communication,3,2.5
+C23,Thai for Communication,3,3.5
+C23,Life and Social Skills,3,3.5
+C23,English in Everyday Use,3,2.5
+C23,Systems Information Technology in Organization,3,3.0
+C23,Discrete Mathematics,3,3.5
+C23,Structure Programming,3,4.0
+C23,Physical Education,2,4.0
+C23,English for Career,3,2.5
+C23,Statistics for Science,3,3.5
+C23,Technical English,3,3.0
+C23,Object Oriented Programming,3,4.0
+C23,Database System for Information Technology,3,3.5
+C23,Technological Mathematics,3,4.0
 C24,Environment and Development,3,3.5
-C24,Arts of Using Thai Language,3,3.0
-C24,Human Relations,3,3.0
+C24,Media Art 3,4,4.0
+C24,Experimental Art,2,4.0
+C24,Composition 2,2,4.0
+C24,Innovation and Technology,3,4.0
+C24,Electronic Print Media,3,4.0
+C24,Human Relations,3,4.0
+C24,Arts of Using Thai Language,3,3.5
+C24,Art Analysis,2,4.0
 C24,Job Internship in Art,3,1.0
-C24,Watercolor Painting,3,4.0
 C24,Creative Drawing,3,3.5
-C24,Printmaking 4,5,4.0
+C24,Media Art 4,5,4.0
+C24,Experimental Art for Media Art,3,4.0
 C24,Seminar in Visual Art	,2,4.0
 C24,Art Exhibition Design,3,4.0
 C24,Art Thesis Preparation,6,4.0
 C24,Writing for Art Thesis,2,4.0
 C24,Art Thesis,12,4.0
-C24,Composition 2,2,3.5
-C24,Art Analysis,2,4.0
-C24,Lanna Studies,2,2.5
-C24,Academic English,3,1.0
-C24,Process of Thinking and Problem Solving,3,4.0
-C24,Drawing,2,4.0
-C24,Aesthetics,2,4.0
-C24,Theory of Color,2,4.0
+C24,Lanna Studies,2,3.5
+C24,Watercolor Painting,3,3.5
+C24,Academic English,3,2.5
+C24,Media Art 2,4,2.0
+C24,Media Art 1,4,3.0
+C24,Process of Thinking and Problem Solving,3,3.5
+C24,Drawing,2,3.5
+C24,Aesthetics,2,3.5
+C24,Theory of Color,2,3.5
 C24,History and Style of Eastern Art,3,4.0
-C24,Computer Assisted Visual Art,2,4.0
-C24,Art of Living,3,3.0
-C24,English for Everyday Communication,3,2.0
-C24,Traditional Thai Art,2,3.5
-C24,Introduction to Composition,2,4.0
 C24,Visual Art 1,3,4.0
-C24,Drawing 1,2,3.0
-C24,History and Style of Western Art,3,3.0
-C24,Composition 1,2,4.0
-C24,Drawing 2,2,3.0
-C24,Anatomy,2,3.0
-C24,Printmaking 1,4,4.0
-C24,English for Life Skills	,3,2.5
-C24,Activities for Health,3,3.5
+C24,Art of Living,3,3.5
+C24,English for Everyday Communication,3,2.0
+C24,Traditional Thai Art,2,4.0
+C24,Introduction to Composition,2,4.0
+C24,Computer Assisted Visual Art,2,4.0
+C24,Drawing 1,2,2.5
 C24,Visual Art 2,3,4.0
-C24,Contemporary Art,3,3.5
-C25,Web Programming,3,3.0
-C25,Computer Architecture and Organization,3,3.5
-C25,Microcontroller System Design and Interface,3,2.5
-C25,System Analysis and Design,3,2.5
-C25,Software Design and Development,3,4.0
-C25,Artificial Intelligence and Machine Learning,3,4.0
+C24,Activities for Health,3,3.0
+C24,English for Life Skills	,3,2.0
+C24,Contemporary Art,3,4.0
+C24,Anatomy,2,2.0
+C24,Drawing 2,2,4.0
+C24,History and Style of Western Art,3,3.5
+C24,Composition 1,2,4.0
+C25,Numerical Methods for Computer Engineering,3,3.5
+C25,Computer Engineering Laboratory,2,3.5
+C25,Software Engineering,3,4.0
+C25,Database Systems,3,2.0
 C25,Operating Systems,3,1.5
-C25,Data Communication and Networks,3,2.5
-C25,Computer Engineering Pre-Project,1,4.0
-C25,Electrical Engineering Mathematics,3,1.0
-C25,Co-operative Education in Computer Engineering,6,1.0
-C25,English for Life Skills	,3,4.0
-C25,Computer Networks,3,4.0
-C25,Computer Engineering Project,3,4.0
-C25,Software Project Management,3,3.5
-C25,Cloud Computing,3,4.0
-C25,Electric Circuits,3,2.5
-C25,Activities for Health,3,4.0
-C25,Sufficiency Economy and Wisdom of Living,3,4.0
+C25,Computer System Architectures and Organizations,3,2.0
 C25,Exercise for Health,3,4.0
-C25,Art of Living,3,4.0
-C25,Mathematics and Statistics in Daily Life,3,3.5
-C25,Engineering Materials,3,2.0
-C25,Calculus 2 for Engineers,3,2.0
-C25,Innovation and Technology,3,4.0
-C25,Computer Programming,3,2.5
-C25,Fundamental of Engineering Training,1,3.0
-C25,Electrical Instruments and Measurements,3,1.0
-C25,Calculus 1 for Engineers,3,1.5
-C25,English for Everyday Communication,3,4.0
-C25,Mathematical Foundations for Computer Engineering,3,2.5
-C25,Physics 1 for Engineers,3,1.5
-C25,Physics 1 for Engineers Laboratory,1,4.0
-C25,Process of Thinking and Problem Solving,3,3.5
-C25,Basic Computer Engineering Skills,1,3.5
-C25,Computer and Data Security,3,4.0
-C25,Data Structures and Algorithms,3,1.5
-C25,Introduction to Database and Big Data Engineering,3,3.5
-C25,Engineering Mechanics,3,1.5
-C25,Engineering Drawing,3,4.0
-C25,Digital Circuits,3,3.0
-C25,Arts of Using Thai Language,3,4.0
-C25,Academic English,3,4.0
-C25,Engineering Electronics,3,4.0
+C25,Microprocessor and Interface,3,1.0
+C25,Data Structures and Algorithms,3,2.0
 C25,"Society, Economy, Politics and Law",3,4.0
-C26,Environment and Development,3,3.5
+C25,International Relations,2,4.0
+C25,Project Management in Computer Engineering,1,3.5
+C25,System Analysis and Design for Engineering,3,2.0
+C25,Computer Networks,3,2.5
+C25,Software Laboratory,1,4.0
+C25,Hardware Laboratory,1,3.0
+C25,Parallel and Distributed Database Systems,3,3.5
+C25,Internet Programming,3,3.0
+C25,Computer Engineering Pre-Project,1,4.0
+C25,Physics 2 for Engineers Laboratory,1,4.0
+C25,"Ethical, Legal and Social Issues in Computer",1,4.0
+C25,Electrical Circuits for Computer Engineering,3,2.0
+C25,Co-operative Education in Computer Engineering,6,1.0
+C25,Computer Engineering Project,3,3.0
+C25,Mathematics for Computer Engineering,3,1.0
+C25,Signals and Systems,3,2.5
+C25,Engineering Mechanics,3,1.0
+C25,Artificial Intelligence for Robots,3,3.0
+C25,Creative Writing,3,4.0
+C25,English in Everyday Use,3,2.5
+C25,Calculus 1 for Engineers,3,2.5
+C25,Thinking and Making Decision Scientifically,3,2.5
+C25,Chemistry Laboratory for Engineers,1,2.5
+C25,Physics 1 for Engineers,3,2.0
+C25,Physics 1 for Engineers Laboratory,1,3.5
+C25,Computer Programming,3,1.0
+C25,Basic Computer Engineering Training,3,4.0
+C25,Physical Education,2,4.0
+C25,English for Communication,3,2.5
+C25,Calculus 2 for Engineers,3,1.0
+C25,Advanced Computer Programming,3,3.0
+C25,Chemistry for Engineers,3,2.0
+C25,Technical English,3,1.5
+C25,Introduction to Digital Systems,3,3.0
+C25,Discrete Mathematics for Engineering,3,1.0
+C25,Electronic Circuits for Computer Engineering,3,2.0
+C25,Engineering Drawing,3,3.0
+C25,Elementary Statistics,3,3.0
+C25,Introduction to Environmental Engineering,1,2.5
+C25,Digital Systems Design Laboratory,1,1.0
+C25,Digital Systems Design,3,2.5
+C25,Physics 2 for Engineers,3,2.0
+C25,Sufficiency Economy to Sustainable Development,3,3.5
+C25,General Psychology,3,2.5
+C25,English for Career,3,3.0
 C26,Media Art 2,4,3.0
-C26,Electronic Print Media,3,4.0
+C26,Human Relations,3,3.5
+C26,Electronic Print Media,3,3.5
 C26,Innovation and Technology,3,4.0
-C26,Arts of Using Thai Language,3,3.5
-C26,"Society, Economy, Politics and Law",3,4.0
+C26,Arts of Using Thai Language,3,2.5
 C26,Experimental Art,2,4.0
-C26,Media Art 3,4,4.0
-C26,Art Analysis,2,4.0
-C26,Composition 2,2,3.5
-C26,Creative Drawing,3,3.0
+C26,Media Art 3,4,3.5
+C26,Environment and Development,3,3.5
+C26,Art Analysis,2,3.5
+C26,Art Exhibition Design,3,4.0
+C26,Creative Drawing,3,3.5
 C26,Media Art 4,5,4.0
-C26,Experimental Art for Media Art,3,3.0
+C26,Experimental Art for Media Art,3,4.0
 C26,Job Internship in Art,3,1.0
 C26,Seminar in Visual Art	,2,2.5
-C26,Art Exhibition Design,3,4.0
-C26,Art Thesis Preparation,6,3.5
+C26,Art Thesis Preparation,6,4.0
 C26,Writing for Art Thesis,2,4.0
 C26,Art Thesis,12,4.0
-C26,Watercolor Painting,3,3.0
-C26,Lanna Studies,2,3.0
-C26,Aesthetics,2,4.0
-C26,Process of Thinking and Problem Solving,3,4.0
-C26,Academic English,3,2.0
+C26,Composition 2,2,3.5
+C26,Watercolor Painting,3,3.5
+C26,Lanna Studies,2,2.5
+C26,Composition 1,2,3.5
+C26,Process of Thinking and Problem Solving,3,3.0
+C26,Academic English,3,1.5
+C26,Drawing,2,4.0
+C26,Aesthetics,2,2.0
 C26,Theory of Color,2,4.0
 C26,History and Style of Eastern Art,3,4.0
 C26,Computer Assisted Visual Art,2,4.0
-C26,Visual Art 1,3,4.0
-C26,Art of Living,3,3.0
-C26,English for Everyday Communication,3,4.0
-C26,Traditional Thai Art,2,4.0
+C26,Art of Living,3,2.5
+C26,English for Everyday Communication,3,2.5
+C26,Traditional Thai Art,2,3.5
 C26,Introduction to Composition,2,4.0
-C26,Drawing,2,4.0
-C26,Drawing 1,2,4.0
-C26,Visual Art 2,3,3.5
-C26,Activities for Health,3,3.5
-C26,English for Life Skills	,3,3.5
-C26,Contemporary Art,3,3.5
-C26,Anatomy,2,3.5
+C26,Visual Art 1,3,4.0
+C26,Drawing 1,2,3.0
+C26,History and Style of Western Art,3,3.0
 C26,Drawing 2,2,4.0
-C26,Composition 1,2,4.0
-C26,Media Art 1,4,4.0
-C26,History and Style of Western Art,3,3.5
-C27,Object Oriented Analysis and Design,3,3.5
-C27,Electronic Commerce,3,3.5
-C27,Information Management,3,2.5
+C26,Anatomy,2,2.0
+C26,Contemporary Art,3,2.0
+C26,Media Art 1,4,2.5
+C26,Activities for Health,3,2.0
+C26,Visual Art 2,3,3.5
+C26,English for Life Skills	,3,2.0
+C27,Project Management in Information Technology,3,4.0
+C27,Web Programming,3,4.0
 C27,Ethics and Information Law,3,3.0
-C27,System Analysis and Design for Information,3,4.0
 C27,Computer Network Management,3,4.0
-C27,Project Management in Information Technology,3,3.0
-C27,Fundamental Chinese,3,3.0
-C27,Human Computer Interaction,3,3.5
-C27,Mobile Devices Programming,3,3.5
-C27,Information Technology Research Methodology,3,3.5
-C27,Selected Programming Language,3,3.5
+C27,System Analysis and Design for Information,3,4.0
+C27,Fundamental Chinese,3,4.0
+C27,Information Management,3,4.0
+C27,Electronic Commerce,3,4.0
+C27,Object Oriented Analysis and Design,3,4.0
+C27,Human Computer Interaction,3,4.0
+C27,Special Topic in Information Technology,3,3.5
+C27,Information Technology Research Methodology,3,4.0
+C27,Selected Programming Language,3,4.0
+C27,Mobile Devices Programming,3,4.0
 C27,Multimedia Technology,3,4.0
 C27,Job Internship in Information Technology,6,1.0
 C27,Information Technology Seminar,1,4.0
-C27,Information System Security,3,2.0
+C27,Information System Security,3,3.0
 C27,Information Technology Project,3,1.0
-C27,Management Information System,3,3.5
-C27,Special Topic in Information Technology,3,3.5
-C27,Chinese for Communication,3,3.5
+C27,Management Information System,3,4.0
+C27,Chinese for Communication,3,4.0
 C27,Thinking and Making Decision Scientifically,3,4.0
-C27,Web Programming,3,4.0
-C27,Data Communication and Computer Network System,3,3.0
-C27,Technical English,3,3.5
-C27,English in Everyday Use,3,2.0
-C27,General Psychology,3,3.5
-C27,Sufficiency Economy to Sustainable Development,3,3.5
+C27,English in Everyday Use,3,3.0
+C27,Data Communication and Computer Network System,3,4.0
+C27,Technical English,3,4.0
+C27,General Psychology,3,4.0
+C27,Sufficiency Economy to Sustainable Development,3,3.0
 C27,Calculus 1,3,2.5
-C27,Introduction to Physics Laboratory,1,3.5
+C27,Introduction to Physics Laboratory,1,4.0
 C27,Introduction to Computer,3,3.0
-C27,English for Communication,3,3.0
+C27,English for Communication,3,4.0
 C27,Thai for Communication,3,4.0
 C27,Life and Social Skills,3,3.5
-C27,Introduction to Physics,3,2.5
-C27,Systems Information Technology in Organization,3,3.5
-C27,Discrete Mathematics,3,3.0
-C27,Structure Programming,3,2.5
+C27,Introduction to Physics,3,3.5
+C27,Systems Information Technology in Organization,3,4.0
+C27,Discrete Mathematics,3,4.0
+C27,Structure Programming,3,4.0
 C27,Physical Education,2,4.0
-C27,English for Career,3,3.0
-C27,Statistics for Science,3,3.0
-C27,Computer Platform Technology,3,2.5
-C27,Object Oriented Programming,3,3.0
-C27,Technological Mathematics,3,2.5
-C27,Database System for Information Technology,3,2.5
-C28,Hardware Laboratory,1,3.5
-C28,Computer Networks,3,1.0
-C28,Database Systems,3,4.0
-C28,Introduction to Digital Systems,3,1.5
-C28,English for Life Skills	,3,3.0
-C28,Engineering Mechanics,3,2.0
-C28,Computer Engineering Laboratory,2,3.5
+C27,English for Career,3,4.0
+C27,Statistics for Science,3,4.0
+C27,Computer Platform Technology,3,3.0
+C27,Object Oriented Programming,3,4.0
+C27,Technological Mathematics,3,3.5
+C27,Database System for Information Technology,3,4.0
+C28,English for Life Skills	,3,4.0
+C28,Numerical Methods for Computer Engineering,3,3.5
+C28,Computer Engineering Laboratory,2,4.0
+C28,Project Management in Computer Engineering,1,4.0
 C28,Electrical Circuits for Computer Engineering,3,1.0
-C28,Software Engineering,3,3.5
-C28,Operating Systems,3,1.0
-C28,Numerical Methods for Computer Engineering,3,4.0
-C28,System Analysis and Design for Engineering,3,1.5
-C28,Parallel Programming for Cluster Systems,3,3.5
+C28,Engineering Mechanics,3,3.5
+C28,Hardware Laboratory,1,4.0
+C28,Software Engineering,3,4.0
+C28,Thinking and Making Decision Scientifically,3,2.5
+C28,Data Structures and Algorithms,3,2.5
+C28,Engineering Drawing,3,4.0
+C28,Exercise for Health,3,4.0
+C28,Parallel and Distributed Database Systems,3,3.0
+C28,Database Systems,3,3.5
+C28,Computer Networks,3,2.5
+C28,Computer Engineering Pre-Project,1,4.0
+C28,Introduction to Environmental Engineering,1,2.5
+C28,"Ethical, Legal and Social Issues in Computer",1,4.0
 C28,Microprocessor and Interface,3,2.0
-C28,Signals and Systems,3,3.0
-C28,Computer Engineering Pre-Project,1,3.5
-C28,Life and Social Skills,3,2.5
-C28,Parallel and Distributed Database Systems,3,3.5
-C28,Internet Programming,3,4.0
-C28,Artificial Intelligence for Robots,3,3.5
-C28,Web Design and Development,3,3.0
-C28,Digital Systems Design Laboratory,1,1.0
-C28,Computer Engineering Project,3,3.0
+C28,Signals and Systems,3,3.5
+C28,Internet Programming,3,3.5
+C28,Artificial Intelligence for Robots,3,4.0
 C28,Co-operative Education in Computer Engineering,6,1.0
-C28,Data Structures and Algorithms,3,1.5
-C28,Digital Systems Design,3,2.5
-C28,Mathematics for Computer Engineering,3,1.0
-C28,Sufficiency Economy and Wisdom of Living,3,2.5
-C28,"Ethical, Legal and Social Issues in Computer",1,1.0
-C28,English in Everyday Use,3,3.5
+C28,Computer Engineering Project,3,4.0
+C28,Software Laboratory,1,3.5
+C28,Operating Systems,3,2.5
+C28,Discrete Mathematics for Engineering,3,2.5
+C28,System Analysis and Design for Engineering,3,2.0
+C28,Elementary Statistics,3,4.0
+C28,English in Everyday Use,3,4.0
 C28,Calculus 1 for Engineers,3,4.0
-C28,Chemistry for Engineers,3,3.5
 C28,Chemistry Laboratory for Engineers,1,3.0
-C28,Physics 1 for Engineers,3,3.0
-C28,Physics 1 for Engineers Laboratory,1,3.5
-C28,Computer Programming,3,2.0
+C28,Physics 1 for Engineers,3,2.0
+C28,Physics 1 for Engineers Laboratory,1,4.0
+C28,Computer Programming,3,4.0
+C28,Mathematics for Computer Engineering,3,1.0
 C28,Basic Computer Engineering Training,3,4.0
-C28,Physical Education,2,3.5
+C28,Physical Education,2,3.0
 C28,English for Communication,3,4.0
-C28,Sufficiency Economy to Sustainable Development,3,4.0
-C28,Calculus 2 for Engineers,3,2.5
-C28,Physics 2 for Engineers,3,3.5
+C28,Calculus 2 for Engineers,3,1.0
+C28,Physics 2 for Engineers,3,2.5
+C28,Chemistry for Engineers,3,3.5
 C28,Electronic Circuits for Computer Engineering,3,2.5
-C28,Advanced Computer Programming,3,1.5
-C28,Introduction to Environmental Engineering,1,3.5
 C28,Physics 2 for Engineers Laboratory,1,4.0
-C28,Software Laboratory,1,4.0
-C28,Discrete Mathematics for Engineering,3,3.0
-C28,Engineering Drawing,3,3.0
-C28,Thinking and Making Decision Scientifically,3,2.0
-C28,Computer System Architectures and Organizations,3,2.5
-C28,Elementary Statistics,3,2.0
-C28,General Psychology,3,3.0
-C28,Chinese for Communication,3,2.0
-C28,Technical English,3,3.0
-C28,English for Career,3,3.5
-C29,Seminar in Computer Information System,3,4.0
-C29,Computer Security,3,3.5
-C29,Data Warehouse,3,3.0
-C29,Multimedia Authoring,3,3.5
-C29,English for Career,3,2.5
-C29,Mushroom Culture,3,4.0
-C29,Production and Operations Management,3,3.0
-C29,Database Application Software,3,3.5
-C29,Mobile Application Programming,3,1.5
-C29,Information Retrieval,3,3.5
-C29,Business Data Communication and Network,3,4.0
-C29,Embedded System Technology in Agriculture,3,4.0
-C29,Quantitative Analysis in Business,3,2.0
+C28,International Relations,2,4.0
+C28,English for Career,3,4.0
+C28,Computer System Architectures and Organizations,3,3.0
+C28,Digital Systems Design Laboratory,1,1.0
+C28,Fundamental Japanese Conversation,3,4.0
+C28,Sufficiency Economy to Sustainable Development,3,3.5
+C28,General Psychology,3,2.5
+C28,Technical English,3,3.5
+C28,Introduction to Digital Systems,3,3.5
+C28,Advanced Computer Programming,3,3.5
+C28,Digital Systems Design,3,3.0
+C29,Systems Analysis and Design,3,1.0
+C29,Computer Security,3,2.5
+C29,Decision Support Systems,3,1.5
+C29,Online Business Management,3,4.0
+C29,Information for Report Writing,3,3.0
+C29,Macroeconomics,3,3.0
 C29,Pre Co-operative Education and Job Internship in Business Administration,1,1.0
-C29,Systems Analysis and Design,3,2.5
-C29,Web Programming,3,3.5
-C29,Online Business Management,3,3.5
-C29,Computer Information Systems Project,3,4.0
-C29,Information System in Organization,3,3.5
-C29,Job Internship in Business Administration,3,1.0
-C29,English for Communication,3,2.0
-C29,Data Structure and Algorithm,3,2.0
-C29,Data Mining,3,2.5
-C29,Life and Social Skills,3,3.5
-C29,Principles of Marketing,3,3.5
-C29,Implementation of Information System in Business,3,4.0
-C29,Computer Programming 1,3,4.0
+C29,Database Application Software,3,1.5
+C29,Object Oriented Programming,3,2.0
+C29,Social Network for Business,3,4.0
+C29,Exercise for Health,3,3.5
+C29,Data Structure and Algorithm,3,3.0
+C29,Visual Programming,3,1.5
+C29,Information System in Organization,3,3.0
+C29,English for Business Communication,3,2.5
 C29,English in Everyday Use,3,3.5
-C29,Arts of Love,3,3.5
-C29,Elementary Statistics,3,2.5
-C29,Microeconomics,3,2.0
-C29,Organization and Management,3,3.0
-C29,Object Oriented Programming,3,3.5
-C29,Introduction to Accounting,3,2.5
-C29,Thai for Communication,3,3.0
-C29,Badminton,2,4.0
-C29,Technical English,3,3.0
-C29,Use of Graphics Package Software,3,3.5
-C29,Visual Programming,3,4.0
-C29,Business Finance,3,1.5
-C29,Macroeconomics,3,2.0
-C29,Business Law and Ethics,3,2.5
-C29,Environment and Development,3,4.0
-C29,Sufficiency Economy to Sustainable Development,3,4.0
-C29,Database Management Systems,3,3.5
-C30,Computer Information Systems Project,3,2.5
-C30,English through Media and Technology,3,3.0
-C30,Sufficiency Economy to Sustainable Development,3,4.0
-C30,Macroeconomics,3,4.0
-C30,Database Application Software,3,2.5
-C30,Business Data Communication and Network,3,2.5
-C30,Computer Graphics Design,3,4.0
-C30,Human Computer Interaction,3,3.0
-C30,English for Business Communication,3,4.0
-C30,Business Law and Ethics,3,4.0
-C30,Decision Support Systems,3,3.0
-C30,Object Oriented Programming,3,1.0
+C29,Business Finance,3,2.0
+C29,Elementary Statistics,3,1.0
+C29,Co-operative Education in Business Administration,6,1.0
+C29,Computer Information Systems Project,3,2.5
+C29,Business Law and Ethics,3,3.0
+C29,English through Media and Technology,3,2.0
+C29,Sports for Competition,3,4.0
+C29,Creative Thinking,3,4.0
+C29,Computer Graphics Design,3,2.5
+C29,Principles of Marketing,3,2.0
+C29,Human Computer Interaction,3,4.0
+C29,Special Topics,3,1.5
+C29,Physical Education,2,2.5
+C29,English in Everyday Use,3,1.0
+C29,Thai for Communication,3,2.0
+C29,Introduction to Accounting,3,2.0
+C29,Organization and Management,3,2.5
+C29,Information System in Organization,3,1.5
+C29,English for Communication,3,1.5
+C29,Life and Social Skills,3,3.0
+C29,Implementation of Information System in Business,3,2.5
+C29,English for Career,3,1.0
+C29,Computer Programming 1,3,1.0
+C29,Web Programming,3,2.0
+C29,Data Structure and Algorithm,3,1.5
+C29,Database Management Systems,3,1.5
+C29,Production and Operations Management,3,2.5
+C29,Business Data Communication and Network,3,2.5
+C29,Quantitative Analysis in Business,3,3.0
+C29,Microeconomics,3,1.0
+C29,Thinking and Making Decision Scientifically,3,3.0
+C29,Sufficiency Economy to Sustainable Development,3,3.5
+C30,Ecotourism,3,4.0
+C30,Human Computer Interaction,3,3.5
+C30,Business Finance,3,1.5
+C30,Systems Analysis and Design,3,1.0
+C30,Object Oriented Programming,3,3.5
+C30,Decision Support Systems,3,2.0
 C30,Online Business Management,3,4.0
-C30,Information for Report Writing,3,4.0
-C30,Seminar in Computer Information System,3,4.0
+C30,Information for Report Writing,3,3.0
+C30,Computer Graphics Design,3,2.5
+C30,Quantitative Analysis in Business,3,1.0
+C30,Social Network for Business,3,4.0
+C30,Database Application Software,3,2.5
 C30,Computer Security,3,3.5
-C30,Social Network for Business,3,2.5
-C30,Information Retrieval,3,2.5
+C30,Business Data Communication and Network,3,2.5
+C30,English for Business Communication,3,3.5
+C30,Sports for Competition,3,4.0
 C30,Co-operative Education in Business Administration,6,1.0
-C30,Systems Analysis and Design,3,3.5
-C30,Visual Programming,3,2.5
+C30,Production and Operations Management,3,2.0
+C30,Visual Programming,3,3.5
+C30,Computer Information Systems Project,3,3.0
 C30,Pre Co-operative Education and Job Internship in Business Administration,1,1.0
-C30,Web Programming,3,3.5
-C30,Microeconomics,3,4.0
-C30,Quantitative Analysis in Business,3,3.5
-C30,Introduction to Accounting,3,4.0
+C30,Data Structure and Algorithm,3,2.0
+C30,Macroeconomics,3,3.0
+C30,English through Media and Technology,3,4.0
+C30,Introduction to Accounting,3,1.0
 C30,Principles of Marketing,3,4.0
 C30,Implementation of Information System in Business,3,4.0
-C30,English in Everyday Use,3,4.0
-C30,Thai for Communication,3,3.0
-C30,Elementary Statistics,3,4.0
-C30,Organization and Management,3,4.0
-C30,Computer Programming 1,3,4.0
-C30,Special Topics,3,3.5
+C30,Special Topics,3,3.0
 C30,Physical Education,2,4.0
-C30,Information System in Organization,3,4.0
+C30,English in Everyday Use,3,4.0
+C30,Elementary Statistics,3,1.0
+C30,Organization and Management,3,4.0
+C30,Information System in Organization,3,2.5
+C30,Thai for Communication,3,3.0
+C30,Life and Social Skills,3,3.5
+C30,English for Communication,3,3.5
+C30,Database Management Systems,3,1.5
+C30,Microeconomics,3,1.5
+C30,Business Law and Ethics,3,2.5
+C30,Web Programming,3,2.0
+C30,Sufficiency Economy to Sustainable Development,3,4.0
 C30,English for Career,3,4.0
-C30,Database Management Systems,3,4.0
-C30,Data Structure and Algorithm,3,4.0
+C30,Computer Programming 1,3,1.0
 C30,Thinking and Making Decision Scientifically,3,4.0
-C30,Production and Operations Management,3,4.0
-C30,Business Finance,3,3.0
-C30,Life and Social Skills,3,4.0
-C30,English for Communication,3,4.0
-C31,Data Structure and Algorithm,3,4.0
+C31,Data Structure and Algorithm,3,2.5
 C31,Computer Network Administration,3,4.0
-C31,Science for Health,3,4.0
-C31,Project Management in Information Technology,3,4.0
-C31,Human Computer Interaction,3,4.0
-C31,Data Warehouse and Data Mining,3,4.0
-C31,Electronic Commerce,3,4.0
-C31,Web Technology,3,4.0
-C31,Integrative Programming and Web Technology,3,4.0
-C31,Information Technology Research Methodology,3,4.0
-C31,Software Engineering,3,4.0
-C31,Mobile Devices Programming,3,4.0
-C31,Cloud Computing,3,4.0
-C31,Chinese for Communication,3,4.0
-C31,Information System Security,3,3.5
-C31,Information Technology Seminar,1,4.0
 C31,Information Technology Project,3,1.0
-C31,Special Topic in Information Technology,3,3.5
+C31,Science for Health,3,4.0
+C31,Project Management in Information Technology,3,3.5
+C31,Human Computer Interaction,3,2.5
+C31,Data Warehouse and Data Mining,3,3.5
+C31,Electronic Commerce,3,2.0
+C31,Integrative Programming and Web Technology,3,3.5
+C31,Web Technology,3,3.0
+C31,Software Engineering,3,3.5
+C31,Mobile Devices Programming,3,3.0
+C31,Cloud Computing,3,4.0
+C31,Information Technology Research Methodology,3,3.5
+C31,Information System Security,3,3.0
+C31,Information Technology Seminar,1,4.0
+C31,Special Topic in Information Technology,3,3.0
 C31,Job Internship in Information Technology,6,1.0
-C31,Multimedia Technology,3,4.0
-C31,System Analysis and Design,3,4.0
-C31,Ethics and Information Law,3,4.0
-C31,Academic English,3,4.0
+C31,Software Packages,3,3.0
+C31,Multimedia Technology,3,3.5
+C31,System Analysis and Design,3,2.5
+C31,Data Communication and Computer Network System,3,4.0
 C31,Decision Support System,3,4.0
-C31,Principle of Physics,3,4.0
-C31,Discrete Mathematics,3,4.0
-C31,Fundamentals of Information Technology,3,4.0
+C31,Ethics and Information Law,3,3.5
+C31,Principle of Physics,3,2.5
+C31,Discrete Mathematics,3,1.5
+C31,Fundamentals of Information Technology,3,3.0
 C31,Art of Living,3,4.0
-C31,Arts of Using Thai Language,3,4.0
+C31,Arts of Using Thai Language,3,2.5
 C31,Sufficiency Economy and Wisdom of Living,3,4.0
-C31,Calculus 1,3,4.0
+C31,Calculus 1,3,2.0
 C31,Management Information System,3,4.0
-C31,English for Everyday Communication,3,4.0
+C31,English for Everyday Communication,3,2.0
 C31,Activities for Health,3,4.0
 C31,Fundamentals of Programming,3,4.0
-C31,Data Communication and Computer Network System,3,4.0
+C31,Innovation and Technology,3,3.5
 C31,Object Oriented Programming,3,4.0
-C31,Computer Platform Technology,3,4.0
-C31,Innovation and Technology,3,4.0
-C31,Statistics for Science,3,3.5
-C31,English for Life Skills	,3,4.0
+C31,Computer Platform Technology,3,2.5
+C31,Academic English,3,1.5
+C31,Statistics for Science,3,2.0
+C31,English for Life Skills	,3,2.5
 C31,Process of Thinking and Problem Solving,3,4.0
-C31,Database System,3,4.0
-C32,Database System for Information Technology,3,1.0
+C31,Database System,3,1.5
+C32,Art of Living,3,4.0
+C32,Microcomputer System and Interfacing,3,4.0
+C32,Innovation and Technology,3,4.0
+C32,System Analysis and Design,3,4.0
+C32,Human Computer Interaction,3,4.0
+C32,Introduction of Artificial Intelligence,3,4.0
 C32,Multimedia Technology,3,4.0
-C32,Analysis and Design of Algorithms,3,1.5
-C32,Computer Security,3,1.0
-C32,Package Program 1,3,4.0
-C32,Calculus 2,3,2.5
-C32,Object-Oriented Software Development,3,2.0
-C32,Human Computer Interaction,3,1.5
-C32,Selected Programming Language,3,1.5
-C32,Mobile Devices Programming,3,2.0
-C32,Computer Science Project,3,1.0
-C32,Fundamental Chinese,3,1.0
-C32,Web Programming,3,2.5
-C32,Computer Science Seminar,1,3.5
-C32,Artificial Intelligence,3,1.5
+C32,Software Engineering,3,4.0
+C32,Mobile Devices Programming,3,4.0
+C32,Ethics and Computer Law,3,4.0
+C32,Cooperative Education in Computer Science,6,1.0
+C32,Electronic Commerce on Internet,3,4.0
+C32,Internet of Things,3,4.0
+C32,Computer Science Seminar,1,4.0
 C32,Computer Science Research Methodology,3,3.5
-C32,Computer Network Management,3,1.5
-C32,Software Engineering for Information Technology,3,2.0
-C32,Job Internship in Computer science,6,1.0
-C32,Data Communication and Computer Network System,3,1.0
-C32,System Analysis and Design for Information,3,2.0
-C32,Ethics and Information Law,3,3.0
-C32,Data Structures and Algorithms,3,1.5
-C32,English in Everyday Use,3,2.0
-C32,Operating Systems of Computer,3,1.0
-C32,Thai for Communication,3,2.0
-C32,Sufficiency Economy to Sustainable Development,3,2.5
-C32,Environment and Development,3,2.5
-C32,Principle of Physics,3,1.0
-C32,Introduction to Computer,3,2.5
-C32,Life and Social Skills,3,1.5
-C32,General Psychology,3,2.0
-C32,Mathematics and Statistics in Daily Life,3,1.5
-C32,Programming Languages,3,1.0
-C32,English for Communication,3,2.0
-C32,Recreation,2,3.5
-C32,Structure Programming,3,1.5
-C32,Statistics for Science,3,2.0
-C32,Introduction to Digital,3,2.5
-C32,Object Oriented Programming,3,1.5
-C32,Discrete Mathematics,3,2.0
-C32,Microcomputer System and Interfacing,3,3.0
-C32,Computer System and Assembly Languages,3,3.5
+C32,Computer Science Pre-Project,3,1.0
+C32,Computer System Security,3,4.0
+C32,Productivity Application,3,4.0
+C32,Computer Science Project,3,4.0
+C32,Cloud Computing,3,4.0
+C32,"Computer Science in Community, Company and Coperation",1,4.0
+C32,Data Communication and Computer Network System,3,3.5
+C32,Analysis and Design of Algorithms,3,3.0
+C32,Web Programming,3,4.0
+C32,Fundamental Computer Science,3,3.5
+C32,Computer Programming,3,4.0
+C32,English for Everyday Communication,3,4.0
+C32,Arts of Using Thai Language,3,3.0
+C32,Science for Health,3,4.0
+C32,Calculus 2,3,3.0
+C32,Statistics for Science,3,3.5
+C32,Scientific Information for Computer Science,3,4.0
+C32,Object Oriented Programming,3,4.0
+C32,Activities for Health,3,4.0
 C32,Calculus 1,3,2.5
-C32,English for Career,3,4.0
-C32,Computer Architecture,3,1.5
-C33,Art of Living,3,4.0
-C33,Microcomputer System and Interfacing,3,3.0
-C33,Innovation and Technology,3,4.0
-C33,System Analysis and Design,3,2.0
-C33,Human Computer Interaction,3,3.5
-C33,Introduction of Artificial Intelligence,3,2.0
+C32,Sufficiency Economy and Wisdom of Living,3,4.0
+C32,Discrete Mathematics,3,4.0
+C32,Data Structures and Algorithms,3,4.0
+C32,Database Systems,3,4.0
+C32,Computer Organization and Architecture,3,4.0
+C32,Operating Systems,3,4.0
+C32,Process of Thinking and Problem Solving,3,4.0
+C32,Academic English,3,4.0
+C32,Numerical Methods,3,3.5
+C32,English for Life Skills	,3,4.0
+C33,Software Engineering,3,1.0
 C33,Multimedia Technology,3,4.0
-C33,Software Engineering,3,3.5
-C33,Mobile Devices Programming,3,2.0
+C33,Introduction of Artificial Intelligence,3,1.5
+C33,Microcomputer System and Interfacing,3,3.0
+C33,Computer System Security,3,1.5
+C33,System Analysis and Design,3,1.0
+C33,Innovation and Technology,3,3.0
+C33,Computer Science Research Methodology,3,3.0
+C33,Human Computer Interaction,3,4.0
 C33,Ethics and Computer Law,3,4.0
-C33,Cloud Computing,3,3.0
-C33,Electronic Commerce on Internet,3,3.5
-C33,Internet of Things,3,4.0
 C33,Computer Science Seminar,1,4.0
-C33,Computer Science Research Methodology,3,2.5
+C33,Electronic Commerce on Internet,3,3.5
+C33,Mobile Devices Programming,3,3.5
+C33,Internet of Things,3,3.0
 C33,Computer Science Pre-Project,3,1.0
-C33,Computer System Security,3,3.5
-C33,Productivity Application,3,4.0
+C33,Art of Living,3,2.5
+C33,Productivity Application,3,3.0
+C33,Computer Science Project,3,4.0
 C33,Cooperative Education in Computer Science,6,1.0
-C33,Computer Science Project,3,3.5
-C33,"Computer Science in Community, Company and Coperation",1,4.0
-C33,Data Communication and Computer Network System,3,1.0
-C33,Fundamental Computer Science,3,1.5
-C33,Web Programming,3,1.5
-C33,Analysis and Design of Algorithms,3,1.5
+C33,Cloud Computing,3,3.5
+C33,"Computer Science in Community, Company and Coperation",1,3.0
+C33,Data Communication and Computer Network System,3,1.5
 C33,Calculus 1,3,1.0
-C33,Computer Programming,3,1.0
-C33,English for Everyday Communication,3,2.0
-C33,Arts of Using Thai Language,3,2.5
-C33,Calculus 2,3,2.5
-C33,Statistics for Science,3,2.5
-C33,Scientific Information for Computer Science,3,3.0
-C33,Object Oriented Programming,3,3.0
-C33,Activities for Health,3,4.0
+C33,Web Programming,3,3.0
+C33,Analysis and Design of Algorithms,3,1.0
+C33,Fundamental Computer Science,3,2.0
+C33,Computer Programming,3,1.5
+C33,English for Everyday Communication,3,4.0
+C33,Arts of Using Thai Language,3,1.5
 C33,Science for Health,3,3.5
-C33,Sufficiency Economy and Wisdom of Living,3,4.0
-C33,Discrete Mathematics,3,2.5
-C33,Data Structures and Algorithms,3,2.0
-C33,Database Systems,3,2.5
-C33,Computer Organization and Architecture,3,3.0
-C33,Operating Systems,3,1.5
-C33,Process of Thinking and Problem Solving,3,4.0
-C33,Academic English,3,3.0
+C33,Statistics for Science,3,1.0
+C33,Scientific Information for Computer Science,3,3.5
+C33,Object Oriented Programming,3,2.5
+C33,Activities for Health,3,4.0
+C33,Calculus 2,3,3.5
+C33,Human Relations,3,2.5
 C33,English for Life Skills	,3,3.0
-C33,Numerical Methods,3,2.0
+C33,Academic English,3,1.0
+C33,Process of Thinking and Problem Solving,3,4.0
+C33,Operating Systems,3,3.5
+C33,Numerical Methods,3,1.5
+C33,Database Systems,3,3.0
+C33,Data Structures and Algorithms,3,2.5
+C33,Discrete Mathematics,3,2.5
+C33,Computer Organization and Architecture,3,4.0
+C34,Image Processing and Applications,3,4.0
+C34,Electric Circuits,3,4.0
 C34,Co-operative Education in Computer Engineering,6,1.0
-C34,Computer Networks,3,1.0
-C34,Object Oriented Programming,3,4.0
-C34,Introduction to Environmental Engineering,1,2.5
-C34,Thinking and Making Decision Scientifically,3,3.0
-C34,Database Systems,3,3.5
-C34,Exercise for Health,3,4.0
-C34,Microprocessor and Interface,3,1.5
-C34,Electrical Circuits for Computer Engineering,3,2.0
+C34,Innovation and Technology,3,4.0
+C34,Art of Living,3,4.0
+C34,Computer Architecture and Organization,3,4.0
+C34,Computer and Data Security,3,4.0
+C34,Software Design and Development,3,4.0
 C34,Computer Engineering Pre-Project,1,4.0
-C34,Thai for Communication,3,3.5
-C34,International Relations,2,4.0
-C34,Internet Programming,3,3.5
-C34,Discrete Mathematics for Engineering,3,4.0
-C34,System Analysis and Design for Engineering,3,4.0
-C34,Digital Communication,3,3.0
-C34,Computer Engineering Laboratory,2,4.0
-C34,Numerical Methods for Computer Engineering,3,4.0
+C34,Mathematics and Statistics in Daily Life,3,4.0
+C34,Microcontroller System Design and Interface,3,3.5
+C34,Sufficiency Economy and Wisdom of Living,3,4.0
+C34,Data Communication and Networks,3,3.5
+C34,System Analysis and Design,3,4.0
 C34,Computer Engineering Project,3,4.0
-C34,Operating Systems,3,4.0
-C34,Software Engineering,3,3.5
-C34,Signals and Systems,3,4.0
-C34,"Society, Economy, Politics and Law",3,4.0
-C34,Engineering Mechanics,3,3.0
-C34,"Ethical, Legal and Social Issues in Computer",1,4.0
-C34,Engineering Drawing,3,3.0
-C34,Artificial Intelligence for Robots,3,4.0
-C34,English for Career,3,3.5
-C34,Elementary Statistics,3,4.0
-C34,English in Everyday Use,3,2.0
-C34,Chemistry for Engineers,3,2.0
-C34,Chemistry Laboratory for Engineers,1,3.0
-C34,Physics 1 for Engineers,3,1.0
-C34,Physics 1 for Engineers Laboratory,1,4.0
-C34,Computer Programming,3,3.0
-C34,Basic Computer Engineering Training,3,4.0
-C34,Physical Education,2,3.5
-C34,English for Communication,3,2.0
-C34,Calculus 2 for Engineers,3,3.5
-C34,Physics 2 for Engineers,3,3.0
-C34,Calculus 1 for Engineers,3,2.5
-C34,Electronic Circuits for Computer Engineering,3,2.0
-C34,Physics 2 for Engineers Laboratory,1,4.0
-C34,Computer System Architectures and Organizations,3,3.0
-C34,Digital Systems Design,3,2.5
+C34,Fuzzy Set Theory,3,4.0
+C34,Artificial Intelligence and Machine Learning,3,4.0
+C34,Computer Networks,3,4.0
+C34,Web Programming,3,4.0
+C34,Digital Image Processing and Computer Vision,3,4.0
+C34,Scientific Thinking and Decision Making,3,4.0
+C34,Operating Systems,3,3.5
+C34,Activities for Health,3,4.0
+C34,Arts of Using Thai Language,3,3.5
+C34,Engineering Materials,3,4.0
+C34,Computer Programming,3,4.0
+C34,Fundamental of Engineering Training,1,3.5
+C34,Electrical Instruments and Measurements,3,4.0
+C34,Calculus 1 for Engineers,3,3.0
+C34,English for Everyday Communication,3,3.0
+C34,Basic Computer Engineering Skills,1,4.0
+C34,Mathematical Foundations for Computer Engineering,3,4.0
 C34,Data Structures and Algorithms,3,1.5
-C34,Mathematics for Computer Engineering,3,1.0
-C34,Digital Systems Design Laboratory,1,2.0
-C34,General Psychology,3,2.5
-C34,Technical English,3,2.5
-C34,Introduction to Digital Systems,3,4.0
-C34,Advanced Computer Programming,3,3.5
-C34,Sufficiency Economy to Sustainable Development,3,4.0
-C35,Web Programming,3,4.0
+C34,Digital Circuits,3,4.0
+C34,Engineering Mechanics,3,4.0
+C34,Physics 1 for Engineers,3,3.0
+C34,Physics 1 for Engineers Laboratory,1,3.5
+C34,English for Life Skills	,3,3.5
+C34,Engineering Drawing,3,3.5
+C34,Introduction to Database and Big Data Engineering,3,3.0
+C34,Electrical Engineering Mathematics,3,4.0
+C34,Engineering Electronics,3,4.0
+C34,Process of Thinking and Problem Solving,3,3.0
+C34,Academic English,3,2.0
+C34,Calculus 2 for Engineers,3,3.0
 C35,Object Oriented Analysis and Design,3,4.0
-C35,Ethics and Information Law,3,3.0
-C35,Computer Network Management,3,4.0
-C35,System Analysis and Design for Information,3,4.0
-C35,Fundamental Chinese,3,2.5
-C35,Information Management,3,4.0
 C35,Electronic Commerce,3,3.0
+C35,Information Management,3,4.0
+C35,Ethics and Information Law,3,3.0
+C35,System Analysis and Design for Information,3,4.0
+C35,Computer Network Management,3,4.0
 C35,Project Management in Information Technology,3,4.0
+C35,Fundamental Chinese,3,2.5
+C35,Human Computer Interaction,3,3.5
 C35,Multimedia Technology,3,4.0
-C35,Chinese for Communication,3,2.5
 C35,Information Technology Research Methodology,3,4.0
 C35,Selected Programming Language,3,4.0
 C35,Mobile Devices Programming,3,4.0
 C35,Job Internship in Information Technology,6,1.0
 C35,Information Technology Seminar,1,4.0
 C35,Information System Security,3,2.5
-C35,Special Topic in Information Technology,3,3.0
-C35,Management Information System,3,4.0
-C35,Human Computer Interaction,3,3.5
-C35,Thinking and Making Decision Scientifically,3,4.0
 C35,Information Technology Project,3,1.0
-C35,Data Communication and Computer Network System,3,4.0
+C35,Special Topic in Information Technology,3,3.0
+C35,Web Programming,3,4.0
+C35,Chinese for Communication,3,2.5
+C35,Management Information System,3,4.0
+C35,Thinking and Making Decision Scientifically,3,4.0
+C35,Introduction to Physics Laboratory,1,4.0
+C35,Technical English,3,3.5
+C35,English in Everyday Use,3,1.5
 C35,General Psychology,3,4.0
 C35,Sufficiency Economy to Sustainable Development,3,4.0
 C35,Calculus 1,3,2.5
 C35,Introduction to Physics,3,3.5
-C35,Introduction to Physics Laboratory,1,4.0
 C35,Introduction to Computer,3,4.0
 C35,English for Communication,3,2.5
 C35,Thai for Communication,3,4.0
-C35,Life and Social Skills,3,4.0
-C35,English in Everyday Use,3,1.5
-C35,Systems Information Technology in Organization,3,3.0
 C35,Technological Mathematics,3,3.5
-C35,Database System for Information Technology,3,3.0
-C35,Object Oriented Programming,3,4.0
-C35,Computer Platform Technology,3,3.5
-C35,Technical English,3,3.5
-C35,English for Career,3,2.5
-C35,Physical Education,2,4.0
-C35,Structure Programming,3,4.0
+C35,Life and Social Skills,3,4.0
 C35,Discrete Mathematics,3,4.0
+C35,Structure Programming,3,4.0
+C35,Physical Education,2,4.0
+C35,English for Career,3,2.5
 C35,Statistics for Science,3,3.0
-C36,Cloud Computing,3,4.0
-C36,Microcomputer System and Interfacing,3,4.0
-C36,Innovation and Technology,3,3.5
-C36,System Analysis and Design,3,4.0
-C36,Computer System Security,3,4.0
-C36,Human Computer Interaction,3,4.0
-C36,Introduction of Artificial Intelligence,3,3.5
+C35,Computer Platform Technology,3,3.5
+C35,Object Oriented Programming,3,4.0
+C35,Database System for Information Technology,3,3.0
+C35,Data Communication and Computer Network System,3,4.0
+C35,Systems Information Technology in Organization,3,3.0
+C36,Package Program 1,3,4.0
+C36,Human Computer Interaction,3,2.5
+C36,Object-Oriented Software Development,3,4.0
+C36,Computer Security,3,1.5
+C36,Data Structures and Algorithms,3,2.5
 C36,Multimedia Technology,3,4.0
-C36,Software Engineering,3,4.0
-C36,Computer Science Research Methodology,3,3.0
-C36,"Computer Science in Community, Company and Coperation",1,4.0
-C36,Image Processing,3,3.5
-C36,Mobile Devices Programming,3,3.5
+C36,Data Communication and Computer Network System,3,3.5
+C36,Ethics and Information Law,3,3.5
+C36,Selected Programming Language,3,2.0
+C36,Analysis and Design of Algorithms,3,1.5
+C36,Database System for Information Technology,3,1.0
+C36,Computer Science Project,3,1.0
+C36,System Analysis and Design for Information,3,3.0
+C36,Fundamental Chinese,3,4.0
+C36,Web Programming,3,2.5
 C36,Computer Science Seminar,1,4.0
-C36,Computer Science Pre-Project,3,1.0
-C36,Art of Living,3,3.5
-C36,Productivity Application,3,4.0
-C36,Computer Science Project,3,4.0
-C36,Data Communication and Computer Network System,3,4.0
-C36,Cooperative Education in Computer Science,6,1.0
-C36,Ethics and Computer Law,3,3.0
-C36,Internet of Things,3,4.0
-C36,Analysis and Design of Algorithms,3,3.5
-C36,Numerical Methods,3,2.0
-C36,Web Programming,3,4.0
-C36,Calculus 1,3,1.0
-C36,Fundamental Computer Science,3,2.5
-C36,Computer Programming,3,3.0
-C36,English for Everyday Communication,3,4.0
-C36,Arts of Using Thai Language,3,2.0
-C36,Calculus 2,3,2.0
-C36,Statistics for Science,3,1.0
-C36,Scientific Information for Computer Science,3,3.5
-C36,Object Oriented Programming,3,3.0
-C36,Science for Health,3,3.0
-C36,English for Life Skills	,3,4.0
-C36,Activities for Health,3,4.0
-C36,Process of Thinking and Problem Solving,3,4.0
-C36,Operating Systems,3,4.0
-C36,Computer Organization and Architecture,3,4.0
-C36,Academic English,3,3.0
-C36,Data Structures and Algorithms,3,3.5
-C36,Discrete Mathematics,3,3.0
-C36,Human Relations,3,3.0
-C36,Database Systems,3,2.0
-C37,Human Relations,3,1.0
-C37,Paper Art,3,4.0
-C37,Innovation and Technology,3,3.0
-C37,Arts of Using Thai Language,3,2.5
+C36,Artificial Intelligence,3,3.0
+C36,Computer Science Research Methodology,3,4.0
+C36,Computer Network Management,3,4.0
+C36,Software Engineering for Information Technology,3,3.5
+C36,Job Internship in Computer science,6,1.0
+C36,Mobile Devices Programming,3,3.5
+C36,Operating Systems of Computer,3,1.0
+C36,English in Everyday Use,3,3.5
+C36,Statistics for Science,3,4.0
+C36,Microcomputer System and Interfacing,3,3.0
+C36,Thai for Communication,3,2.5
+C36,Sufficiency Economy to Sustainable Development,3,2.5
+C36,Environment and Development,3,2.5
+C36,Calculus 1,3,1.5
+C36,Principle of Physics,3,2.0
+C36,Life and Social Skills,3,1.5
+C36,General Psychology,3,2.5
+C36,Mathematics and Statistics in Daily Life,3,4.0
+C36,Calculus 2,3,1.0
+C36,English for Communication,3,4.0
+C36,Structure Programming,3,2.0
+C36,Programming Languages,3,2.0
+C36,Introduction to Computer,3,2.5
+C36,Object Oriented Programming,3,4.0
+C36,Discrete Mathematics,3,3.5
+C36,Introduction to Digital,3,3.5
+C36,Computer System and Assembly Languages,3,4.0
+C36,English for Career,3,4.0
+C36,Recreation,2,3.0
+C36,Computer Architecture,3,1.0
+C37,Environment and Development,3,3.5
+C37,Printmaking 2,4,4.0
+C37,Applied Printmaking,3,4.0
+C37,Innovation and Technology,3,4.0
+C37,Arts of Using Thai Language,3,3.0
 C37,Experimental Art,2,4.0
-C37,Sculpture 3,4,4.0
-C37,Environmental Sculpture,3,4.0
-C37,Environment and Development,3,2.0
-C37,Sufficiency Economy and Wisdom of Living,3,3.0
-C37,Art Analysis,2,2.5
+C37,Printmaking 3,4,4.0
+C37,Woodcut,3,4.0
+C37,Human Relations,3,3.0
 C37,Composition 2,2,3.5
+C37,Watercolor Painting,3,4.0
 C37,Creative Drawing,3,3.5
-C37,Sculpture 4,5,3.5
-C37,Mathematics and Statistics in Daily Life,3,3.0
+C37,Printmaking 4,5,4.0
 C37,Job Internship in Art,3,1.0
-C37,Seminar in Visual Art	,2,3.5
+C37,Seminar in Visual Art	,2,4.0
 C37,Art Exhibition Design,3,4.0
 C37,Art Thesis Preparation,6,4.0
 C37,Writing for Art Thesis,2,4.0
 C37,Art Thesis,12,4.0
-C37,Watercolor Painting,3,4.0
-C37,Lanna Studies,2,1.5
-C37,Sculpture 2,4,4.0
-C37,Process of Thinking and Problem Solving,3,3.5
-C37,Academic English,3,4.0
+C37,Art Analysis,2,4.0
+C37,Lanna Studies,2,2.5
+C37,Process of Thinking and Problem Solving,3,4.0
+C37,Visual Art 1,3,4.0
+C37,Academic English,3,1.0
 C37,Drawing,2,4.0
-C37,Aesthetics,2,2.0
+C37,Aesthetics,2,4.0
 C37,Theory of Color,2,4.0
-C37,History and Style of Eastern Art,3,3.5
+C37,History and Style of Eastern Art,3,4.0
 C37,Computer Assisted Visual Art,2,4.0
 C37,Art of Living,3,3.0
-C37,English for Everyday Communication,3,3.5
-C37,Traditional Thai Art,2,1.5
+C37,English for Everyday Communication,3,2.0
 C37,Introduction to Composition,2,4.0
-C37,Visual Art 1,3,4.0
-C37,Drawing 1,2,3.5
-C37,Visual Art 2,3,3.5
-C37,Activities for Health,3,4.0
-C37,English for Life Skills	,3,4.0
-C37,Contemporary Art,3,4.0
-C37,Anatomy,2,2.5
-C37,Drawing 2,2,3.5
+C37,Traditional Thai Art,2,3.5
+C37,Drawing 1,2,3.0
+C37,Visual Art 2,3,4.0
+C37,Activities for Health,3,3.5
+C37,English for Life Skills	,3,2.5
+C37,Contemporary Art,3,3.5
+C37,Anatomy,2,3.0
+C37,Drawing 2,2,3.0
 C37,Composition 1,2,4.0
-C37,Sculpture 1,4,4.0
-C37,History and Style of Western Art,3,4.0
-C38,Numerical Methods for Computer Engineering,3,3.5
-C38,Computer Engineering Laboratory,2,3.5
-C38,Software Engineering,3,4.0
-C38,Database Systems,3,2.0
-C38,Data Structures and Algorithms,3,2.0
-C38,Microprocessor and Interface,3,1.0
-C38,International Relations,2,4.0
+C37,Printmaking 1,4,4.0
+C37,History and Style of Western Art,3,3.0
+C38,Computer Architecture and Organization,3,3.5
+C38,System Analysis and Design,3,2.0
+C38,Microcontroller System Design and Interface,3,2.0
 C38,Exercise for Health,3,4.0
-C38,Computer System Architectures and Organizations,3,2.0
+C38,Signals and Systems,3,4.0
+C38,Mathematics and Statistics in Daily Life,3,4.0
+C38,Innovation and Technology,3,4.0
+C38,Software Design and Development,3,3.0
 C38,"Society, Economy, Politics and Law",3,4.0
-C38,Operating Systems,3,1.5
-C38,Project Management in Computer Engineering,1,3.5
-C38,System Analysis and Design for Engineering,3,2.0
-C38,Computer Networks,3,2.5
-C38,Software Laboratory,1,4.0
-C38,Hardware Laboratory,1,3.0
-C38,Parallel and Distributed Database Systems,3,3.5
-C38,Internet Programming,3,3.0
-C38,Computer Engineering Pre-Project,1,4.0
-C38,"Ethical, Legal and Social Issues in Computer",1,4.0
-C38,Electrical Circuits for Computer Engineering,3,2.0
-C38,Mathematics for Computer Engineering,3,1.0
-C38,Artificial Intelligence for Robots,3,3.0
+C38,Artificial Intelligence and Machine Learning,3,4.0
 C38,Co-operative Education in Computer Engineering,6,1.0
-C38,Computer Engineering Project,3,3.0
-C38,Signals and Systems,3,2.5
-C38,Engineering Mechanics,3,1.0
-C38,Physics 2 for Engineers Laboratory,1,4.0
-C38,Creative Writing,3,4.0
-C38,Thinking and Making Decision Scientifically,3,2.5
-C38,English in Everyday Use,3,2.5
-C38,Calculus 1 for Engineers,3,2.5
-C38,Chemistry Laboratory for Engineers,1,2.5
-C38,Physics 1 for Engineers,3,2.0
-C38,Physics 1 for Engineers Laboratory,1,3.5
+C38,Operating Systems,3,2.0
+C38,Data Communication and Networks,3,1.5
+C38,Computer Engineering Pre-Project,1,4.0
+C38,Web Programming,3,3.0
+C38,Art of Living,3,4.0
+C38,Human Relations,3,3.0
+C38,Computer Networks,3,3.0
+C38,Computer Engineering Project,3,4.0
+C38,Activities for Health,3,4.0
+C38,Electric Circuits,3,1.0
+C38,Digital Circuits,3,3.0
+C38,Fuzzy Set Theory,3,4.0
+C38,Engineering Mechanics,3,2.0
+C38,Introduction to Database and Big Data Engineering,3,3.5
 C38,Computer Programming,3,1.0
-C38,Basic Computer Engineering Training,3,4.0
-C38,Physical Education,2,4.0
-C38,English for Communication,3,2.5
-C38,Calculus 2 for Engineers,3,1.0
-C38,Advanced Computer Programming,3,3.0
-C38,Chemistry for Engineers,3,2.0
-C38,Technical English,3,1.5
-C38,Introduction to Digital Systems,3,3.0
-C38,Electronic Circuits for Computer Engineering,3,2.0
-C38,Discrete Mathematics for Engineering,3,1.0
-C38,Engineering Drawing,3,3.0
-C38,Elementary Statistics,3,3.0
-C38,Introduction to Environmental Engineering,1,2.5
-C38,Digital Systems Design Laboratory,1,1.0
-C38,Digital Systems Design,3,2.5
-C38,Physics 2 for Engineers,3,2.0
-C38,Sufficiency Economy to Sustainable Development,3,3.5
-C38,General Psychology,3,2.5
-C38,English for Career,3,3.0
-C39,Visual Programming,3,2.5
-C39,Business Finance,3,1.5
-C39,Database Application Software,3,3.5
-C39,Business Data Communication and Network,3,3.0
-C39,Computer Graphics Design,3,3.0
-C39,Human Computer Interaction,3,2.0
+C38,Fundamental of Engineering Training,1,3.0
+C38,Electrical Instruments and Measurements,3,3.5
+C38,Calculus 1 for Engineers,3,4.0
+C38,English for Everyday Communication,3,2.0
+C38,Computer Programming,3,3.0
+C38,Basic Computer Engineering Skills,1,4.0
+C38,Mathematical Foundations for Computer Engineering,3,3.0
+C38,Calculus 2 for Engineers,3,3.5
+C38,Engineering Materials,3,1.5
+C38,Physics 1 for Engineers Laboratory,1,3.5
+C38,Physics 1 for Engineers,3,2.0
+C38,Engineering Drawing,3,3.5
+C38,Academic English,3,3.0
+C38,Engineering Electronics,3,4.0
+C38,Electrical Engineering Mathematics,3,1.0
+C38,Arts of Using Thai Language,3,3.0
+C38,Data Structures and Algorithms,3,3.0
+C38,English for Life Skills	,3,1.5
+C38,Process of Thinking and Problem Solving,3,2.0
+C38,Computer and Data Security,3,4.0
+C39,Sufficiency Economy to Sustainable Development,3,4.0
+C39,Business Law and Ethics,3,2.5
+C39,Macroeconomics,3,1.0
+C39,Database Application Software,3,1.0
+C39,Business Data Communication and Network,3,2.5
+C39,Computer Graphics Design,3,4.0
+C39,Human Computer Interaction,3,3.5
 C39,English for Business Communication,3,3.0
-C39,Business Law and Ethics,3,4.0
-C39,Object Oriented Programming,3,2.0
-C39,Social Network for Business,3,3.0
+C39,Visual Programming,3,2.5
+C39,Object Oriented Programming,3,1.5
+C39,Online Business Management,3,3.5
 C39,Information for Report Writing,3,2.5
 C39,Pre Co-operative Education and Job Internship in Business Administration,1,1.0
-C39,Seminar in Computer Information System,3,3.5
-C39,Computer Security,3,2.5
-C39,Information Retrieval,3,2.5
+C39,Computer Security,3,3.5
+C39,Social Network for Business,3,1.5
+C39,Sports for Competition,3,4.0
+C39,Exercise for Health,3,4.0
 C39,Co-operative Education in Business Administration,6,1.0
-C39,Decision Support Systems,3,1.5
-C39,Computer Information Systems Project,3,1.5
-C39,Macroeconomics,3,2.0
-C39,Online Business Management,3,3.0
-C39,Sufficiency Economy to Sustainable Development,3,3.0
-C39,Quantitative Analysis in Business,3,1.0
-C39,Systems Analysis and Design,3,2.0
-C39,English through Media and Technology,3,3.5
-C39,Principles of Marketing,3,1.5
-C39,Implementation of Information System in Business,3,3.0
-C39,English in Everyday Use,3,4.0
-C39,Thai for Communication,3,2.5
-C39,Elementary Statistics,3,2.5
-C39,Computer Programming 1,3,2.5
-C39,Information System in Organization,3,2.5
+C39,English through Media and Technology,3,3.0
+C39,Computer Information Systems Project,3,4.0
+C39,Decision Support Systems,3,3.0
+C39,Systems Analysis and Design,3,2.5
+C39,Production and Operations Management,3,3.0
+C39,Quantitative Analysis in Business,3,2.5
+C39,Principles of Marketing,3,3.5
+C39,Implementation of Information System in Business,3,4.0
+C39,Special Topics,3,3.0
 C39,Physical Education,2,4.0
-C39,Organization and Management,3,2.5
-C39,Life and Social Skills,3,3.5
+C39,English in Everyday Use,3,2.5
+C39,Web Programming,3,1.0
+C39,Elementary Statistics,3,3.0
+C39,Introduction to Accounting,3,1.5
+C39,Organization and Management,3,3.0
+C39,Thai for Communication,3,4.0
+C39,Information System in Organization,3,3.0
 C39,English for Communication,3,3.0
-C39,Microeconomics,3,1.5
-C39,Thinking and Making Decision Scientifically,3,3.5
-C39,English for Career,3,3.5
-C39,Web Programming,3,2.0
-C39,Data Structure and Algorithm,3,2.5
-C39,Production and Operations Management,3,1.0
-C39,Introduction to Accounting,3,2.0
-C39,Database Management Systems,3,2.0
-C40,Environment and Development,3,4.0
-C40,Composition 2,2,3.5
-C40,Creative Drawing,3,4.0
-C40,Painting 2,4,2.5
-C40,Innovation and Technology,3,4.0
-C40,Human Relations,3,3.5
+C39,Life and Social Skills,3,3.0
+C39,Business Finance,3,1.5
+C39,Data Structure and Algorithm,3,3.0
+C39,Database Management Systems,3,2.5
+C39,English for Career,3,3.0
+C39,Thinking and Making Decision Scientifically,3,4.0
+C39,Microeconomics,3,2.5
+C39,Computer Programming 1,3,2.0
+C40,Thai Art 3,4,3.5
 C40,Experimental Art,2,4.0
-C40,Painting 3,4,3.5
-C40,Art Analysis,2,3.0
-C40,Lanna Studies,2,4.0
-C40,Painting 4,5,3.5
-C40,Creative Painting,3,4.0
-C40,History of Painting,3,4.0
+C40,Sufficiency Economy and Wisdom of Living,3,3.0
+C40,Art Thesis,12,4.0
+C40,Innovation and Technology,3,3.5
+C40,Thai Mural Painting,3,3.5
+C40,Thai Art 2,4,4.0
+C40,Arts of Using Thai Language,3,4.0
+C40,Laikam Lanna,3,3.5
+C40,Composition 2,2,3.5
+C40,Art Analysis,2,3.5
+C40,Watercolor Painting,3,3.0
+C40,Creative Drawing,3,3.0
+C40,Printmaking 1,5,3.5
 C40,Job Internship in Art,3,1.0
 C40,Seminar in Visual Art	,2,3.5
-C40,Art Thesis,12,2.5
-C40,Art Exhibition Design,3,3.5
-C40,Art Thesis Preparation,6,3.0
-C40,Writing for Art Thesis,2,2.5
-C40,Watercolor Painting,3,3.5
-C40,Arts of Using Thai Language,3,2.5
-C40,History and Style of Eastern Art,3,4.0
-C40,Process of Thinking and Problem Solving,3,3.5
-C40,Academic English,3,4.0
-C40,Drawing,2,4.0
-C40,Aesthetics,2,4.0
-C40,Theory of Color,2,4.0
+C40,Art Exhibition Design,3,4.0
+C40,Art Thesis Preparation,6,3.5
+C40,Writing for Art Thesis,2,3.5
+C40,Environment and Development,3,1.0
+C40,Lanna Studies,2,3.5
+C40,Drawing 1,2,3.0
+C40,Process of Thinking and Problem Solving,3,1.0
+C40,Drawing,2,2.5
+C40,Aesthetics,2,3.5
+C40,Theory of Color,2,3.0
+C40,History and Style of Eastern Art,3,3.0
 C40,Computer Assisted Visual Art,2,4.0
-C40,Art of Living,3,3.5
-C40,English for Everyday Communication,3,3.5
-C40,Traditional Thai Art,2,3.5
-C40,Introduction to Composition,2,4.0
-C40,Visual Art 1,3,4.0
-C40,Drawing 1,2,3.5
+C40,Visual Art 1,3,3.5
+C40,Art of Living,3,2.0
+C40,English for Everyday Communication,3,4.0
+C40,Traditional Thai Art,2,3.0
+C40,Academic English,3,2.0
 C40,History and Style of Western Art,3,4.0
-C40,Composition 1,2,3.0
-C40,Drawing 2,2,4.0
-C40,Anatomy,2,4.0
-C40,Painting 1,4,3.5
-C40,English for Life Skills	,3,4.0
-C40,Activities for Health,3,4.0
 C40,Visual Art 2,3,4.0
-C40,Contemporary Art,3,4.0
-C41,Web Programming,3,1.0
+C40,Activities for Health,3,4.0
+C40,English for Life Skills	,3,2.0
+C40,Contemporary Art,3,3.5
+C40,Anatomy,2,3.5
+C40,Drawing 2,2,2.0
+C40,Composition 1,2,3.0
+C40,Thai Art 1,4,3.0
+C40,Introduction to Composition,2,4.0
 C41,Business Law and Ethics,3,4.0
-C41,Visual Programming,3,3.5
-C41,Decision Support Systems,3,1.0
-C41,Online Business Management,3,2.5
-C41,Information for Report Writing,3,4.0
-C41,Systems Analysis and Design,3,1.0
-C41,Microeconomics,3,1.0
-C41,Pre Co-operative Education and Job Internship in Business Administration,1,1.0
-C41,Seminar in Computer Information System,3,3.5
-C41,Computer Information Systems Project,3,2.0
-C41,Social Network for Business,3,3.0
-C41,Information Retrieval,3,2.5
-C41,Object Oriented Programming,3,1.5
-C41,Special Topics,3,3.0
-C41,Financial Accounting,3,1.5
-C41,Introduction to Accounting,3,2.0
-C41,Business Finance,3,1.5
-C41,Job Internship in Business Administration,3,1.0
 C41,English for Business Communication,3,3.5
-C41,Computer Security,3,1.0
-C41,Computer Graphics Design,3,2.5
-C41,Human Computer Interaction,3,1.0
-C41,Organization and Management,3,2.0
-C41,Business Data Communication and Network,3,3.0
-C41,Principles of Marketing,3,2.0
-C41,Implementation of Information System in Business,3,1.5
-C41,English in Everyday Use,3,2.5
-C41,Thai for Communication,3,2.5
-C41,Elementary Statistics,3,1.0
-C41,Computer Programming 1,3,2.5
-C41,Information System in Organization,3,2.5
-C41,Physical Education,2,4.0
-C41,Life and Social Skills,3,3.5
-C41,English for Communication,3,2.5
-C41,Data Structure and Algorithm,3,3.5
-C41,Database Management Systems,3,3.5
-C41,English for Career,3,3.5
-C41,Thinking and Making Decision Scientifically,3,3.0
-C41,Quantitative Analysis in Business,3,1.0
-C41,English through Media and Technology,3,1.5
+C41,Human Computer Interaction,3,3.5
+C41,Macroeconomics,3,4.0
+C41,Business Data Communication and Network,3,3.5
+C41,Database Application Software,3,4.0
+C41,Visual Programming,3,4.0
+C41,Computer Graphics Design,3,3.5
+C41,Object Oriented Programming,3,4.0
+C41,Computer Information Systems Project,3,4.0
+C41,Online Business Management,3,4.0
+C41,Information for Report Writing,3,4.0
+C41,Pre Co-operative Education and Job Internship in Business Administration,1,1.0
+C41,Seminar in Computer Information System,3,4.0
+C41,Computer Security,3,4.0
+C41,Social Network for Business,3,4.0
+C41,Information Retrieval,3,4.0
+C41,Co-operative Education in Business Administration,6,1.0
+C41,English through Media and Technology,3,2.5
+C41,Decision Support Systems,3,3.5
+C41,Systems Analysis and Design,3,4.0
 C41,Sufficiency Economy to Sustainable Development,3,4.0
-C41,Macroeconomics,3,2.5
-C41,Database Application Software,3,3.0
-C41,Production and Operations Management,3,1.0
-C42,Software Design and Development,3,3.5
-C42,Art of Living,3,4.0
-C42,Artificial Intelligence and Machine Learning,3,4.0
-C42,System Analysis and Design,3,3.0
-C42,Innovation and Technology,3,4.0
-C42,Computer Architecture and Organization,3,3.5
-C42,"Society, Economy, Politics and Law",3,4.0
-C42,Mathematics and Statistics in Daily Life,3,4.0
-C42,Science for Health,3,3.5
-C42,Microcontroller System Design and Interface,3,2.5
-C42,Operating Systems,3,1.5
+C41,Quantitative Analysis in Business,3,3.5
+C41,Web Programming,3,4.0
+C41,Introduction to Accounting,3,3.0
+C41,Principles of Marketing,3,3.5
+C41,Implementation of Information System in Business,3,4.0
+C41,Special Topics,3,3.0
+C41,English in Everyday Use,3,2.5
+C41,Elementary Statistics,3,3.5
+C41,Organization and Management,3,3.0
+C41,Computer Programming 1,3,4.0
+C41,Information System in Organization,3,4.0
+C41,Thai for Communication,3,4.0
+C41,English for Communication,3,3.0
+C41,Life and Social Skills,3,4.0
+C41,Business Finance,3,3.0
+C41,Production and Operations Management,3,4.0
+C41,Data Structure and Algorithm,3,4.0
+C41,Database Management Systems,3,4.0
+C41,English for Career,3,3.0
+C41,Thinking and Making Decision Scientifically,3,3.5
+C41,Physical Education,2,4.0
+C41,Microeconomics,3,2.5
+C42,Computer Engineering Laboratory,2,4.0
+C42,System Analysis and Design for Engineering,3,3.0
+C42,Discrete Mathematics for Engineering,3,2.5
+C42,"Ethical, Legal and Social Issues in Computer",1,4.0
+C42,Physics 2 for Engineers,3,2.5
+C42,Microprocessor and Interface,3,1.0
+C42,International Relations,2,4.0
+C42,Computer System Architectures and Organizations,3,2.0
+C42,Object Oriented Programming,3,4.0
+C42,Numerical Methods for Computer Engineering,3,4.0
+C42,Thinking and Making Decision Scientifically,3,4.0
+C42,Exercise for Health,3,4.0
 C42,Co-operative Education in Computer Engineering,6,1.0
-C42,Computer Engineering Pre-Project,1,4.0
+C42,Software Engineering,3,3.5
 C42,Signals and Systems,3,4.0
-C42,Web Programming,3,4.0
-C42,Sufficiency Economy and Wisdom of Living,3,3.5
-C42,Computer Networks,3,2.5
-C42,Computer Engineering Project,3,4.0
-C42,Fuzzy Set Theory,3,4.0
-C42,Electric Circuits,3,1.5
-C42,Process of Thinking and Problem Solving,3,4.0
-C42,Data Communication and Networks,3,3.5
-C42,Activities for Health,3,4.0
-C42,Engineering Materials,3,1.5
-C42,Electric Circuits,3,1.5
-C42,Digital Circuits,3,4.0
-C42,Fundamental of Engineering Training,1,3.5
-C42,Electrical Instruments and Measurements,3,3.0
+C42,Computer Networks,3,3.5
+C42,Internet Programming,3,3.5
+C42,Computer Engineering Pre-Project,1,3.5
+C42,"Society, Economy, Politics and Law",3,3.5
+C42,Korean for Communication,3,3.0
+C42,Digital Communication,3,3.0
+C42,Artificial Intelligence for Robots,3,4.0
+C42,Computer Engineering Project,3,3.5
+C42,Database Systems,3,3.0
+C42,Operating Systems,3,3.0
+C42,Electrical Circuits for Computer Engineering,3,1.0
+C42,Physics 1 for Engineers,3,2.0
+C42,Data Structures and Algorithms,3,1.0
+C42,English in Everyday Use,3,2.5
 C42,Calculus 1 for Engineers,3,4.0
-C42,English for Everyday Communication,3,2.0
-C42,Basic Computer Engineering Skills,1,4.0
-C42,Mathematical Foundations for Computer Engineering,3,2.5
-C42,Calculus 2 for Engineers,3,4.0
-C42,Physics 1 for Engineers,3,3.0
-C42,Physics 1 for Engineers Laboratory,1,3.0
-C42,Computer Programming,3,1.0
-C42,English for Life Skills	,3,1.5
-C42,Process of Thinking and Problem Solving,3,1.5
-C42,Engineering Drawing,3,3.5
-C42,Arts of Using Thai Language,3,3.5
-C42,Academic English,3,1.5
-C42,Introduction to Database and Big Data Engineering,3,3.5
-C42,Electrical Engineering Mathematics,3,1.0
-C42,Computer and Data Security,3,4.0
-C42,Data Structures and Algorithms,3,4.0
-C42,Engineering Mechanics,3,3.5
-C42,Engineering Electronics,3,4.0
-C43,Human Relations,3,4.0
-C43,Media Art 2,4,2.5
-C43,Electronic Print Media,3,3.5
-C43,Innovation and Technology,3,4.0
-C43,Arts of Using Thai Language,3,2.5
-C43,Experimental Art,2,4.0
-C43,Media Art 3,4,4.0
+C42,Engineering Mechanics,3,1.0
+C42,Chemistry Laboratory for Engineers,1,2.5
+C42,Physics 1 for Engineers Laboratory,1,4.0
+C42,Computer Programming,3,3.5
+C42,Basic Computer Engineering Training,3,4.0
+C42,Physical Education,2,3.5
+C42,English for Communication,3,2.5
+C42,Calculus 2 for Engineers,3,2.5
+C42,Physics 2 for Engineers Laboratory,1,4.0
+C42,Electronic Circuits for Computer Engineering,3,1.0
+C42,Chemistry for Engineers,3,3.0
+C42,Introduction to Digital Systems,3,2.5
+C42,Advanced Computer Programming,3,3.5
+C42,Introduction to Environmental Engineering,1,1.5
+C42,Elementary Statistics,3,2.5
+C42,English for Career,3,2.5
+C42,Digital Systems Design Laboratory,1,1.0
+C42,Engineering Drawing,3,3.0
+C42,Mathematics for Computer Engineering,3,1.0
+C42,Sufficiency Economy to Sustainable Development,3,3.5
+C42,General Psychology,3,2.0
+C42,Technical English,3,2.5
+C42,Digital Systems Design,3,1.0
+C43,Composition 2,2,4.0
 C43,Environment and Development,3,3.5
+C43,Creative Drawing,3,4.0
+C43,Painting 2,4,3.5
+C43,Innovation and Technology,3,3.0
+C43,Human Relations,3,3.5
+C43,Experimental Art,2,4.0
+C43,Painting 3,4,4.0
 C43,Art Analysis,2,3.0
 C43,Job Internship in Art,3,1.0
+C43,Painting 4,5,3.0
+C43,Creative Painting,3,4.0
+C43,History of Painting,3,4.0
 C43,Art Thesis,12,4.0
-C43,Creative Drawing,3,2.5
-C43,Media Art 4,5,4.0
-C43,Experimental Art for Media Art,3,3.5
-C43,Seminar in Visual Art	,2,2.0
-C43,Art Exhibition Design,3,4.0
+C43,Seminar in Visual Art	,2,3.5
+C43,Art Exhibition Design,3,3.5
 C43,Art Thesis Preparation,6,4.0
-C43,Writing for Art Thesis,2,4.0
-C43,Composition 2,2,1.5
-C43,Watercolor Painting,3,4.0
+C43,Writing for Art Thesis,2,3.0
 C43,Lanna Studies,2,2.0
-C43,Traditional Thai Art,2,2.0
-C43,Process of Thinking and Problem Solving,3,2.5
+C43,Watercolor Painting,3,3.0
+C43,Arts of Using Thai Language,3,1.5
+C43,Visual Art 1,3,3.5
+C43,Process of Thinking and Problem Solving,3,4.0
 C43,Drawing,2,4.0
-C43,Aesthetics,2,3.5
+C43,Aesthetics,2,2.5
 C43,Theory of Color,2,4.0
-C43,History and Style of Eastern Art,3,4.0
-C43,Computer Assisted Visual Art,2,4.0
-C43,Art of Living,3,1.5
+C43,History and Style of Eastern Art,3,1.5
+C43,Computer Assisted Visual Art,2,1.5
 C43,English for Everyday Communication,3,2.5
+C43,Traditional Thai Art,2,1.5
 C43,Introduction to Composition,2,4.0
 C43,History and Style of Western Art,3,4.0
-C43,Visual Art 1,3,3.5
+C43,Art of Living,3,2.0
 C43,Visual Art 2,3,3.5
 C43,Drawing 1,2,4.0
-C43,Media Art 1,4,2.5
-C43,Composition 1,2,3.5
-C43,Drawing 2,2,4.0
-C43,Academic English,3,1.0
-C43,Contemporary Art,3,2.0
-C43,English for Life Skills	,3,2.5
-C43,Activities for Health,3,1.5
-C43,Anatomy,2,2.0
-C44,Quantitative Analysis in Business,3,1.0
-C44,Business Finance,3,1.5
-C44,Systems Analysis and Design,3,1.0
-C44,Object Oriented Programming,3,3.5
-C44,Decision Support Systems,3,2.0
-C44,Online Business Management,3,4.0
-C44,Information for Report Writing,3,3.0
-C44,Ecotourism,3,4.0
-C44,Human Computer Interaction,3,3.5
-C44,Computer Information Systems Project,3,3.0
-C44,Computer Security,3,3.5
-C44,Business Data Communication and Network,3,2.5
-C44,Social Network for Business,3,4.0
-C44,English for Business Communication,3,3.5
-C44,Sports for Competition,3,4.0
-C44,Co-operative Education in Business Administration,6,1.0
-C44,Production and Operations Management,3,2.0
-C44,Visual Programming,3,3.5
-C44,Computer Graphics Design,3,2.5
-C44,Database Application Software,3,2.5
-C44,Data Structure and Algorithm,3,2.0
+C43,Painting 1,4,3.5
+C43,Composition 1,2,4.0
+C43,Drawing 2,2,3.5
+C43,Academic English,3,3.0
+C43,Contemporary Art,3,3.0
+C43,English for Life Skills	,3,1.0
+C43,Activities for Health,3,4.0
+C43,Anatomy,2,2.5
+C44,Visual Programming,3,2.5
+C44,Macroeconomics,3,2.5
+C44,Database Application Software,3,3.0
+C44,Business Data Communication and Network,3,2.0
+C44,Computer Graphics Design,3,3.5
+C44,Human Computer Interaction,3,2.5
+C44,English for Business Communication,3,1.0
+C44,Business Law and Ethics,3,3.0
+C44,Sufficiency Economy to Sustainable Development,3,3.0
+C44,Computer Information Systems Project,3,1.5
+C44,Online Business Management,3,2.5
+C44,Information for Report Writing,3,2.5
 C44,Pre Co-operative Education and Job Internship in Business Administration,1,1.0
-C44,Macroeconomics,3,3.0
-C44,Principles of Marketing,3,4.0
-C44,Implementation of Information System in Business,3,4.0
-C44,Special Topics,3,3.0
-C44,Physical Education,2,4.0
-C44,English in Everyday Use,3,4.0
-C44,Introduction to Accounting,3,1.0
-C44,Elementary Statistics,3,1.0
-C44,Organization and Management,3,4.0
-C44,Information System in Organization,3,2.5
-C44,English for Communication,3,3.5
+C44,Seminar in Computer Information System,3,4.0
+C44,Computer Security,3,1.0
+C44,Social Network for Business,3,2.5
+C44,Information Retrieval,3,2.5
+C44,Co-operative Education in Business Administration,6,1.0
+C44,English through Media and Technology,3,2.5
+C44,Decision Support Systems,3,1.5
+C44,Systems Analysis and Design,3,2.5
+C44,Object Oriented Programming,3,1.5
+C44,Quantitative Analysis in Business,3,1.0
+C44,Introduction to Accounting,3,2.0
+C44,Principles of Marketing,3,2.5
+C44,Implementation of Information System in Business,3,3.0
+C44,English in Everyday Use,3,1.0
 C44,Thai for Communication,3,3.0
-C44,Computer Programming 1,3,1.0
-C44,English for Career,3,4.0
-C44,Sufficiency Economy to Sustainable Development,3,4.0
-C44,Thinking and Making Decision Scientifically,3,4.0
-C44,Business Law and Ethics,3,2.5
-C44,Microeconomics,3,1.5
-C44,Database Management Systems,3,1.5
-C44,Web Programming,3,2.0
-C44,English through Media and Technology,3,4.0
+C44,Web Programming,3,3.0
+C44,Organization and Management,3,3.0
+C44,Computer Programming 1,3,2.5
+C44,Information System in Organization,3,3.0
+C44,Elementary Statistics,3,2.0
+C44,English for Communication,3,2.0
+C44,Physical Education,2,4.0
+C44,Thinking and Making Decision Scientifically,3,3.0
+C44,English for Career,3,1.5
+C44,Database Management Systems,3,3.0
+C44,Microeconomics,3,2.0
+C44,Production and Operations Management,3,2.0
+C44,Business Finance,3,1.0
 C44,Life and Social Skills,3,3.5
-C45,Electronic Commerce,3,4.0
-C45,Information Management,3,4.0
-C45,Fundamental Chinese,3,4.0
-C45,Management Information System,3,4.0
-C45,Computer Network Management,3,4.0
-C45,Ethics and Information Law,3,3.0
-C45,Web Programming,3,4.0
-C45,System Analysis and Design for Information,3,4.0
-C45,Object Oriented Analysis and Design,3,4.0
-C45,Information System Security,3,3.0
-C45,Human Computer Interaction,3,4.0
-C45,Chinese for Communication,3,4.0
-C45,Information Technology Research Methodology,3,4.0
-C45,Selected Programming Language,3,4.0
-C45,Mobile Devices Programming,3,4.0
-C45,Multimedia Technology,3,4.0
-C45,Job Internship in Information Technology,6,1.0
-C45,Information Technology Seminar,1,4.0
-C45,Thinking and Making Decision Scientifically,3,4.0
+C44,Data Structure and Algorithm,3,3.0
+C45,Web Technology,3,4.0
+C45,Computer Network Administration,3,4.0
+C45,Science for Health,3,4.0
 C45,Project Management in Information Technology,3,4.0
-C45,Technical English,3,4.0
-C45,Technological Mathematics,3,3.5
-C45,Database System for Information Technology,3,4.0
+C45,Human Computer Interaction,3,4.0
+C45,Data Warehouse and Data Mining,3,4.0
+C45,Electronic Commerce,3,4.0
+C45,Data Structure and Algorithm,3,4.0
 C45,Information Technology Project,3,1.0
-C45,English in Everyday Use,3,3.0
-C45,General Psychology,3,4.0
-C45,Sufficiency Economy to Sustainable Development,3,3.0
-C45,Calculus 1,3,2.5
-C45,Introduction to Physics,3,3.5
-C45,Introduction to Physics Laboratory,1,4.0
-C45,Introduction to Computer,3,3.0
-C45,English for Communication,3,4.0
-C45,Thai for Communication,3,4.0
-C45,Life and Social Skills,3,3.5
-C45,Systems Information Technology in Organization,3,4.0
+C45,Multimedia Technology,3,4.0
+C45,Software Engineering,3,4.0
+C45,Mobile Devices Programming,3,4.0
+C45,Cloud Computing,3,4.0
+C45,Information Technology Research Methodology,3,4.0
+C45,Chinese for Communication,3,4.0
+C45,Information System Security,3,3.5
+C45,Information Technology Seminar,1,4.0
+C45,System Analysis and Design,3,4.0
+C45,Integrative Programming and Web Technology,3,4.0
+C45,Ethics and Information Law,3,4.0
+C45,Activities for Health,3,4.0
+C45,Academic English,3,4.0
+C45,Special Topic in Information Technology,3,3.5
+C45,Principle of Physics,3,4.0
 C45,Discrete Mathematics,3,4.0
-C45,Structure Programming,3,4.0
-C45,Physical Education,2,4.0
-C45,English for Career,3,4.0
-C45,Statistics for Science,3,4.0
-C45,Computer Platform Technology,3,3.0
+C45,Fundamentals of Information Technology,3,4.0
+C45,Art of Living,3,4.0
+C45,English for Everyday Communication,3,4.0
+C45,Arts of Using Thai Language,3,4.0
+C45,Sufficiency Economy and Wisdom of Living,3,4.0
+C45,Calculus 1,3,4.0
+C45,Management Information System,3,4.0
+C45,Fundamentals of Programming,3,4.0
+C45,Process of Thinking and Problem Solving,3,4.0
+C45,English for Life Skills	,3,4.0
+C45,Statistics for Science,3,3.5
+C45,Database System,3,4.0
+C45,Computer Platform Technology,3,4.0
 C45,Object Oriented Programming,3,4.0
 C45,Data Communication and Computer Network System,3,4.0
-C45,Special Topic in Information Technology,3,3.5
+C45,Innovation and Technology,3,4.0
+C45,Decision Support System,3,4.0
+C45,Job Internship in Information Technology,6,1.0
