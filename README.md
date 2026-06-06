@@ -1,27 +1,46 @@
 # Expert Ground-Truth Rating
 
-Static web application for expert rating of student fit against job postings.
+เว็บแอปสำหรับให้ผู้เชี่ยวชาญประเมินความเหมาะสมของนักศึกษาต่อประกาศรับสมัครงาน โดยให้คะแนน 1-5 พร้อมเหตุผลสั้น ๆ
 
-## Data files
+## ข้อมูลที่ใช้
 
-- `posting_BLIND_for_experts.csv`: 4 blinded job postings used as A1-A4
-- `roster_BLIND_for_experts.csv`: blinded student transcript rows using `Candidate_Code`
+- `posting_BLIND_for_experts.csv` ประกาศงาน 4 ใบ แสดงเป็น `A1-A4`
+- `roster_BLIND_for_experts.csv` transcript นักศึกษา แบ่งด้วย `Candidate_Code`
 
-Evaluation rounds:
+รอบการประเมิน:
 
-- Set 1: A1-A4 against C01-C15
-- Set 2: A1-A4 against C16-C30
-- Set 3: A1-A4 against C31-C45
+- ชุดที่ 1: `A1-A4` กับ `C01-C15`
+- ชุดที่ 2: `A1-A4` กับ `C16-C30`
+- ชุดที่ 3: `A1-A4` กับ `C31-C45`
 
-## Run locally
+## วิธีใช้งานสำหรับผู้ประเมิน
+
+1. กรอกรหัสผู้ประเมิน
+2. เลือกรอบการประเมิน
+3. เลือกประกาศงาน `A1-A4`
+4. อ่านทักษะที่ต้องการ คำบรรยายงาน และ Student Profile
+5. ให้คะแนนนักศึกษาแต่ละคน `1-5`
+6. ใส่เหตุผลสั้น ๆ ในช่องเหตุผล
+
+คะแนนซ้ำกันได้ เพราะเป็นการประเมินความเหมาะสมรายคน ไม่ใช่การจัดอันดับ
+
+## Admin
+
+กดปุ่ม `Admin` เพื่อเปิดส่วนส่งออกผล
+
+- user: `adminA`
+- password: `1432`
+
+Admin สามารถดาวน์โหลดผลเป็น `CSV` หรือ `JSON`
+
+## เปิดใช้งานในเครื่อง
 
 ```bash
 python3 -m http.server 4173
 ```
 
-Open `http://localhost:4173/`.
+แล้วเปิด:
 
-Admin access:
-
-- user: `adminA`
-- password: `1432`
+```text
+http://localhost:4173/
+```
