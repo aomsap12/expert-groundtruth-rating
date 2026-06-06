@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="th">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Expert Ground-Truth Rating</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Expert Ground-Truth Rating</p>
+        <h1>ให้คะแนนความเหมาะสมของนักศึกษาต่อประกาศงาน</h1>
+      </div>
+      <div class="header-actions">
+        <div class="expert-box">
+          <label for="expertId">รหัสผู้ประเมิน</label>
+          <input id="expertId" type="text" placeholder="เช่น EXP-01" autocomplete="off" />
+        </div>
+        <button id="adminToggle" class="secondary-button compact-button" type="button">Admin</button>
+      </div>
+    </header>
+
+    <section id="adminPanel" class="admin-panel" hidden>
+      <section class="panel upload-panel">
+        <div class="panel-heading">
+          <h2>Admin: ข้อมูลและส่งออกผล</h2>
+          <p>ระบบโหลดไฟล์ข้อมูลจริงจากโฟลเดอร์เว็บโดยตรง</p>
+        </div>
+
+        <div class="admin-grid">
+          <div class="upload-card">
+            <span class="upload-icon" aria-hidden="true">JD</span>
+            <span>
+              <strong>Database ประกาศรับสมัครงาน</strong>
+              <small>ใช้ master_key_postings.csv เป็น A1-A4</small>
+            </span>
+          </div>
+
+          <div class="upload-card">
+            <span class="upload-icon" aria-hidden="true">SP</span>
+            <span>
+              <strong>Student profile / Transcript</strong>
+              <small>ใช้ roster_BLIND_for_experts.csv และ Candidate_Code</small>
+            </span>
+          </div>
+
+          <div class="admin-actions">
+            <button id="loadDemo" class="secondary-button" type="button">โหลดข้อมูลจริงอีกครั้ง</button>
+            <button id="downloadCsv" class="primary-button" type="button">ดาวน์โหลด CSV</button>
+            <button id="downloadJson" class="secondary-button" type="button">ดาวน์โหลด JSON</button>
+          </div>
+        </div>
+        <p id="uploadStatus" class="status-text">กำลังโหลดข้อมูลจริง</p>
+      </section>
+    </section>
+
+    <main class="app-shell">
+      <section class="workbench" aria-label="พื้นที่ประเมิน">
+        <section class="selector-row">
+          <label>
+            รอบการประเมิน
+            <select id="roundSelect">
+              <option value="1">ชุดที่ 1: A1-A4 กับ C01-C15</option>
+              <option value="2">ชุดที่ 2: A1-A4 กับ C16-C30</option>
+              <option value="3">ชุดที่ 3: A1-A4 กับ C31-C45</option>
+            </select>
+          </label>
+          <label>
+            ประกาศงาน
+            <select id="postingSelect"></select>
+          </label>
+          <div class="progress-compact" aria-label="ความคืบหน้า">
+            <div>
+              <strong id="progressLabel">0 จาก 0 รายการ</strong>
+              <span id="metricLabel">0 ประกาศ / 0 นักศึกษา</span>
+            </div>
+            <div class="progress-bar" aria-hidden="true"><span id="progressFill"></span></div>
+          </div>
+        </section>
+
+        <section class="job-view panel">
+          <div class="job-topline">
+            <div>
+              <p class="eyebrow">Job Posting</p>
+              <h2 id="jobTitle">-</h2>
+            </div>
+            <span id="jobTypeBadge" class="pill muted">-</span>
+          </div>
+
+          <div class="skills-block">
+            <h3>ข้อมูลประกาศสำคัญ</h3>
+            <div id="skillTags" class="tag-list prominent-tags"></div>
+          </div>
+
+          <div class="content-block compact-description">
+            <h3>รายละเอียดจาก master key</h3>
+            <p id="jobDescription">-</p>
+            <button id="descriptionToggle" class="text-button" type="button">ดูรายละเอียดเพิ่มเติม</button>
+          </div>
+        </section>
+
+        <section class="ranking-panel panel">
+          <div class="panel-heading inline-heading">
+            <div>
+              <p class="eyebrow">Scoring Board</p>
+              <h2>ให้คะแนนนักศึกษาทั้งชุดสำหรับงานนี้</h2>
+            </div>
+            <span id="savedState" class="pill muted">ยังไม่ครบ</span>
+          </div>
+          <p class="rank-note">ให้คะแนน 1-5 ตามความเหมาะสมของแต่ละคนต่อประกาศงานนี้ คะแนนซ้ำกันได้ คลิกแถวนักศึกษาเพื่อดู Student Profile ทางขวา</p>
+
+          <div class="ranking-wrap">
+            <table class="ranking-table">
+              <thead>
+                <tr>
+                  <th>นักศึกษา</th>
+                  <th>GPA</th>
+                  <th>รายวิชา</th>
+                  <th>คะแนน 1-5</th>
+                  <th>เหตุผลสั้น ๆ</th>
+                </tr>
+              </thead>
+              <tbody id="candidateRanking"></tbody>
+            </table>
+          </div>
+        </section>
+      </section>
+
+      <aside class="profile-view panel" aria-label="Student Profile">
+        <div class="panel-heading inline-heading">
+          <div>
+            <p class="eyebrow">Student Profile</p>
+            <h2 id="candidateName">-</h2>
+          </div>
+          <div class="profile-stats">
+            <span id="gpaBadge" class="pill accent">GPA -</span>
+            <span id="courseCount" class="pill">0 วิชา</span>
+          </div>
+        </div>
+        <div class="table-wrap transcript-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>ชื่อวิชา</th>
+                <th>หน่วยกิต</th>
+                <th>เกรด</th>
+              </tr>
+            </thead>
+            <tbody id="courseTable"></tbody>
+          </table>
+        </div>
+      </aside>
+    </main>
+
+    <div id="adminModal" class="modal-backdrop" hidden>
+      <section class="admin-modal panel" role="dialog" aria-modal="true" aria-labelledby="adminModalTitle">
+        <div class="panel-heading">
+          <p class="eyebrow">Admin Access</p>
+          <h2 id="adminModalTitle">เข้าสู่ระบบผู้ดูแล</h2>
+        </div>
+        <form id="adminLoginForm" class="admin-login-form">
+          <label for="adminUser">
+            User
+            <input id="adminUser" type="text" autocomplete="username" />
+          </label>
+          <label for="adminPassword">
+            Password
+            <input id="adminPassword" type="password" autocomplete="current-password" />
+          </label>
+          <p id="adminLoginError" class="login-error" hidden>user หรือ password ไม่ถูกต้อง</p>
+          <div class="modal-actions">
+            <button id="adminCancel" class="secondary-button" type="button">ยกเลิก</button>
+            <button class="primary-button" type="submit">เข้าสู่ Admin</button>
+          </div>
+        </form>
+      </section>
+    </div>
+  </body>
+</html>

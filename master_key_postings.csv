@@ -1,0 +1,5 @@
+Posting_Code,Job_Type,Job_ID,Job_Title,n_skills,n_distinct_NTACS,spread_std
+P1,data_scientist,jobid1295,"Applied Data Scientist, Enterprise",4,44,0.61265
+P2,data_analyst,jobid3335,Data Analyst,4,44,0.6105
+P3,data_engineer,jobid5111,Sr. Data Engineer,5,45,0.59256
+P4,visual art,jobid5718,Teaching graphic design,13,45,0.49249
