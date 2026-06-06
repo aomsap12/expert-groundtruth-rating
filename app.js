@@ -5,7 +5,8 @@ const ADMIN_USER = "adminA";
 const ADMIN_PASSWORD = "1432";
 const STORAGE_KEY = "expertGroundTruthRatings.v1";
 const SHEETS_URL_KEY = "expertGroundTruthSheetsUrl.v1";
-const GOOGLE_SHEETS_WEB_APP_URL = "";
+const GOOGLE_SHEETS_WEB_APP_URL =
+  "https://script.google.com/macros/s/AKfycbx36wAYckD35RYei4UiiCX9hB7_tlnfaft97AKbk6JDIBEafcs9HZy_LiN7sE7zZv4n/exec";
 
 const demoJobs = [
   {
