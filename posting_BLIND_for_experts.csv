@@ -1,0 +1,97 @@
+﻿Posting_Code,Job_Title,Job_Type,Skill,Description
+P1,"Applied Data Scientist, Enterprise",data_scientist,"['Spark', 'Machine Learning', 'R', 'Python']","[<ul><li>
+Work closely with our customers to develop a strategy to extract the maximum possible value from the available data</li><li>
+Leverage the Python Data Science ecosystem to create prototypes, pipelines and visualizations to help our customers make better decisions. We also use R when necessary.
+</li><li>Be involved throughout customer interaction from project scoping to final delivery
+</li><li>Critically assess the type and quality of customer data and work with them to appreciate their toughest problems
+</li><li>Work independently or with our research team to develop a modelling strategy to sit at the core of a data-led simulation-based approach to problem solving
+</li><li>Take ownership of ensuring and demonstrating the reliability of the models that we create</li><div><br/>
+</div><div>
+Additionally you will drive thought leadership within the company and help our clients to understand their data needs and design their data strategies. This involves keeping up-to-date with a diverse body of cutting-edge research, designing and prototyping pioneering new technical approaches and rapidly developing expertise in new subject areas to support new bids and projects.</div></ul>, <ul><li>
+Strong background and experience in delivery of technical, data-rich projects ideally for external clients.
+</li><li>Degree in a scientific or mathematical field, ideally with a computational element</li><li>
+Pragmatic coding ability - with fluency in at least one relevant programming language and the openness to learn and adapt to a variety of languages. We mainly use Python, Pandas and many related tools and libraries.</li><li>
+Enthusiastic about continuously improving and rapidly developing new competencies.</li></ul>, <ul><li>
+Working with large data sets and big-data technologies such as Spark</li><li>
+Bayesian methods</li><li>
+Effectively communicating and visualising analysis of rich data sets</li><li>
+Probabilistic programming</li><div><br/>
+</div><div>
+Our office is currently located in Arlington, VA with client sites across N. Virginia</div></ul>]"
+P2,Data Analyst,data_analyst,"['R', 'Python', 'Excel', 'SQL']","[<ul>
+<li>Work with cross-functional teams to understand their analytics needs providing relevant data and presenting analysis results.</li>
+<li>Standardize and maintain daily &amp; weekly reporting of key metrics across different company areas- sales, marketing, customers and product.</li>
+<li>Design experiments and determine appropriate statistical approaches to answer specific product or business questions.</li>
+<li>Use appropriate tools (e.g. R, Python, MS Excel) to analyze and visualize data.</li>
+<li>Create charts and generate regular reports to track key metrics.</li>
+</ul>, <ul>
+<li>MS (or BS with 2-4 years of experience) in engineering, statistics or related quantitative field.</li>
+<li>Experience with building visualizations, trend analysis, statistical testing, and data-storytelling.</li>
+<li>Experience in analyzing data using statistical analysis tools such as R and scripting languages, such as Python.</li>
+<li>Experience in querying large and complex SQL databases.</li>
+<li>Strongly prefer someone with industry experience in a product, consumer marketing or customer-facing analyst role.</li>
+<li>Strong communication skills - help internal stakeholders &amp; clients understand metrics effectively.</li>
+</ul>, <ul>
+<li>Medical/Dental/Vision/Life/Disability Benefits</li>
+<li>SIMPLE IRA with company match</li>
+<li>Potential to earn equity (not guaranteed)</li>
+</ul>]"
+P3,Sr. Data Engineer,data_engineer,"['Big Data', 'Spark', 'Python', 'SQL', 'AWS']","[<ul><li>Working with high volumes of data to efficiently process and expose for analysis
+</li><li>Collaborating with other engineering teams on strategies for data</li><li>
+Work with cutting edge data processing technologies</li><li>
+Understand our stakeholder (Finance, Marketing, Product) requirements and write complex and efficient code to transform raw data into an easy to approach data marts.</li><li>
+Doing deep dives on business verticals where you become one of the foremost experts on that vertical in the company</li><li>
+Analyze data to measure impacts of data schemas and use it to iterate on improvements</li><li>
+Translate from technical to business, and vice versa. You need to be able to speak with the least technically-minded client (internal or external) and make technology make sense to them. Then turn around and do it the other way</li></ul>, <ul><li>Excellent knowledge on SQL, data modelling and patterns.</li><li>
+5-7 years experience with Python or another general purpose programming language</li><li>
+Background in writing ETL jobs within a Business Intelligence context</li><li>
+A bachelor's degree, preferably in a computer-related discipline.</li><li>
+Enthusiasm for the job. Are you excited about data? Do you love your users? Good, the same goes for us</li></ul>, <ul><li>
+Experience big data processing with Spark and other big data tools a plus</li><li>
+Excellent communication skills, including the ability to crystallize and broadly socialize insights</li><li>
+Problem analysis and problem-solving skills</li><li>
+Rigorous attention to detail and accuracy</li><li>
+Exposure to Amazon AWS or another cloud provider</li><li>
+Adaptability and collaborative skills</li></ul>, <ul><li>Unlimited paid vacation days. Choose how your time is spent.</li><li>
+Never go hungry! We provide weekly GrubHub/Seamless credit.</li><li>
+Regular in-office social events, including happy hours, wine tastings, karaoke, bingo with prizes and more.</li><li>
+Company-Wide Initiatives encouraging innovation, continuous learning and cross-department connections.</li></ul>]"
+P4,Teaching graphic design,visual art,"['Teaching', 'Classroom Management', 'Robotics', 'Coding', 'Lego Building', 'Virtual Reality (VR) Design', 'Augmented Reality (AR) Design', 'Lesson Planning', 'Curriculum Design', 'Child Safeguarding', 'Educational Technology', 'Communication', 'Public Speaking']","We are a team of designers, artists, actors and coders that are on a mission to inspire children with innovative ways of using technology to explore creativity.
+
+We run lunchtime and after school clubs for students aged 5 - 12.
+
+We have three different types of clubs. Building Blocks (Lego), Programmable Robotics (Coding & Robotics) and Virtual and Augmented Reality Design. 
+
+We are looking for additional people that would like to get involved in running after school clubs. 
+
+Key Info
+
+Full training is provided
+
+All teaching materials and lesson plans are provided
+
+We have a community of teachers to share teaching tips and ideas with
+
+Sessions are generally 1 hour and run on a weekly basis during term time from either 12:30 - 1:30 or 3:30 - 4:30pm. At some schools we run 2 sessions in succession
+
+There are additional paid opportunities to design your own lessons and challenges
+
+Sessions happen at different schools across London - To minimise travel, each club leader teaches at schools closest to them
+
+Sessions pay between £35 - £45 ph session - The starting rate is £35 for Building Blocks and £40 for our other clubs. We also cover travel expenses and if cycling we also pay £5 per session.
+
+ 
+
+Job Requirements
+
+You need to:
+
+Be confident working with children
+
+Be able to commit to teaching at least 1 weekly hour session
+
+Have an Enhanced DBS certificate (if you don’t have one we can apply for one on your behalf). 
+
+Be willing to partake in a 2 hour training and complete our safeguarding documentation 
+
+No teaching qualification is required "

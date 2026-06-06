@@ -34,7 +34,7 @@
             <span class="upload-icon" aria-hidden="true">JD</span>
             <span>
               <strong>Database ประกาศรับสมัครงาน</strong>
-              <small>ใช้ master_key_postings.csv เป็น A1-A4</small>
+              <small>ใช้ posting_BLIND_for_experts.csv เป็น A1-A4</small>
             </span>
           </div>
 
@@ -90,12 +90,12 @@
           </div>
 
           <div class="skills-block">
-            <h3>ข้อมูลประกาศสำคัญ</h3>
+            <h3>ทักษะที่ต้องการ</h3>
             <div id="skillTags" class="tag-list prominent-tags"></div>
           </div>
 
           <div class="content-block compact-description">
-            <h3>รายละเอียดจาก master key</h3>
+            <h3>คำบรรยายงานแบบย่อ</h3>
             <p id="jobDescription">-</p>
             <button id="descriptionToggle" class="text-button" type="button">ดูรายละเอียดเพิ่มเติม</button>
           </div>
@@ -110,6 +110,48 @@
             <span id="savedState" class="pill muted">ยังไม่ครบ</span>
           </div>
           <p class="rank-note">ให้คะแนน 1-5 ตามความเหมาะสมของแต่ละคนต่อประกาศงานนี้ คะแนนซ้ำกันได้ คลิกแถวนักศึกษาเพื่อดู Student Profile ทางขวา</p>
+
+          <section class="rubric-card" aria-label="เกณฑ์การให้คะแนน">
+            <h3>เกณฑ์คะแนน</h3>
+            <div class="rubric-table-wrap">
+              <table class="rubric-table">
+                <thead>
+                  <tr>
+                    <th>คะแนน</th>
+                    <th>ระดับ</th>
+                    <th>ความหมาย</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td><span class="score-chip">5</span></td>
+                    <td>เหมาะสมมาก</td>
+                    <td>หลักฐานรายวิชาตรงกับสมรรถนะที่งานต้องการอย่างชัดเจน และผลการเรียนดี</td>
+                  </tr>
+                  <tr>
+                    <td><span class="score-chip">4</span></td>
+                    <td>เหมาะสม</td>
+                    <td>มีรายวิชาที่เกี่ยวข้องกับงานหลายวิชา ผลการเรียนค่อนข้างดี</td>
+                  </tr>
+                  <tr>
+                    <td><span class="score-chip">3</span></td>
+                    <td>เหมาะสมปานกลาง</td>
+                    <td>มีรายวิชาที่เกี่ยวข้องบ้าง หรือเกี่ยวข้องแต่ผลการเรียนปานกลาง</td>
+                  </tr>
+                  <tr>
+                    <td><span class="score-chip">2</span></td>
+                    <td>เหมาะสมน้อย</td>
+                    <td>มีรายวิชาที่เกี่ยวข้องน้อย หลักฐานสมรรถนะอ่อน</td>
+                  </tr>
+                  <tr>
+                    <td><span class="score-chip">1</span></td>
+                    <td>ไม่เหมาะสม</td>
+                    <td>แทบไม่พบรายวิชาที่ตรงกับสมรรถนะที่งานต้องการ</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </section>
 
           <div class="ranking-wrap">
             <table class="ranking-table">

@@ -465,6 +465,82 @@ th {
   font-size: 13px;
 }
 
+.rubric-card {
+  margin-bottom: 14px;
+  padding: 12px;
+  border: 1px solid #d7e4df;
+  border-radius: 8px;
+  background: #fbfdfb;
+}
+
+.rubric-card h3 {
+  margin: 0 0 10px;
+  font-size: 15px;
+}
+
+.rubric-table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+}
+
+.rubric-table {
+  width: 100%;
+  min-width: 640px;
+  border-collapse: separate;
+  border-spacing: 0;
+  table-layout: fixed;
+  font-size: 13px;
+}
+
+.rubric-table th {
+  position: static;
+  padding: 8px 10px;
+  color: #fff;
+  background: var(--teal-dark);
+  border-right: 1px solid rgba(255, 255, 255, 0.28);
+}
+
+.rubric-table th:nth-child(1),
+.rubric-table td:nth-child(1) {
+  width: 74px;
+  text-align: center;
+}
+
+.rubric-table th:nth-child(2),
+.rubric-table td:nth-child(2) {
+  width: 150px;
+}
+
+.rubric-table th:last-child,
+.rubric-table td:last-child {
+  border-right: 0;
+}
+
+.rubric-table td {
+  padding: 8px 10px;
+  border-right: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  vertical-align: top;
+  background: #fff;
+}
+
+.rubric-table tbody tr:last-child td {
+  border-bottom: 0;
+}
+
+.score-chip {
+  display: inline-grid;
+  width: 28px;
+  height: 28px;
+  place-items: center;
+  border-radius: 999px;
+  color: var(--teal-dark);
+  font-weight: 900;
+  background: #e0f0ed;
+}
+
 .modal-backdrop {
   position: fixed;
   inset: 0;

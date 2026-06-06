@@ -4,7 +4,7 @@ Static web application for expert rating of student fit against job postings.
 
 ## Data files
 
-- `master_key_postings.csv`: 4 job postings used as A1-A4
+- `posting_BLIND_for_experts.csv`: 4 blinded job postings used as A1-A4
 - `roster_BLIND_for_experts.csv`: blinded student transcript rows using `Candidate_Code`
 
 Evaluation rounds:

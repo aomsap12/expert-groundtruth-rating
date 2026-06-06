@@ -97,9 +97,6 @@ function normalizeJob(row, index = 0) {
   const postingCode = normalizeKey(row, ["posting_code", "posting", "job_code", "รหัส"]);
   const sourceId = normalizeKey(row, ["job_id", "id"]);
   const jobType = normalizeKey(row, ["job_type", "job type", "type"]) || "";
-  const skillCount = normalizeKey(row, ["n_skills", "skills"]);
-  const ntacsCount = normalizeKey(row, ["n_distinct_ntacs", "ntacs"]);
-  const spread = normalizeKey(row, ["spread_std", "spread"]);
   const skillList = row.Skill || row.skill || row.Required_Skills || row["Required Skills"] || "";
   return {
     Posting_ID: `A${index + 1}`,
@@ -107,16 +104,8 @@ function normalizeJob(row, index = 0) {
     Job_ID: sourceId || "",
     title: normalizeKey(row, ["job_title", "job title", "title", "ตำแหน่ง", "ชื่อตำแหน่ง"]) || "Untitled Job",
     type: jobType,
-    description:
-      cleanDescription(normalizeKey(row, ["description", "คำบรรยาย", "รายละเอียด"])) ||
-      `Posting source: ${postingCode || "-"}\nJob ID: ${sourceId || "-"}\nJob type: ${jobType || "-"}\nSkill count: ${skillCount || "-"}\nDistinct NTACS: ${ntacsCount || "-"}\nSpread std: ${spread || "-"}`,
-    skills: parseSkillList(skillList),
-    metadata: [
-      jobType ? `Type: ${jobType}` : "",
-      skillCount ? `Skills: ${skillCount}` : "",
-      ntacsCount ? `NTACS: ${ntacsCount}` : "",
-      spread ? `Spread: ${spread}` : ""
-    ].filter(Boolean)
+    description: cleanDescription(normalizeKey(row, ["description", "คำบรรยาย", "รายละเอียด"])),
+    skills: parseSkillList(skillList)
   };
 }
 
@@ -251,7 +240,7 @@ function renderJob() {
   el.descriptionToggle.hidden = !shouldTruncate;
   el.descriptionToggle.textContent = state.descriptionExpanded ? "ย่อคำบรรยาย" : "ดูรายละเอียดเพิ่มเติม";
 
-  const tags = (Array.isArray(job?.skills) && job.skills.length ? job.skills : job?.metadata) || [];
+  const tags = Array.isArray(job?.skills) ? job.skills : [];
   el.skillTags.innerHTML = tags.length
     ? tags.map((tag) => `<span class="tag skill-tag">${escapeHtml(tag)}</span>`).join("")
     : `<span class="tag">ยังไม่มีข้อมูลทักษะ</span>`;
@@ -455,7 +444,7 @@ function escapeHtml(value) {
 async function loadTemplateData() {
   try {
     const [jobResponse, studentResponse] = await Promise.all([
-      fetch("./master_key_postings.csv"),
+      fetch("./posting_BLIND_for_experts.csv"),
       fetch("./roster_BLIND_for_experts.csv")
     ]);
     if (!jobResponse.ok || !studentResponse.ok) throw new Error("ไม่พบไฟล์ template ในโฟลเดอร์เว็บ");
@@ -465,7 +454,7 @@ async function loadTemplateData() {
     state.ratings.clear();
     state.selectedCandidate = "";
     state.descriptionExpanded = false;
-    el.uploadStatus.textContent = `โหลด master_key_postings.csv (${state.jobs.length}/4 ประกาศ) และ roster_BLIND_for_experts.csv (${allCandidates().length} คน) แล้ว`;
+    el.uploadStatus.textContent = `โหลด posting_BLIND_for_experts.csv (${state.jobs.length}/4 ประกาศ) และ roster_BLIND_for_experts.csv (${allCandidates().length} คน) แล้ว`;
     renderAll();
   } catch (error) {
     el.uploadStatus.textContent = `${error.message} กำลังใช้ข้อมูลตัวอย่าง`;
